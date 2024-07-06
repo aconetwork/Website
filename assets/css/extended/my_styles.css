@@ -1,0 +1,118 @@
+/* themes/PaperMod/assets/css/core/theme-vars.css */
+:root {/*
+    --gap: 24px;
+    --content-gap: 20px;
+    --nav-width: 1024px;
+    --main-width: 720px;
+    --header-height: 60px;
+    --footer-height: 60px;
+    --radius: 8px;
+    --theme: rgb(255, 255, 255);
+    --entry: rgb(255, 255, 255);
+    --primary: rgb(30, 30, 30);
+    --secondary: rgb(108, 108, 108);
+    --tertiary: rgb(214, 214, 214);
+    --content: rgb(31, 31, 31);*/
+    --code-block-bg: rgb(221 245 217);
+    --code-font-color: rgb(32, 32, 32);
+    --code-bg: rgb(255, 255, 255);
+    --theme-header: rgb(245, 245, 245);/*
+    --border: rgb(238, 238, 238);*/
+}
+
+.dark {/*
+    --theme: rgb(29, 30, 32);
+    --entry: rgb(46, 46, 51);
+    --primary: rgb(218, 218, 219);
+    --secondary: rgb(155, 156, 157);
+    --tertiary: rgb(65, 66, 68);
+    --content: rgb(196, 196, 197);*/
+    --code-block-bg: rgb(61 101 55);
+    --code-font-color: rgb(226, 226, 226);
+    --code-bg: rgb(55, 56, 62);
+    --theme-header: rgb(55, 56, 62);/*
+    --border: rgb(51, 51, 51);*/
+}
+
+/* Adding background color to header navigation */
+.header {
+    background-color: var(--theme-header);
+}
+
+/* Setting color for em : themes/PaperMod/assets/css/common/post-single.css */
+.post-content em {
+    color: var(--secondary);
+}
+
+.post-content pre code {
+    /*display: grid;
+    margin: auto 0;
+    padding: 10px;*/
+    color: var(--code-font-color) !important;/*
+    background: var(--code-block-bg) !important;
+    border-radius: var(--radius);
+    overflow-x: auto;
+    word-break: break-all;*/
+}
+
+/* Shift -2% logo instead -10% : /themes/PaperMod/assets/css/common/header.css */
+.logo a img, .logo a svg {
+    display: inline;
+    vertical-align: middle;
+    pointer-events: none;
+    transform: translate(0,-2%);
+    border-radius: 6px;
+    margin-inline-end: 8px;
+}
+
+/* Shift -2% logo instead -10% : /home/aco/aconet-site/themes/PaperMod/assets/css/common/post-single.css */
+.post-content img {
+    display: inline-block;
+    border-radius: 0px;
+    margin: 0 0 0 0;
+}
+
+/* Cookie consent stuff */
+#consent-notice {padding: 1rem 1rem; display: none; text-align: center; position: fixed; bottom: 0; width: calc(100%); background: #222; color: rgba(255,255,255,0.8);}
+    #consent-notice span {margin-right: 1rem;}
+    #consent-notice button {cursor: pointer; display: inline-block; width: auto;}
+    #consent-notice span a {color: inherit; text-decoration: underline; text-decoration-color: rgba(255,255,255,0.5);}
+    #consent-notice button.btn {margin-left: 0.5rem; padding: 0px 0.5em 0 0.5em; color: darkgray}
+    #consent-notice button.btn.manage-consent {background: rgba(255,255,255,0.1); font-weight: normal;}
+    #consent-notice button.btn.deny-consent {
+        background: rgb(211, 0, 0);
+        font-weight: bold;
+        color: rgba(255,255,255,0.8);
+        text-decoration: none;
+        padding: 0.35rem 0.7rem;
+        border: 0;
+        cursor: pointer;
+        border-radius: 0.25rem;
+    }
+    #consent-notice button.btn.approve-consent {
+        background: rgb(0, 172, 37);
+        font-weight: bold;
+        color: rgba(255,255,255,0.8);
+        text-decoration: none;
+        padding: 0.35rem 0.7rem;
+        border: 0;
+        cursor: pointer;
+        border-radius: 0.25rem;
+    }
+    
+    #consent-overlay {position: fixed; left: 0; top: 0; width: 100%; height: 100vh; display: none; background: rgba(0,0,0,0.75); z-index: 999999; overflow: auto; cursor: pointer;}
+    #consent-overlay.active {display: flex;}
+    #consent-overlay > div {background: white; width: 100%; max-width: 30rem; padding: 1.75rem; margin: auto; cursor: initial;}
+    #consent-overlay > div > div {display: flex; align-items: flex-start; margin-bottom: 1rem;}
+    #consent-overlay > div > div:last-child {margin: 0;}
+    #consent-overlay h3 {padding-top: 0;}
+    #consent-overlay input {margin-top: 0.3rem;}
+    #consent-overlay label {display: block;}
+    #consent-overlay .btn {margin-right: 0.5rem;}
+    #consent-overlay button.btn.save-consent {background: rgba(0,0,0,0.6); font-weight: normal;}
+
+    @media (max-width: 767px) {
+        #consent-overlay > div {padding: 1.75rem 1rem;}
+        #consent-notice span {display: block; padding-top: 3px; margin-bottom: 1.5rem;}
+        #consent-notice button.btn {position: relative; bottom: 4px; padding: 0px 0.5em 0 0.5em; color: darkgray}
+    }

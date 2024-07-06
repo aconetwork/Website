@@ -1,0 +1,54 @@
+- id: prev_page
+  translation: "Prev"
+
+- id: next_page
+  translation: "Next"
+
+- id: read_time
+  translation:
+    one : "1 min"
+    other: "{{ .Count }} min"
+
+- id: words
+  translation:
+    one : "word"
+    other: "{{ .Count }} words"
+
+- id: toc
+  translation: "Table of Contents"
+
+- id: translations
+  translation: "Translations"
+
+- id: home
+  translation: "Home"
+
+- id: edit_post
+  translation: "Edit"
+
+- id: code_copy
+  translation: "copy"
+
+- id: code_copied
+  translation: "copied!"
+
+- id: click_see_arch
+  translation: "Click here to see the guides archive! "
+
+- id: archives_cap
+  translation: "ARCHIVES"
+
+- id: cookie_txt
+  translation: "We would like to use third party code to improve the functionality of this website."
+
+- id: cookie_btn_allow_all
+  translation: "Allow all"
+
+- id: cookie_btn_allow
+  translation: "Allow"
+
+- id: cookie_btn_deny
+  translation: "Deny"
+
+- id: cookie_btn_save_pref
+  translation: "Save preferences"

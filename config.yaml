@@ -1,0 +1,243 @@
+﻿baseURL: "https://aconetwork.net"
+languageCode: en-us
+title: ACOnetwork
+theme: ["PaperMod"]
+
+params:
+  ShowFullTextinRSS: false
+
+  homeInfoParams:
+    Title: "Hello stranger 👋"
+    Content: "Welcome to my site :D."
+  socialIcons:    
+    - name: youtube
+      title: YouTube
+      url: "https://www.youtube.com/aconetwork"
+    - name: youtube
+      title: YouTube Play
+      url: "www.youtube.com/channel/UCRSzAkEg2pLRTZi5bf-B34g"
+    - name: twitch
+      title: Twitch
+      url: "https://www.twitch.tv/aconetwork1"
+    - name: trovo
+      title: Trovo
+      url: "https://trovo.live/aconetwork"
+    - name: twitter
+      title: X (Twitter)
+      url: "https://www.x.com/aconetwork"
+    - name: instagram
+      title: Instagram
+      url: "https://www.instagram.com/aconetwork"
+    - name: discord
+      title: Discord
+      url: "https://discord.gg/4GpKeAn"
+    - name: github
+      title: Github
+      url: "https://github.com/aconetwork"
+    - name: "rss"
+      url: "https://aconetwork.net/index.xml"
+
+  label:
+    text: ""
+    icon: /Nav_logo.png
+    iconHeight: 60
+
+  assets:
+    favicon: favicon.ico
+    favicon16x16: favicon-16x16.png
+    favicon32x32: favicon-32x32.png
+    apple_touch_icon: apple-touch-icon.png
+
+  DateFormat: "2 January, 2006"
+    
+  ShowPostNavLinks: true # Show next/previous buttons
+  ShowBreadCrumbs: true
+
+DefaultContentLanguage: "en"
+defaultContentLanguageInSubdir: false
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      categories: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - identifier: home
+          name: "Home"
+          url: /
+          weight: 10
+        - identifier: tags
+          name: "Guides"
+          url: tags/
+          weight: 20
+        - identifier: search
+          name: "Search"
+          url: search/
+          weight: 30
+        #- identifier: archives
+        #  name: "Archives"
+        #  url: archives/
+        #  weight: 40
+        - identifier: aboutme
+          name: "About me"
+          url: aboutme/
+          weight: 50
+        - identifier: rss
+          name: "RSS"
+          url: "https://aconetwork.net/index.xml"
+
+        # - name: WiKi
+          #  url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+    params:
+      profileMode:
+        # Enabled or not
+        enabled: true
+        title: "Hello visitor 👋"
+        subtitle: |
+          My name is Allesandro where many knows me under the nickname ACO. 
+          
+          &nbsp;
+          
+          Since february 2017 I have been making [YouTube videos (mostly tutorials)](https://www.youtube.com/aconetwork "Click/tap to visit channel ACOnetwork!"), 
+          in July 2018 started live streams on the [Twitch](https://www.twitch.tv/aconetwork1 "Click/tap to visit Twitch!"). 
+          After that expanded streams to [Trovo](https://trovo.live/aconetwork "Click/tap to visit Trovo!") and 
+          [secondary YouTube channel ACOnetPlay](https://www.youtube.com/channel/UCRSzAkEg2pLRTZi5bf-B34g "Click/tap to visit ACOnetPlay!"). 
+          For health reasons creating content is very limited but for more info visit [About me](/aboutme/ "Click/tap to visit page About me!") page.
+          
+          &nbsp;
+
+          You can get in contact with me on the social links bellow.
+        imageUrl: Drawed_me.png
+        imageWidth: 120
+        imageHeight: 130
+        buttons:
+          - name: Guides
+            url: tags/
+          - name: About me
+            url: aboutme/
+
+  sl:
+    languageName: "Slovenski"
+    weight: 2
+    taxonomies:
+      categories: categories
+      tag: tags
+      series: serijal
+    menu:
+      main:
+        - identifier: home
+          name: "Domov"
+          url: /
+          weight: 10
+        - identifier: tags
+          name: "Vodiči"
+          url: tags/
+          weight: 20
+        - identifier: search
+          name: "Iskanje"
+          url: search/
+          weight: 30
+        #- identifier: archives
+        #  name: "Arhiv"
+        #  url: archives/
+        #  weight: 40
+        - identifier: aboutme
+          name: "O meni"
+          url: aboutme/
+          weight: 50
+    params:
+      profileMode:
+        # Enabled or not
+        enabled: true
+        title: "Pozdravljen obiskovalec 👋"
+        subtitle: |
+          Moje ime je Allesandro, mnogi pa me poznajo pod vzdevkom ACO.
+
+          &nbsp;
+
+          Od februarja 2017 ustvarjam [YouTube videje (večinoma vodiče)](https://www.youtube.com/aconetwork "Kliknite/tapnite za obisk kanala ACOnetwork!"),
+          julija 2018 začel s oddajanji v živo na [Twitch](https://www.twitch.tv/aconetwork1 "Kliknite/tapnite za obisk Twitch!").
+          Po tem razširjena oddajanja na [Trovo](https://trovo.live/aconetwork "Kliknite/tapnite za obisk Trovo!") in
+          [sekundarni YouTube kanal ACOnetPlay](https://www.youtube.com/channel/UCRSzAkEg2pLRTZi5bf-B34g "Kliknite/tapnite za obisk ACOnetPlay!").
+          Iz zdravstvenih razlogov je ustvarjanje vsebine zelo omejeno, vendar za več informacij obiščite stran 
+          [O meni](/aboutme/ "Kliknite/tapnite za obisk strani O meni!").
+
+          &nbsp;
+
+          Z mano lahko stopite v stik na spodnjih socialnih povezavah.
+        imageUrl: Drawed_me.png
+        imageWidth: 120
+        imageHeight: 130
+        buttons:
+          - name: Vodiči
+            url: tags/
+          - name: O meni
+            url: aboutme/
+
+  sr-latn:
+    languageName: "Srpski"
+    languageCode: sr-Latn
+    languageDirection: ltr
+    weight: 3
+    taxonomies:
+      categories: categories
+      tags: tags
+      series: series
+    menu:
+      main:
+        - identifier: home
+          name: "Kuči"
+          url: /
+          weight: 10
+        - identifier: tags
+          name: "Tutorijali"
+          url: tags/
+          weight: 20
+        - identifier: search
+          name: "Traženje"
+          url: search/
+          weight: 30
+        #- identifier: archives
+        #  name: "Arhiva"
+        #  url: archives/
+        #  weight: 40
+        - identifier: aboutme
+          name: "O meni"
+          url: aboutme/
+          weight: 50
+    params:
+      profileMode:
+        # Enabled or not
+        enabled: true
+        title: "Zdravo posetiac 👋"
+        subtitle: |
+          Moje ime je Allesandro gde me mnogi znaju pod nadimkom ACO. 
+
+          &nbsp;
+
+          Od februara 2017 pravim videje na [YouTube-u (uglavnom tutorijale)](https://www.youtube.com/aconetwork "Kliknite/tapnite da posetite kanal ACOnetwork!"), u julu 2018 započeo sam striming uživo na 
+          [Twitch](https://www.twitch.tv/aconetwork1 "Kliknite/tapnite da posetite Twitch!"). 
+          Nakon toga prošireni strimovi na [Trovo](https://trovo.live/aconetwork "Kliknite/tapnite da posetite Trovo!") i 
+          [sekundarni IouTube kanal ACOnetPLAY](https://www.youtube.com/channel/UCRSzAkEg2pLRTZi5bf-B34g "Kliknite/tapnite da biste posetili ACOnetPLAY!"). 
+          Iz zdravstvenih razloga kreiranje sadržaja je veoma ograničeno, ali za više informacija posetite stranicu [O meni](/aboutme/ "Kliknite/tapnite da posetite stranicu O meni!").
+          
+          &nbsp;
+
+          Možete stupiti u kontakt sa mnom na društvenim vezama ispod.
+        imageUrl: Drawed_me.png
+        imageWidth: 120
+        imageHeight: 130
+        buttons:
+          - name: Tutorijali
+            url: tags/
+          - name: O meni
+            url: aboutme/
+outputs:
+    home:
+      - HTML
+      - RSS
+      - JSON # is necessary

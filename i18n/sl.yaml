@@ -1,0 +1,54 @@
+- id: prev_page
+  translation: "Prejšnja"
+
+- id: next_page
+  translation: "Naslednja"
+
+- id: read_time
+  translation:
+    one : "1 min"
+    other: "{{ .Count }} min"
+
+- id: words
+  translation:
+    one : "beseda"
+    other: "{{ .Count }} besed"
+
+- id: toc
+  translation: "Kazalo"
+
+- id: translations
+  translation: "Prevodi"
+
+- id: home
+  translation: "Domov"
+
+- id: edit_post
+  translation: "Uredi"
+
+- id: code_copy
+  translation: "kopiraj"
+
+- id: code_copied
+  translation: "kopirano!"
+
+- id: click_see_arch
+  translation: "Kliknite tukaj za ogled arhivo vodičev!"
+
+- id: archives_cap
+  translation: "ARHIV"
+
+- id: cookie_txt
+  translation: "Za izboljšanje funkcionalnosti tega spletnega mesta želimo uporabiti kodo tretjih oseb."
+
+- id: cookie_btn_allow_all
+  translation: "Dovoli vse"
+
+- id: cookie_btn_allow
+  translation: "Dovoli"
+
+- id: cookie_btn_deny
+  translation: "Zavrni"
+
+- id: cookie_btn_save_pref
+  translation: "Shrani nastavitve"

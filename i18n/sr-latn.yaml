@@ -1,0 +1,54 @@
+- id: prev_page
+  translation: "Prošla"
+
+- id: next_page
+  translation: "Sledeča"
+
+- id: read_time
+  translation:
+    one : "1 min"
+    other: "{{ .Count }} min"
+
+- id: words
+  translation:
+    one : "reč"
+    other: "{{ .Count }} reči"
+
+- id: toc
+  translation: "Pregled sadržaja"
+
+- id: translations
+  translation: "Prevodi"
+
+- id: home
+  translation: "Kuči"
+
+- id: edit_post
+  translation: "Uredi"
+
+- id: code_copy
+  translation: "kopiraj"
+
+- id: code_copied
+  translation: "kopirano!"
+
+- id: click_see_arch
+  translation: "Kliknite ovde, da si pogledate arhivu tutorijala!"
+
+- id: archives_cap
+  translation: "ARHIV"
+
+- id: cookie_txt
+  translation: "Želeli bismo da koristimo kod treće strane da poboljšamo funkcionalnost ove veb stranice."
+
+- id: cookie_btn_allow_all
+  translation: "Dozvoli sve"
+
+- id: cookie_btn_allow
+  translation: "Dozvoli"
+
+- id: cookie_btn_deny
+  translation: "Ne dozvoli"
+
+- id: cookie_btn_save_pref
+  translation: "Sačuvaj podešavanja"
