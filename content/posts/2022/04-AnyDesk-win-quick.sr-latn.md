@@ -1,7 +1,7 @@
 ---
 title: "AnyDesk daljinsko upravljanje - osnovna priprema na Windows-u"
 date: 2022-04-09T18:00:00+02:00
-url: /AnyDesk-osnova-sh/
+url: /AnyDesk-osnova-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
   - kako
