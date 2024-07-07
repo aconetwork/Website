@@ -9,8 +9,3 @@ hugo.linux
 
 # Temporary lock file while building
 .hugo_build.lock
-
-# Other
-node_modules
-dist
-tmp
