@@ -16,6 +16,7 @@ tags:
   - Android
 showtoc: false  # Table of content: Hide (false) or show (true)
 draft: true  # Draft: Show (false) or hide (true)
+language: "English"
 ---
 
 

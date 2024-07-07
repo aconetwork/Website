@@ -14,6 +14,7 @@ tags:
   - diagnoza
 showtoc: true  # Table of content to hide (false) or show (true).
 draft: false  # Show (false) or hide (true) on page.
+language: "Slovenski"
 ---
 
 Pozdravljeni vsi. Danes je moja izkušnja in informacije o diagnozi *Arnold Kiari Malformacija tipa 1* (angleško *Arnold Chiari Malformation type 1*, kratko: *ACM*) ter *bolezen Filuma* (angleško *Filum Dissease*), operacija *Filum Terminale* ter *dekompresijska operacija* (angleško *decompression surgery*), simptomi, stanje in še veliko več. Preverite [povezave](#povezave "Kliknite/tapnite za skok na razdelek s povezavami!") za dodatne informacije.

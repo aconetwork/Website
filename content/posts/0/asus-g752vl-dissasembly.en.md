@@ -13,6 +13,7 @@ tags:
   - dissasembly
 showtoc: false  # Table of content to hide (false) or show (true).
 draft: true  # Show (false) or hide (true) on page.
+language: "English"
 ---
 
 This guide is a bottom part dissasembly of gaming laptop Asus ROG G752VL, then cleanup and thermal paste replacement. Do this if you feel comftable doing this because it is not simple process and if you are not jut give someone to do it for you. I suggest doing this every 3 to 5 years where it depends of almount of usage and thermal paste quality how fast it will dry out. When you start the process, go slowly and carefully where it takes longer time but there is less posibility for the mistakes. Electronic has a ton of components with connectors, wires, ... and you can for example knock off some tiny component and laptop can stop working. **SO AGAIN** be carefull and good luck 😁.

@@ -10,6 +10,7 @@ tags:
   - Mozilla Firefox
 showtoc: true  # Tabela sadržaja: Sakriti (false) ili pokazati (true).
 draft: false   # Prikaz na javnoj stranici: Prikaz (false) ili sakriti (true).
+language: "Srpski"
 ---
 
 Hajde da podesimo veličinu fonta u Firefox-u i promenimo ikonu fascikla obeleživača. **Pre** nego što to uradite, budite sigurni:

@@ -12,6 +12,7 @@ tags:
   - portable
 showtoc: false
 draft: false
+language: "English"
 ---
 
 ## Download & open AnyDesk (portable mode)

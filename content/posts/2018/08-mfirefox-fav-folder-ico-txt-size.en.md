@@ -10,6 +10,7 @@ tags:
   - Mozilla Firefox
 showtoc: true  # Table of content: Hide (false) or show (true)
 draft: false  # Draft: Show (false) or hide (true) on page
+language: "English"
 ---
 
 Let's set Firefox font size and change bookmarks folder icons. **Before** you do this be sure that:

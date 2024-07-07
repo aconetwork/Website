@@ -16,6 +16,7 @@ tags:
   - Android
 showtoc: false  # Seznam vsebine: Skriti (false) ali prikazati (true)
 draft: true  # Prikaz na javni strani: Prikaz (false) ali skriti (true)
+language: "Slovenski"
 ---
 
 

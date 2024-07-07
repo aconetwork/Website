@@ -14,6 +14,7 @@ tags:
   - diagnosis
 showtoc: true  # Table of content to hide (false) or show (true).
 draft: false  # Show (false) or hide (true) on page.
+language: "English"
 ---
 
 Hello to everyone. Today is my jurney and info of the diagnosis *Arnold Chiari Malformation type 1* (short: *ACM*) and *Filum Dissease*, *decompression surgery*, surgery *Filum Terminale*, symptoms, status and much more. Check [Links](#links "Click/tap to jump to the video section!") with my video jurney and other resources. 

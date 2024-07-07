@@ -10,6 +10,7 @@ tags:
   - windows update blocker
 showtoc: false  # Table of content to hide (false) or show (true).
 draft: false  # Show (false) or hide (true) on page.
+language: "English"
 ---
 
 With tiny program Windows Update Blocker (WUB) by [Sordum](https://www.sordum.org/ "Click/tap to visit website Sordum!") you can disable Windows updates but you also disable Microsoft Store with it. 

@@ -10,6 +10,7 @@ tags:
   - Mozilla Firefox
 showtoc: true  # Seznam vsebine: Skriti (false) ali prikazati (true)
 draft: false  # Prikaz na javni strani: Prikaz (false) ali skriti (true)
+language: "Slovenski"
 ---
 
 Pa nastavimo velikost pisave Firefoxa in spremenimo ikone map z zaznamki. **Preden** to storite, se prepričajte:

@@ -14,6 +14,7 @@ tags:
   - diagnoza
 showtoc: true  # Table of content to hide (false) or show (true).
 draft: false  # Show (false) or hide (true) on page.
+language: "Srpski"
 ---
 
 Zdravo svima. Danas je moj put i informacije o dijagnozi *Arnold Chiari Malformation type 1* (engleski *Arnold Chiari Malformation type 1*, kratko: *ACM*) i *Bolest Filuma* (engleski *Filum Dissease*), o operaciji *Filum Terminale* i *dekompresijski operaciji* (engleski *decompression surgery*), simptomi, status i još mnogo toga. Proverite [Linkovi](#linkovi "Kliknite/tapnite da biste prešli na odeljak sa linkovima!") za dodatne informacije.

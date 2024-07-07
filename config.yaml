@@ -1,14 +1,16 @@
 ﻿baseURL: "https://aconetwork.net"
 languageCode: en-us
-title: ACOnetwork
+title: "ACOnetwork site"
 theme: ["PaperMod"]
 
 params:
   ShowFullTextinRSS: false
+  Description: "Website for tutorials, videos, info and more."
 
   homeInfoParams:
     Title: "Hello stranger 👋"
     Content: "Welcome to my site :D."
+
   socialIcons:    
     - name: youtube
       title: YouTube
@@ -93,6 +95,7 @@ languages:
         # - name: WiKi
           #  url: https://github.com/adityatelange/hugo-PaperMod/wiki/
     params:
+      Description: "Website for tutorials, videos, info and more."
       profileMode:
         # Enabled or not
         enabled: true
@@ -150,6 +153,7 @@ languages:
           url: aboutme/
           weight: 50
     params:
+      Description: "Stran s vodiči, videi, informacijami in več."
       profileMode:
         # Enabled or not
         enabled: true
@@ -210,6 +214,7 @@ languages:
           url: aboutme/
           weight: 50
     params:
+      Description: "Stranica sa tutorijalima, videjima, informacijama i više."
       profileMode:
         # Enabled or not
         enabled: true

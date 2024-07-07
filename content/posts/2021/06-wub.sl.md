@@ -10,6 +10,7 @@ tags:
   - blokiranje Windows posodobitev
 showtoc: false  # Table of content to hide (false) or show (true).
 draft: false  # Show (false) or hide (true) on page.
+language: "Slovenski"
 ---
 
 Z majhnim programom *Windows Update Blocker* (kratko WUB) proizvajalca [Sordum](https://www.sordum.org/ "Kliknite/tapnite za obisk strani Sordum!") lahko onemogočite posodobitve sistema Windows, vendar z njim onemogočite tudi trgovino *Microsoft Store*.
