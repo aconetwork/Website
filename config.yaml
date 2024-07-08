@@ -15,15 +15,15 @@ params:
     - name: youtube
       title: YouTube
       url: "https://www.youtube.com/aconetwork"
-    - name: youtube
-      title: YouTube Play
-      url: "www.youtube.com/channel/UCRSzAkEg2pLRTZi5bf-B34g"
     - name: twitch
       title: Twitch
       url: "https://www.twitch.tv/aconetwork1"
     - name: trovo
       title: Trovo
       url: "https://trovo.live/aconetwork"
+    - name: youtube
+      title: YouTube Play (LIVE)
+      url: "www.youtube.com/channel/UCRSzAkEg2pLRTZi5bf-B34g"
     - name: twitter
       title: X (Twitter)
       url: "https://www.x.com/aconetwork"
@@ -91,6 +91,7 @@ languages:
         - identifier: rss
           name: "RSS"
           url: "https://aconetwork.net/index.xml"
+          weight: 60
 
         # - name: WiKi
           #  url: https://github.com/adityatelange/hugo-PaperMod/wiki/
@@ -152,6 +153,10 @@ languages:
           name: "O meni"
           url: aboutme/
           weight: 50
+        - identifier: rss
+          name: "RSS"
+          url: "https://aconetwork.net/index.xml"
+          weight: 60
     params:
       Description: "Stran s vodiči, videi, informacijami in več."
       profileMode:
@@ -213,6 +218,10 @@ languages:
           name: "O meni"
           url: aboutme/
           weight: 50
+        - identifier: rss
+          name: "RSS"
+          url: "https://aconetwork.net/index.xml"
+          weight: 60
     params:
       Description: "Stranica sa tutorijalima, videjima, informacijama i više."
       profileMode:
