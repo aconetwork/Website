@@ -1,6 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
+# publishDate: {{ .Date }}
 url: /{{ .Name }}/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 

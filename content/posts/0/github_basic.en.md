@@ -5,9 +5,7 @@ url: /01-github-connect/
 # image: images/2024-thumbs/01-asus-g752vl-dissasembly.jpg
 categories: 
   - how to
-  - AFT
 tags: 
-  - AFT
   - how to
   - laptop
   - dissasembly

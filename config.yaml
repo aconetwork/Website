@@ -23,7 +23,7 @@ params:
       url: "https://trovo.live/aconetwork"
     - name: youtube
       title: YouTube Play (LIVE)
-      url: "www.youtube.com/channel/UCRSzAkEg2pLRTZi5bf-B34g"
+      url: "https://www.youtube.com/@aconetplay"
     - name: twitter
       title: X (Twitter)
       url: "https://www.x.com/aconetwork"
@@ -255,3 +255,4 @@ outputs:
       - HTML
       - RSS
       - JSON # is necessary
+

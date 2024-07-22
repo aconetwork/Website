@@ -7,7 +7,6 @@ categories:
   - how to
   - AFT
 tags: 
-  - AFT
   - how to
   - laptop
   - dissasembly

@@ -68,7 +68,7 @@ Nakon što izvršite izmene, **UVEK** sačuvajte promene u datoteci, inače ih F
 
 Hajde da dekonstruišemo gornji kod ispod... .
 
-### Prvi deo je da izaberete ikonu fascikle sa obeleživačima:
+### Prvi deo: da izaberete ikonu fascikle sa obeleživačima:
 
     /* Promena svih ikona fascikla obeleživača */
     .bookmark-item[container] {
@@ -93,7 +93,7 @@ Ovaj kod podesi jednu ikonu za sve fascikle ali u slučaju da želite da promeni
         list-style-image: url('Druga ikona fascikle.png') !important;
     }
 
-### Drugi deo je podešavanje globalne veličine teksta za Firefox:
+### Drugi deo: podešavanje globalne veličine teksta za Firefox:
 
     /* Globalna veličina teksta Firefox-a */
     * { font-size: 12pt !important; }

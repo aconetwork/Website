@@ -68,7 +68,7 @@ After you make the changes **ALWAYS** save the changes to a file othervise Firef
 
 Let's deconstruct above code bellow... . 
 
-### First section is to select the bookmarks folders icon:
+### First part: to select the bookmarks folders icon
 
     /* Changing all bookmarks folder icons */
     .bookmark-item[container] {
@@ -93,7 +93,7 @@ This code sets one icon for all of the folders but in case you want to change in
         list-style-image: url('Second_folder_icon.png') !important;
     }
 
-### Second part is to set the global Firefox text size:
+### Second part: to set the global Firefox text size
 
     /* Global UI font */
     * { font-size: 12pt !important; }

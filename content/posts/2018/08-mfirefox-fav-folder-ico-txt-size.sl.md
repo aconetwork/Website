@@ -69,7 +69,7 @@ Ko naredite spremembe **VEDNO** shranite spremembe v datoteko, sicer jih Firefox
 
 Dekonstruirajmo zgornjo kodo v nadaljevanju... .
 
-### Prvi del je izbira ikone map zaznamkov:
+### Prvi del: izbira ikone map zaznamkov
 
     /* Mapa z zaznamki uporabniškega vmesnika */
     .bookmark-item[container] {
@@ -94,7 +94,7 @@ Ta koda spremeni vse mape zaznamkov s enako ikono vendar v primeru, če želite 
         list-style-image: url('Ikona druge mape.png') !important;
     }
 
-### Drugi del je nastavitev globalne velikosti besedila Firefox:
+### Drugi del: nastavitev globalne velikosti besedila Firefox
 
     /* Globalna pisava uporabniškega vmesnika */
     * { font-size: 12pt !important; }
