@@ -13,4 +13,21 @@ Zaradi zdravstvenih težav trenutno ustvarjam komaj kaj vsebine, a zaradi okreva
 
 ## Kje me najdete?
 
-Na mojem glavnem kanalu YouTube ![](/images/social-logos/YouTube.png) [ACOnetwork](https://www.youtube.com/aconetwork "Kliknite/tapnite da odprete moj kanal YouTube!") lahko poiščite vodiče, nasvete, trike, ocene, popravila in še več. Oddajanja v živo izvajam predvsem na ![](/images/social-logos/Twitch.png) [Twitch](https://www.twitch.tv/aconetwork1 "Kliknite/tapnite da odprete moj kanal Twitch!") vendar tudi ... vsaj za zdaj pretakanje hkrati tudi na ![](/images/social-logos/Trovo.png) [Trovo](https://trovo.live/aconetwork "Kliknite/tapnite da odprete moj kanal Trovo!") in moj sekundarni YouTube kanal ![](/images/social-logos/YouTube.png) [ACOnetplay](https://aconetplay.ddns.net "Kliknite/tapnite da odprete moj sekundarni kanal YouTube!"). Obstaja tudi ![](/images/social-logos/Twitter.png) [X (Twitter)](https://www.x.com/aconetwork "Kliknite/tapnite da odprete moj X (Twitter)!" ), ![](/images/social-logos/Instagram.png) [Instagram](https://www.instagram.com/aconetwork "Kliknite/tapnite da odprete moj Instagram!") in ![](/images/social-logos/Discord.png) [Discord](https://discord.gg/4GpKeAn "Kliknite/tapnite da odprete moj strežnik Discord!").
+- ![](/images/social-logos/YouTube.png) [ACOnetwork](https://www.youtube.com/aconetwork "Kliknite/tapnite, da odprete moj kanal na YouTube!") - glavni kanal v YouTubu, ki ga najdete vadnice, nasvete, trike, ocene, popravila in še več
+- ![](/images/social-logos/Twitch.png) [Twitch](https://www.twitch.tv/aconetwork1 "Kliknite/tapnite, da odprete moj kanal na Twitch!"), ![]( /images/social-logos/Trovo.png) [Trovo](https://trovo.live/aconetwork "Kliknite/tapnite, da odprete moj kanal na Trovo!") in sekundarni kanal YouTube ![](/images/social-logos/YouTube.png) [ACOnetplay](https://youtube.com/@aconetplay "Kliknite/tapnite, da odprete moj sekundarni kanal na YouTube!") - oddajanja v živo na vseh platformah hkrati (za enkrat)
+- ![](/images/social-logos/Twitter.png) [X (Twitter)](https://www.x.com/aconetwork "Klikni/tapni me, da odpreš moj X (Twitter)!")
+- ![](/images/social-logos/Instagram.png) [Instagram](https://www.instagram.com/aconetwork "Klikni/tapni me, da odpreš moj Instagram!")
+- ![](/images/social-logos/Discord.png) [Discord](https://discord.gg/4GpKeAn "Klikni/tapni me, da odpreš moj strežnik Discord!")
+
+## Strojna in programska oprema
+
+Moja strojna oprema ni nič posebnega, prenosnik se muči pri igrah in več kot pri osnovnem urejanju/animacijah videa. Pametni telefoni, ki jih uporabljam za snemanje videoposnetkov v 1080p in tudi kot mikroskop z [DroidCam OBS](https://droidcam.app/obs/ "Kliknite/tapnite za obisk strani DroidCam OBS - Dev47Apps!") brezžično (lahko tudi prek USB-ja) v [OBS Studio](https://obsproject.com/ "Kliknite/tapnite za obisk strani OBS Studio!"), snemanje zvoka, ... .
+
+**Moja strojna oprema:**
+ 
+  - [Asus ROG G752VL](https://laptopmedia.com/laptop-specs/asus-rog-g752vl "Kliknite/tapnite za ogled več specifikacij!") prenosnik, Intel Core i7-6700HQ, NVIDIA GeForce GTX 965M (2 GB GDDR5) , 16 GB DDR4 2133 MHz, 2xNVMe SSD - za vse delo ... premalo zmogljiv, a to je tisto, kar imam 🙂
+  - [Xiaomi mi Note 10 Lite](https://www.gsmarena.com/xiaomi_mi_note_10_lite-10183.php "Kliknite/tapnite za ogled več specifikacij!") (pametni telefon)
+  - [Xiaomi Redmi Note 11](https://www.gsmarena.com/xiaomi_redmi_note_11-11336.php "Kliknite/tapnite za ogled več specifikacij!") (pametni telefon)
+  - [Logitech C310](https://www.logitech.com/en-us/products/webcams/c310-hd-webcam.960-000585.html "Kliknite/tapnite se za obisk strani Logitech!") (spletna kamera, 720p, USB 2.0)
+
+Moj glavni Operacijski Sistem (OS) je Windows 10 pro 64-bitni, vendar se tu in tam učim Linux Mint, kjer je med drugim nastala ta spletna stran 😁.

@@ -8,7 +8,7 @@ categories:
   - AFT
 tags: 
   - how to
-  - laptop
+  - hardware
   - dissasembly
 showtoc: false  # Table of content to hide (false) or show (true).
 draft: true  # Show (false) or hide (true) on page.

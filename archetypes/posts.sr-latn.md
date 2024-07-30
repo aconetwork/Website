@@ -9,12 +9,15 @@ categories:
   - AST
   - AFT
   - ART
+  - WIT
   - zdravlje
 tags: 
   - Windows
   - Linux
   - Ubuntu
   - Android
+  - Šta je to
+  - hardver
 showtoc: false  # Tabela sadržaja: Sakriti (false) ili pokazati (true).
 draft: true   # Prikaz na javnoj stranici: Prikaz (false) ili sakriti (true).
 language: "Srpski"
@@ -22,11 +25,12 @@ language: "Srpski"
 
 
 
-## Tutorijal u drugim jezicima
+## Ovaj tutorijal u drugim jezicima
 
 - [Slovenski (slovenački)](// "Kliknite/tapnite za obisk! Kliknite/tapnite da otvorite!")
 - [English (engleski)](// "Click/tap to open! Kliknite/tapnite da otvorite!")
 
 ## Video tutorijal
-
+<!--
 {{< youtube "" >}}
+-->
