@@ -9,6 +9,8 @@ summary: "o meni"
 
 Ja sam momak koji je iz Slovenije i većina me zna pod nadimkom ACO. Kao uglavnom kreator tehničkog sadržaja, pravim [tutorijale](/sr-latn/tags/ "Kliknite/tapnite, da otvorite sajt!"), delim [trikove i savete](/sr-latn/tags/ "Kliknite/tapnite, da otvorite sajt!"), striming uživo i još mnogo toga. Svi moji ![](/images/social-logos/YouTube.png) videi su na 3 jezika (*english* (*engleski*), *slovenski* (*slovenački*) i *srpski*) gde svaki jezik ima svoj video ili jedan video sa uključenim titlovima.
 
+Zbog zdravstvenih problema trenutno ne pravim skoro nikakav sadržaj, ali zbog oporavka moje zdravlje se polako popravlja tako da mogu da radim sve više i više uključujući sadržaje za vas. Ako ste zainteresovani za zdravstvene probleme [kliknite ovde za više informacija](/filum-acm-sr/ "Kliknite/tapnite da otvorite!").
+
 ## Gde me može nađete?
 
 - ![](/images/social-logos/YouTube.png) [ACOnetwork](https://www.youtube.com/aconetwork "KlKliknite/tapnite, da otvorite moj kanal na YouTube!") - glavni YouTube kanal, gde možete pronaći tutorijale, savete, trikove, recenzije, popravke i još mnogo toga.
