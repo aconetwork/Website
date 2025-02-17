@@ -24,7 +24,7 @@ params:
     - name: youtube
       title: YouTube Play (LIVE / V ŽIVO / U ŽIVO)
       url: "https://www.youtube.com/@aconetplay"
-    - name: twitter
+    - name: X
       title: X (Twitter)
       url: "https://www.x.com/aconetwork"
     - name: instagram

@@ -60,31 +60,31 @@
   translation: "OZNAKE"
 
 - id: series_abt_title_logo
-  translation: "Aco sestavlja tehnologijo (ABT) - sestavljanje računalnikov, naprav, ..."
+  translation: "(ŠE NI OBJAV) Aco sestavlja tehnologijo (ABT) - sestavljanje računalnikov, naprav, ..."
 
 - id: series_abt_title
   translation: "Aco Builds Tech"
 
 - id: series_aft_title_logo
-  translation: "Aco popravlja tehnologijo (AFT) - Popravljanje računalnikov, naprav, ..."
+  translation: "(ŠE NI OBJAV) Aco popravlja tehnologijo (AFT) - Popravljanje računalnikov, naprav, ..."
 
 - id: series_aft_title
   translation: "Aco Fixes Tech"
 
 - id: series_art_title_logo
-  translation: "Aco oceni produkte (ART) - ocena naprav, ..."
+  translation: "(ŠE NI OBJAV) Aco oceni produkte (ART) - ocena naprav, ..."
 
 - id: series_art_title
   translation: "Aco Reviews Tech"
 
 - id: series_ast_title_logo
-  translation: "Acotove zgodbe (AST) - povem vam različne zgodbe"
+  translation: "(ŠE NI OBJAV) Acotove zgodbe (AST) - povem vam različne zgodbe"
 
 - id: series_ast_title
   translation: "Aco's Story Time"
 
 - id: series_wit_title_logo
-  translation: "Kaj je to? (WIT) - jaz vas vprašam, kaj je stvar, vi odgovorite in ​​jaz v naslednjem videu"
+  translation: "(ŠE NI OBJAV) Kaj je to? (WIT) - jaz vas vprašam, kaj je stvar, vi odgovorite in ​​jaz v naslednjem videu"
 
 - id: series_wit_title
   translation: "What Is That"
