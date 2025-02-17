@@ -15,7 +15,7 @@ Zbog zdravstvenih problema trenutno ne pravim skoro nikakav sadržaj, ali zbog o
 
 - ![](/images/social-logos/YouTube.png) [ACOnetwork](https://www.youtube.com/aconetwork "KlKliknite/tapnite, da otvorite moj kanal na YouTube!") - glavni YouTube kanal, gde možete pronaći tutorijale, savete, trikove, recenzije, popravke i još mnogo toga.
 - ![](/images/social-logos/Twitch.png) [Twitch](https://www.twitch.tv/aconetwork1 "Kliknite/tapnite, da otvorite moj kanal na Twitch!"), ![](/images/social-logos/Trovo.png) [Trovo](https://trovo.live/aconetwork "Kliknite/tapnite, da otvorite moj kanal na Trovo!") i sekundarni YouTube kanal ![](/images/social-logos/YouTube.png) [ACOnetplay](https://youtube.com/@aconetplay "Kliknite/tapnite, da otvorite moj sekundarni kanal na YouTube!") - strimovi uživo na svim platformama odjednom (za sada).
-- ![](/images/social-logos/Twitter.png) [X (Twitter)](https://www.x.com/aconetwork "Kliknite/tapnite, da otvorite moj X (Twitter)!")
+- ![](/images/social-logos/X.png) [X (Twitter)](https://www.x.com/aconetwork "Kliknite/tapnite, da otvorite moj X (Twitter)!")
 - ![](/images/social-logos/Instagram.png) [Instagram](https://www.instagram.com/aconetwork "Kliknite/tapnite, da otvorite moj Instagram!")
 - ![](/images/social-logos/Discord.png) [Discord](https://discord.gg/4GpKeAn "Kliknite/tapnite, da otvorite moj server Discord!").
 

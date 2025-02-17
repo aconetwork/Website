@@ -1,15 +1,62 @@
 {{- define "main" }}
 
-{{- if .Title }}
-<header class="page-header">
-    <h1>{{ .Title }}</h1>
+<div class="post-content">
+    <h2>{{ i18n "h_series" }}</h2>
+    <div class="post-content">
+        <p><!--
+            <a href="abt" ><img src="/images/series_logos/ABT_v1_300px.png" style="float:left; width: 7rem;" title="Aco Builds Tech (ABT) - building computers and more..." alt="" /></a>
+            <a href="aft" ><img src="/images/series_logos/AFT_v1_300px.png" style="float:left; width: 7rem;" title="Aco Fixes Tech (AFT) - fixing computers, devices, ..." alt="" /></a>
+            <a href="art" ><img src="/images/series_logos/ART_v1_300px.png" style="float:left; width: 7rem;" title="Aco Reviews Tech (ART) - reviewing devices, things, ..." alt="" /></a>
+            <a href="ast" ><img src="/images/series_logos/AST_v1_300px.png" style="float:left; width: 7rem;" title="Aco's Story Time (AST) - Telling you storries." alt="" /></a>
+            <a href="wit" ><img src="/images/series_logos/WIT_v1_300px.png" style="width: 7rem;" title="What Is That (WIT) - asking you what the element is, you answer and I answer in the next video." alt="" /></a>-->
+
+
+            <ul class="terms-tags">
+                <li>
+                    <a href="#" ><img src="/images/series_logos/ABT_v1_300px.png" style="width: 8rem;" title='{{ i18n "series_abt_title_logo" }}' alt="" /></a>
+                    <p>{{ i18n "series_abt_title" }}</p>
+                </li>
+                <li>
+                    <a href="#" ><img src="/images/series_logos/AFT_v1_300px.png" style="width: 8rem;" title='{{ i18n "series_aft_title_logo" }}' alt="" /></a>
+                    <p>{{ i18n "series_aft_title" }}</p>
+                </li>
+                <li>
+                    <a href="#" ><img src="/images/series_logos/ART_v1_300px.png" style="width: 8rem;" title='{{ i18n "series_art_title_logo" }}' alt="" /></a>
+                    <p>{{ i18n "series_art_title" }}</p>
+                </li>
+                <li>
+                    <a href="#" ><img src="/images/series_logos/AST_v1_300px.png" style="width: 8rem;" title='{{ i18n "series_ast_title_logo" }}' alt="" /></a>
+                    <p>{{ i18n "series_ast_title" }}</p>
+                </li>
+                <li>
+                    <a href="wit" ><img src="/images/series_logos/WIT_v1_300px.png" style="width: 8rem;" title='{{ i18n "series_wit_title_logo" }}' alt="" /></a>
+                    <p>{{ i18n "series_wit_title" }}</p>
+                </li>
+            </ul>
+
+            
+        </p>
+    </div>
+</div>
+
+<div class="post-content">
+    <h2>{{ i18n "h_tags" }}</h2>
+    <div class="post-content">
+        <p><img src="{{ .Params.cover }}" style="float: right; width: 20rem;" alt="" /></p>
+    </div>
+</div>
+
+<!--{{- if .Title }}
+<header class="page-header">-->
+    <!--<h2>{{ .Title }}</h2>--><!--
+    <h2>{{ i18n "h_tags" }}</h2>
     {{- if .Description }}
     <div class="post-description">
         {{ .Description }}
     </div>
     {{- end }}
 </header>
-{{- end }}
+{{- end }}-->
 
 <ul class="terms-tags">
     {{- $type := .Type }}
@@ -25,7 +72,7 @@
 </ul>
 
 <div class="post-content">
-    <h2>{{ i18n "archives_cap" }}</h2>
+    <h2>{{ i18n "h_archives" }}</h2>
     <div class="post-content">
         <p><a href="{{ "" | absLangURL }}archives/">{{ i18n "click_see_arch" }}</a></p>
     </div>

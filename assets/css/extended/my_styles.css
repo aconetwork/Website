@@ -116,3 +116,17 @@
         #consent-notice span {display: block; padding-top: 3px; margin-bottom: 1.5rem;}
         #consent-notice button.btn {position: relative; bottom: 4px; padding: 0px 0.5em 0 0.5em; color: darkgray}
     }
+
+    /* On tags page (terms.html) spacing along tags boxes */
+    .terms-tags li {
+        /*display: inline-block;*/
+        margin: 3px;
+        /*font-weight: 500;*/
+    }
+
+    /* Removing box shadow fo fix black line on the bottom of images */
+    .post-content a, .toc a:hover {
+        box-shadow: 0 0;
+        /*box-decoration-break: clone;
+        -webkit-box-decoration-break: clone;*/
+    }

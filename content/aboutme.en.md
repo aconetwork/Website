@@ -15,7 +15,7 @@ Because of health issues curently I make barely any content but because of recov
 
 - ![](/images/social-logos/YouTube.png) [ACOnetwork](https://www.youtube.com/aconetwork "Click/tap me to open my channel on YouTube!") - main YouTube channel you can find tutorials, tips, tricks, reviews, repairs and more.
 - ![](/images/social-logos/Twitch.png) [Twitch](https://www.twitch.tv/aconetwork1 "Click/tap me to open my channel on Twitch!"), ![](/images/social-logos/Trovo.png) [Trovo](https://trovo.live/aconetwork "Click/tap me to open my channel on Trovo!") and second YouTube channel ![](/images/social-logos/YouTube.png) [ACOnetplay](https://youtube.com/@aconetplay "Click/tap me to open my secondary channel on YouTube!") - live streams on all platforms at once (for now).
-- ![](/images/social-logos/Twitter.png) [X (Twitter)](https://www.x.com/aconetwork "Click/tap me to open my X (Twitter)!")
+- ![](/images/social-logos/X.png) [X (Twitter)](https://www.x.com/aconetwork "Click/tap me to open my X (Twitter)!")
 - ![](/images/social-logos/Instagram.png) [Instagram](https://www.instagram.com/aconetwork "Click/tap me to open my Instagram!")
 - ![](/images/social-logos/Discord.png) [Discord](https://discord.gg/4GpKeAn "Click/tap me to open my server Discord!").
 

@@ -35,9 +35,6 @@
 - id: click_see_arch
   translation: "Kliknite ovde, da si pogledate arhivu tutorijala!"
 
-- id: archives_cap
-  translation: "ARHIV"
-
 - id: cookie_txt
   translation: "Želeli bismo da koristimo kod treće strane da poboljšamo funkcionalnost ove veb stranice."
 
@@ -52,3 +49,42 @@
 
 - id: cookie_btn_save_pref
   translation: "Sačuvaj podešavanja"
+
+- id: h_series
+  translation: "SERIJALI"
+
+- id: h_archives
+  translation: "ARHIV"
+
+- id: h_tags
+  translation: "OZNAKE"
+
+- id: series_abt_title_logo
+  translation: "Aco sastavlja sehnologiju (ABT) - sastavljanje računara i više..."
+
+- id: series_abt_title
+  translation: "Aco Builds Tech"
+
+- id: series_aft_title_logo
+  translation: "Aco popravlja tehnologiju (AFT) - popravljanje računara, stvari, ..."
+
+- id: series_aft_title
+  translation: "Aco Fixes Tech"
+
+- id: series_art_title_logo
+  translation: "Aco oceni tehnologiju (ART) - ocena produkta, ..."
+
+- id: series_art_title
+  translation: "Aco Reviews Tech"
+
+- id: series_ast_title_logo
+  translation: "Aco priče (AST) - Pričam vam različite priče"
+
+- id: series_ast_title
+  translation: "Aco's Story Time"
+
+- id: series_wit_title_logo
+  translation: "Šta je to (WIT) - pitam vas, šta je neka svar a vi odgovorite a ja sledećem videu"
+
+- id: series_wit_title
+  translation: "What Is That"

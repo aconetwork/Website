@@ -33,10 +33,7 @@
   translation: "copied!"
 
 - id: click_see_arch
-  translation: "Click here to see the guides archive! "
-
-- id: archives_cap
-  translation: "ARCHIVES"
+  translation: "Click here to see the website archive! "
 
 - id: cookie_txt
   translation: "We would like to use third party code to improve the functionality of this website."
@@ -52,3 +49,42 @@
 
 - id: cookie_btn_save_pref
   translation: "Save preferences"
+
+- id: h_series
+  translation: "SERIES"
+
+- id: h_archives
+  translation: "ARCHIVES"
+
+- id: h_tags
+  translation: "TAGS"
+
+- id: series_abt_title_logo
+  translation: "Aco Builds Tech (ABT) - building computers and more..."
+
+- id: series_abt_title
+  translation: "Aco Builds Tech"
+
+- id: series_aft_title_logo
+  translation: "Aco Fixes Tech (AFT) - fixing computers, devices, ..."
+
+- id: series_aft_title
+  translation: "Aco Fixes Tech"
+
+- id: series_art_title_logo
+  translation: "Aco Reviews Tech (ART) - reviewing devices, things, ..."
+
+- id: series_art_title
+  translation: "Aco Reviews Tech"
+
+- id: series_ast_title_logo
+  translation: "Aco's Story Time (AST) - Telling you storries"
+
+- id: series_ast_title
+  translation: "Aco's Story Time"
+
+- id: series_wit_title_logo
+  translation: "What Is That (WIT) - asking you what the element is, you answer and I in the next video"
+
+- id: series_wit_title
+  translation: "What Is That"
