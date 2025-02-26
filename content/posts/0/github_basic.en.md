@@ -91,10 +91,13 @@ First open Terminal (on Linux) or Git Bash (Windows) or what ever utility you wi
     - `TOKEN` write your personal token. Check []() 
     - `REPOSITORY-NAME` write your repository name (example: `website`) 
 
-        git status
-        git add .
-        git commit -m "COMMIT TITLE"
-        git push origin
+            git status
+            
+            git add .
+            
+            git commit -m "COMMIT TITLE"
+            
+            git push origin
 
 ## Resources
 
