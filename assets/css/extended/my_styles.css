@@ -130,3 +130,9 @@
         /*box-decoration-break: clone;
         -webkit-box-decoration-break: clone;*/
     }
+
+    /* Aligning text inside li for series */
+    .terms-tags li {
+        /* margin: 3px; */
+        text-align: center;
+    }

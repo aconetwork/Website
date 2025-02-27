@@ -7,8 +7,7 @@ categories:
   - how to
 tags: 
   - how to
-  - laptop
-  - dissasembly
+  - git
 showtoc: true  # Table of content to hide (false) or show (true).
 draft: true  # Show (false) or hide (true) on page.
 language: "English"
