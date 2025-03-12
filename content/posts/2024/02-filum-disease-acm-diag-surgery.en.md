@@ -95,11 +95,6 @@ After the surgery few symptoms remained. Memory and concentration is little bit 
 - [fxtax multiple currency converter](https://fxtax.net/multiple-currency-converter "Click/tap to open the fxtax website!")
 - [Car navigation on a plane 😂🤣](https://www.youtube.com/watch?v=x2Hef-hGUKI "Click/tap to open the funny video!")
 
-## Guide in other languages
-
-- [Slovenski (Slovenian)](/filum-acm-diag-sl/ "Kliknite/tapnite da odprete! Click/tap to open!")
-- [Srbski (Serbian)](/filum-acm-diag-sh/ "Kliknite/tapnite da otvorite! Click/tap to open!")
-
 ## Video version
 
 {{< youtube "fZmHlpJMBIo" >}}

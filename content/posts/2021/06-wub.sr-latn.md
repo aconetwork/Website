@@ -34,11 +34,6 @@ U slučaju da želite da omogućite ažuriranja, samo izaberite krug pored *Ena
 
 Pošto se ovaj program ne instalira, ali je prenosiv, možete kopirati fasciklu sa programskim datotekama gde god želite.
 
-## Tutorijal u drugim jezicima
-
-- [Slovenski (slovenački)](/wub-sl/ "Kliknite/tapnite za obisk! Kliknite/tapnite da otvorite!")
-- [English (engleski)](/wub-en/ "Click/tap to open! Kliknite/tapnite da otvorite!")
-
 ## Video tutorijal
 
 {{< youtube "AjVX_jRi-8A" >}}

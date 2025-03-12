@@ -113,11 +113,6 @@ https://www.youtube.com/watch?v=675p5fuEQa4
 
 https://www.youtube.com/watch?v=Df1MwI9jaPc
 
-## This guide in other languages
-
-- [Slovenski (Slovenian)](// "Kliknite/tapnite da odprete! Click/tap to open!")
-- [Srbski (Serbian)](// "Kliknite/tapnite da otvorite! Click/tap to open!")
-
 ## Walkthrough Video
 <!--
 {{< youtube "" >}}

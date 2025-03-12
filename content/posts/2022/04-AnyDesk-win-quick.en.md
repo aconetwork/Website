@@ -31,11 +31,6 @@ Direct link to download page: [anydesk.com/en/downloads/windows](https://anydesk
 
 As mentioned in the title this is portable mode so you can just open it without installation from the computer disk drive, USB flash key or wherever. If you want to install it you just need to click big red button *Install AnyDesk* inside the program and just follow the instructions. Tutorial on this is for some another time 😁.
 
-## Guide in other languages
-
-- [Slovenski (Slovenian)](/AnyDesk-osnova-sl/ "Kliknite/tapnite da odprete! Click/tap to open!")
-- [Srbski (Serbian)](/AnyDesk-osnova-sh/ "Kliknite/tapnite da otvorite! Click/tap to open!")
-
 ## Walkthrough Video
 
 {{< youtube "6ZIWf7plXfI" >}}

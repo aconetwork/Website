@@ -95,11 +95,6 @@ Posle operacije ostalo je nekoliko simptoma. Memorija i koncentracija su malo bo
 - [fxtax multiple currency converter](https://fxtax.net/multiple-currency-converter "Kliknite/tapnite, da otvorite fxtax veb stranicu!")
 - [Car navigation on a plane 😂🤣](https://www.youtube.com/watch?v=x2Hef-hGUKI "Kliknite/tapnite, da otvorite smešen video!")
 
-## Vodič drugim jezicima
-
-- [Slovenski (slovenački)](/filum-acm-diag-sl/ "Kliknite/tapnite za obisk! Kliknite/tapnite da otvorite!")
-- [English (engleski)](/filum-acm-diag-en/ "Click/tap to open! Kliknite/tapnite da otvorite!")
-
 ## Video verzija
 
 {{< youtube "KGdPSK7VaHc" >}}

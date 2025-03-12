@@ -31,11 +31,6 @@ I do not have CMOS chip programmer and never desoldered any chip before (I plan 
 
 Sometimes computer can give you very strange issues, important is to diagnose according the symptoms and go step by step to figure out, what is wrong. Hope you learned something today and I wish you to have an amazing day 😁👍️.
 
-## Guide in other languages
-
-- [Slovenski (Slovenian)](// "Kliknite/tapnite da odprete! Click/tap to open!")
-- [Srbski (Serbian)](// "Kliknite/tapnite da otvorite! Click/tap to open!")
-
 ## Walkthrough Video
 
 <!-- {{< youtube "" >}} -->

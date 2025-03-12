@@ -35,11 +35,6 @@ Z majhnim programom *Windows Update Blocker* (kratko WUB) proizvajalca [Sordum](
 
 Ker se ta program ne namesti je prenosljiv, lahko kopirate mapo s programskimi datotekami kamor koli želite.
 
-## Vodič v drugih jezikih
-
-- [Srbski (srpski)](/wub-sh/ "Kliknite/tapnite da otvorite! Kliknite/tapnite da odprete!")
-- [English (angleški)](/wub-en/ "Click/tap to open! Kliknite/tapnite da odprete!")
-
 ## Video vodič
 
 {{< youtube "AjVX_jRi-8A" >}}

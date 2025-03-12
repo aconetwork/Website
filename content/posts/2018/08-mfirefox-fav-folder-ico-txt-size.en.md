@@ -100,11 +100,6 @@ This code sets one icon for all of the folders but in case you want to change in
 
 Change the number `12pt` to whatever size you want like for example `16pt` and save the changes to a file. Change just the number, `pt` stays always there.
 
-## Guide in other languages
-
-- [Slovenski (Slovenian)](https://www.youtube.com/watch?v=U-uOC7PB4uE&list=PLbvZxzmdNckyeHQYbvDKF3GK58peTHdnl "Kliknite/tapnite da odprete! Click/tap to open!")
-- [Srbski (Serbian)](https://www.youtube.com/watch?v=qgD5EVDq4uo&list=PLbvZxzmdNckxgR98xK9iSVsO4bySit-q2 "Kliknite/tapnite da otvorite! Click/tap to open!")
-
 ## Walkthrough Video
 
 {{< youtube "wWs_UwVntFU" >}}

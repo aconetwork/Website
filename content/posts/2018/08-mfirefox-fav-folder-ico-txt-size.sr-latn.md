@@ -100,11 +100,6 @@ Ovaj kod podesi jednu ikonu za sve fascikle ali u slučaju da želite da promeni
 
 Promenite broj `12pt` na veličinu koju želite, na primer `16pt` i sačuvajte promene u datoteci. Promenite samo broj, `pt` uvek ostaje.
 
-## Tutorijal u drugim jezicima
-
-- [Slovenski (slovenački)](https://www.youtube.com/watch?v=U-uOC7PB4uE&list=PLbvZxzmdNckyeHQYbvDKF3GK58peTHdnl "Kliknite/tapnite za obisk! Kliknite/tapnite da otvorite!")
-- [English (engleski)](https://www.youtube.com/watch?v=wWs_UwVntFU&list=PLbvZxzmdNckw4vDyB8cQtRTp2kn_fHtuI "Click/tap to open! Kliknite/tapnite da otvorite!")
-
 ## Video tutorijal
 
 {{< youtube "qgD5EVDq4uo" >}}

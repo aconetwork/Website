@@ -31,11 +31,6 @@ Direktna povezava do strani za prenos programa: [anydesk.com/en/downloads/window
 
 Kot je omenjeno v naslovu, je to prenosni način, tako da ga lahko preprosto odprete brez namestitve z diskovnega pogona računalnika, ključka USB ali kjerkoli drugje. Če ga želite namestiti, morate samo klikniti velik rdeči gumb *Install AnyDesk* znotraj programa in slediti navodilom. Lekcija o namestitvi je za enkrat drugič 😁.
 
-## Vodič v drugih jezikih
-
-- [Srbski (srpski)](/AnyDesk-osnova-sh/ "Kliknite/tapnite da otvorite! Kliknite/tapnite da odprete!")
-- [English (angleški)](/AnyDesk-basic/ "Click/tap to open! Kliknite/tapnite da odprete!")
-
 ## Video vodič
 
 {{< youtube "eCDk9gZVgnI" >}}

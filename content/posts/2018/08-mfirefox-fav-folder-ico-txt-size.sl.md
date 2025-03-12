@@ -101,11 +101,6 @@ Ta koda spremeni vse mape zaznamkov s enako ikono vendar v primeru, če želite 
 
 Spremenite številko `12pt` na poljubno velikost, na primer `16pt` in shranite spremembo v datoteko. Spremenite samo številko ampak `pt` ostane enak.
 
-## Vodič v drugih jezikih
-
-- [Srbski (srpski)](https://www.youtube.com/watch?v=qgD5EVDq4uo&list=PLbvZxzmdNckxgR98xK9iSVsO4bySit-q2 "Kliknite/tapnite da otvorite! Kliknite/tapnite da odprete!")
-- [English (angleški)](https://www.youtube.com/watch?v=wWs_UwVntFU&list=PLbvZxzmdNckw4vDyB8cQtRTp2kn_fHtuI "Click/tap to open! Kliknite/tapnite da odprete!")
-
 ## Video vodič
 
 {{< youtube "U-uOC7PB4uE" >}}

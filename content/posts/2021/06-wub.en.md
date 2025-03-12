@@ -35,11 +35,6 @@ In case you want to enable updates just select the circle near *Enable Updates*,
 
 Because this program does not install but it is portable, you can copy the folder with the program files where ever you want.
 
-## Guide in other languages
-
-- [Slovenski (Slovenian)](/wub-sl/ "Kliknite/tapnite da odprete! Click/tap to open!")
-- [Srbski (Serbian)](/wub-sh/ "Kliknite/tapnite da otvorite! Click/tap to open!")
-
 ## Video guide
 
 {{< youtube "cEd1xVeKp_E" >}}

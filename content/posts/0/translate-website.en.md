@@ -31,11 +31,6 @@ Enjoy 😁.
 
 - [Google Translate](https://translate.google.com/ "Click/tap to open Google Translate!")
 
-## This guide in other languages
-
-- [Slovenski (Slovenian)](// "Kliknite/tapnite da odprete! Click/tap to open!")
-- [Srbski (Serbian)](// "Kliknite/tapnite da otvorite! Click/tap to open!")
-
 ## Walkthrough Video
 <!--
 {{< youtube "" >}}

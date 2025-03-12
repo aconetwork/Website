@@ -33,11 +33,6 @@ https://www.youtube.com/watch?v=7tqKBy9r9b4
   <address type="pci" domain="0x0000" bus="0x04" slot="0x00" function="0x0"/>
 </disk>
 
-## This guide in other languages
-
-- [Slovenski (Slovenian)](// "Kliknite/tapnite da odprete! Click/tap to open!")
-- [Srbski (Serbian)](// "Kliknite/tapnite da otvorite! Click/tap to open!")
-
 ## Walkthrough Video
 <!--
 {{< youtube "" >}}

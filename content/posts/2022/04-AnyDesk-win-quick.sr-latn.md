@@ -31,11 +31,6 @@ Direktna veza do stranice za preuzimanje: [anydesk.com/en/downloads/windows](htt
 
 Kao što je pomenuto u naslovu, ovo je prenosivi režim tako da ga možete jednostavno otvoriti bez instalacije sa diska računara, USB fleš ključa ili bilo gde. Ako želite da ga instalirate, potrebno je samo da kliknete na veliko crveno dugme *Install AnyDesk* unutar programa i samo pratite uputstva. Tutorijal o ovome je za neki drugi put 😁.
 
-## Tutorijal u drugim jezicima
-
-- [Slovenski (slovenački)](/AnyDesk-osnova-sl/ "Kliknite/tapnite za obisk! Kliknite/tapnite da otvorite!")
-- [English (engleski)](/AnyDesk-basic/ "Click/tap to open! Kliknite/tapnite da otvorite!")
-
 ## Video tutorijal
 
 {{< youtube "1YrpAeVPEq0" >}}
