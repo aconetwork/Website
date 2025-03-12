@@ -64,7 +64,7 @@ You can also download and install GUI version [GitHub Deskop](https://desktop.gi
 
 ## Create new site
 
-You can create your own website theme but it is available alot of themes alerady available to use on [themes.gohugo.io](https://themes.gohugo.io/ "Click/tap to visit HUGO themes site!").
+You can create your own website theme but it is available alot of themes alerady available to use on [themes.gohugo.io](https://themes.gohugo.io/ "Click/tap to visit HUGO themes site!"). For this tutorial I'll use Papermod theme.
 
     hugo new site my-new-site --format yaml
     cd my-new-site
@@ -76,6 +76,10 @@ For more methods to install and more information about Papermod theme visit the 
     hugo --buildDrafts    # or -D
     hugo --buildExpired   # or -E
     hugo --buildFuture    # or -F
+
+New post:
+
+    hugo new --kind posts.en posts/0/post-name.en.md
 
 hugo server
 

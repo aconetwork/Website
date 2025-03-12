@@ -2,6 +2,9 @@
 public/
 hugo_stats.json
 
+# Original images
+static/images-orig/
+
 # Executable may be added to repository
 hugo.exe
 hugo.darwin
