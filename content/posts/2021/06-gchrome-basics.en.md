@@ -11,7 +11,7 @@ tags:
   - how to
   - Google Chrome
 showtoc: true
-draft: true
+draft: false
 ---
 
 This guide is about basic stuff you can do in the Google Chrome web browser 😁

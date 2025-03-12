@@ -12,7 +12,7 @@ tags:
   - kako
   - Google Chrome
 showtoc: true  # Seznam vsebine: Skriti (false) ali prikazati (true)
-draft: true  # Prikaz na javni strani: Prikaz (false) ali skriti (true)
+draft: false  # Prikaz na javni strani: Prikaz (false) ali skriti (true)
 language: "Slovenski"
 ---
 
