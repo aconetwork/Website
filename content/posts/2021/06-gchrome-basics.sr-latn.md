@@ -18,7 +18,7 @@ language: "Srpski"
 
 Ovaj vodič je o osnovnim stvarima koje možete da uradite u veb pregledaču Google Chrome 😁
 
-## Kako pronaći verziju programa Google Chrome
+## Kako pronaći verziju programa Google Chrome (13.03.2025)
 
 (Za ovaj deo koristio sam Google Chrome verziju `134.0.6998.36` na operativnom sistemu `Windows 10 22H2 64-bit`)
 
@@ -46,7 +46,7 @@ Ovaj vodič je o osnovnim stvarima koje možete da uradite u veb pregledaču Goo
 
 {{< youtube "7e9eruN4DAI" >}}
 
-## Prikaži traku sa obeleživačima
+## Prikaži traku sa obeleživačima (13.03.2025)
 
 (Za ovaj deo koristio sam Google Chrome verziju `134.0.6998.36` na operativnom sistemu `Windows 10 22H2 64-bit`)
 
@@ -66,9 +66,43 @@ Ovaj vodič je o osnovnim stvarima koje možete da uradite u veb pregledaču Goo
    
    ![](/images/Google-Chrome/Hr_-_GChrome_-_meni_-_Oznake_i_popisi_-_Pokazi_traku_oznake.jpeg)
 
-**Video:**
+**Video (30.06.2021):**
 
 {{< youtube "bqOp3YGZx9g" >}}
+
+## Kako pokazati dugme Kući (20.03.2025)
+
+(Upotrebio sam Google Chrome verziju `134.0.6998.36` na `Windows 10 22H2 64-bita`)
+
+1. Otvorite veb pregledač Google Chrome.
+
+ ![](/images/Google-Chrome/GChrome_desktop_shortcut.jpeg)
+
+2. Sa levim dugmeta miša kliknite na dugme sa 3 tačke da otvorite meni.
+   
+   ![](/images/Google-Chrome/Hr_-_GChrome_-_3_tacke_dugme.jpeg)
+
+1. Sa levim dugmeta miša kliknite na `Postavke`.
+   
+   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke.jpeg)
+
+2. Sa levim dugmeta miša kliknite na `Prikaz`.
+   
+   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Prikaz..jpeg)
+
+3. U liniji `Pokaži gumb počente stranice`/`Pokaži dugme počente stranice` kliknite prekidač za uključiti ![](/images/Google-Chrome/GChrome_switch_ON.jpeg) (za prikaz ![](/images/Google-Chrome/GChrome_button_home.jpeg)) ili izključiti ![](/images/Google-Chrome/GChrome_switch_OFF.jpeg) (za skriti ![](/images/Google-Chrome/GChrome_button_home.jpeg)).
+   
+   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Prikaz_-_pokazi_kuci_ON.jpeg)
+
+   Sa klikom na dugme Kuči ![](/images/Google-Chrome/GChrome_button_home.jpeg), može da namestite da otvori sledeće:
+   
+      - ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Prikaz_-_pokazi_kuci_ON_-_nova_kartica.jpeg) stranicu nove kartice ILI
+   
+      - ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Prikaz_-_pokazi_kuci_ON_-_spec_strana.jpeg) stranicu koju vi unesete.
+
+**Video:**
+
+{{< youtube "jyv7R_JcpD0" >}}
 
 ## YouTube predvajalni seznam
 

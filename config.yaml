@@ -84,6 +84,10 @@ languages:
         #  name: "Archives"
         #  url: archives/
         #  weight: 40
+        - identifier: tools
+          name: "Tools"
+          url: tools/
+          weight: 40
         - identifier: aboutme
           name: "About me"
           url: aboutme/
