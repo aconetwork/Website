@@ -23,14 +23,16 @@ draft: true  # Draft: Show (false) or hide (true)
 language: "English"
 ---
 
-Windows spotlight can be 
 
-## This guide in other languages
 
-- [Slovenski (Slovenian)](// "Kliknite/tapnite da odprete! Click/tap to open!")
-- [Srbski (Serbian)](// "Kliknite/tapnite da otvorite! Click/tap to open!")
+<!--*(Click on the individual step or triangle to show or hide the details (images, info, ...))*
 
-## Walkthrough Video
-<!--
-{{< youtube "" >}}
--->
+{{< collapse summary="**Step 1** ." openByDefault=false >}}
+
+ ![](/images/Google-Chrome/GChrome_desktop_shortcut.jpeg)
+
+{{< /collapse >}}
+
+## Video version
+
+{{< youtube "" >}}-->

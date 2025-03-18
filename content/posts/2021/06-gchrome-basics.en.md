@@ -11,7 +11,8 @@ tags:
   - how to
   - Google Chrome
 showtoc: true
-draft: logo_40x40_Mozilla_Firefox_2013.png
+draft: true  # Draft: Show (false) or hide (true)
+language: "English"
 ---
 
 This guide is about basic stuff you can do in the Google Chrome web browser 😁

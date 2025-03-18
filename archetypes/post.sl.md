@@ -25,12 +25,14 @@ language: "Slovenski"
 
 
 
-## Ta vodič v drugih jezikih
+<!--*(Kliknite/tapnite na posamezni korak ali trikotnik za prikaz oz. skriti podrobnosti (slika, informacije, ...))*
 
-- [Srbski (srpski)](// "Kliknite/tapnite da otvorite! Kliknite/tapnite da odprete!")
-- [English (angleški)](// "Click/tap to open! Kliknite/tapnite da odprete!")
+{{< collapse summary="**Korak 1** ." openByDefault=false >}}
 
-## Video vodič
-<!--
-{{< youtube "" >}}
--->
+ ![](/images/Google-Chrome/GChrome_desktop_shortcut.jpeg)
+
+{{< /collapse >}}
+
+## Video verzija
+
+{{< youtube "" >}}-->

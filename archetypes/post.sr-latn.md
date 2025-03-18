@@ -25,12 +25,14 @@ language: "Srpski"
 
 
 
-## Ovaj tutorijal u drugim jezicima
+<!--*(Kliknite/tapnite na posamezni korak/trikotnik za prikaz oz. skriti sliko in podropnosti)*
 
-- [Slovenski (slovenački)](// "Kliknite/tapnite za obisk! Kliknite/tapnite da otvorite!")
-- [English (engleski)](// "Click/tap to open! Kliknite/tapnite da otvorite!")
+{{< collapse summary="**Korak 1** ." openByDefault=false >}}
 
-## Video tutorijal
-<!--
-{{< youtube "" >}}
--->
+ ![](/images/Google-Chrome/GChrome_desktop_shortcut.jpeg)
+
+{{< /collapse >}}
+
+## Video verzija
+
+{{< youtube "" >}}-->
