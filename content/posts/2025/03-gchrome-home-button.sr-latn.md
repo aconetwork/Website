@@ -1,6 +1,6 @@
 ---
 title: "Kako pokazati dugme Kući na Google Chrome"
-date: 2025-03-20T18:00:00+01:00
+date: 2025-03-20T18:00:00-02:00
 # publishDate: 2025-03-12T12:01:33+01:00
 url: /gchrome-kuci-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
