@@ -1,6 +1,6 @@
 ---
 title: "How to show Home button on Google Chrome?"
-date: 2025-03-18T18:00:00+01:00
+date: 2025-03-18T18:00:00+00:00
 url: /gchrome-home-en/
 # image: images/2024-thumbs/03-gchrome-basics.jpg
 categories: 
