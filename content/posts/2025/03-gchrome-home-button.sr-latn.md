@@ -54,11 +54,15 @@ language: "Srpski"
 
 {{< /collapse >}}
 
-*(Tutorijal je napravljen na Google Chrome verziji `134.0.6998.36` na operativnom sistemu `Windows 10 22H2 64-bit`)*
+*(Tutorijal je napravljen na Google Chrome verziji `134.0.6998.36` na operativnom sistemu `Windows 10 22H2 64-bita`)*
 
-## Video verzija
+## Video verzija - nova [20.03.2025]
 
 {{< youtube "jyv7R_JcpD0" >}}
+
+## Video verzija - stara [17.06.2021]
+
+{{< youtube "Cao7xrJse1U" >}}
 
 ## YouTube predvajalni seznam
 

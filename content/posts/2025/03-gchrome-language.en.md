@@ -77,6 +77,8 @@ Let’s change the language for Google Chrome. This method works for me on Windo
 
 {{< /collapse >}}
 
+*(This was based on Google Chrome version `134.0.6998.36` on the `Windows 10 22H2 64-bit`)*
+
 ## Video version
 
 {{< youtube "s6-KAYBqE7c" >}}

@@ -55,9 +55,13 @@ language: "English"
 
 *(This was based on Google Chrome version `134.0.6998.36` on the `Windows 10 22H2 64-bit`)*
 
-## Video version
+## Video version - new [18.03.2025]
 
-{{< youtube "Udzh1rECbU" >}} 
+{{< youtube "Udzh1rECbU" >}}
+
+## Video version - old [15.06.2021]
+
+{{< youtube "S05dS_xix9c" >}}
 
 ## Playlist
 

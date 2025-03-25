@@ -79,6 +79,8 @@ Hajde da promenimo jezik za Google Chrome. Ova metoda radi na Windows operativno
 
 {{< /collapse >}}
 
+*(Tutorijal je napravljen na Google Chrome verziji `134.0.6998.36` na operativnom sistemu `Windows 10 22H2 64-bita`)*
+
 ## Video verzija
 
 {{< youtube "dhhE5Nyeb0Y" >}}

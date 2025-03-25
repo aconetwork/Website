@@ -56,9 +56,13 @@ language: "Slovenski"
 
 *(Vodič je narejen v Google Chrome verziji `134.0.6998.36` na `Windows 10 22H2 64-bitni`)*
 
-## Video verzija
+## Video verzija - nova [19.03.2025]
 
 {{< youtube "2IbV9qj9VIY" >}}
+
+## Video verzija - stara [16.06.2021]
+
+{{< youtube "C8HynlfDcd4" >}}
 
 ## YouTube predvajalni seznam
 

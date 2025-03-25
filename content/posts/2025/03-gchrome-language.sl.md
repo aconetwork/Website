@@ -79,6 +79,8 @@ Danes spremenimo jezik za Google Chrome. Ta metoda meni deluje v operacijskem si
 
 {{< /collapse >}}
 
+*(Vodič je narejen v Google Chrome verziji `134.0.6998.36` na `Windows 10 22H2 64-bitni`)*
+
 ## Video verzija
 
 {{< youtube "RLJhqIhtMLo" >}}

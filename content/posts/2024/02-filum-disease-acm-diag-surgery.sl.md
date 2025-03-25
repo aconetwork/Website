@@ -8,10 +8,6 @@ categories:
   - zdravje
 tags: 
   - zdravlje
-  - bolezen filuma
-  - Arnold Kiari Malformacija (ACM)
-  - operacija
-  - diagnoza
 showtoc: true  # Table of content to hide (false) or show (true).
 draft: false  # Show (false) or hide (true) on page.
 language: "Slovenski"
