@@ -1,6 +1,6 @@
 ---
 title: "Kako nastaviti jezik v Google Chrome?"
-date: 2025-03-25T16:00:00+01:00
+date: 2025-03-26T14:00:00+01:00
 # publishDate: 2025-03-12T12:01:09+01:00
 url: /gchrome-jezik-sl/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg

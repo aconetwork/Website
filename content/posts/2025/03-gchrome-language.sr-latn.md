@@ -1,6 +1,6 @@
 ---
 title: "Kako promeniti jezik v Google Chrome?"
-date: 2025-03-27T15:00:00+01:00
+date: 2025-03-27T14:00:00+01:00
 # publishDate: 2025-03-12T12:01:33+01:00
 url: /gchrome-jezik-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg

@@ -1,6 +1,6 @@
 ---
 title: "How to set language in Google Chrome?"
-date: 2025-03-25T16:00:00+01:00
+date: 2025-03-25T14:00:00+01:00
 url: /gchrome-language-en/
 # image: images/2024-thumbs/03-gchrome-basics.jpg
 categories: 
