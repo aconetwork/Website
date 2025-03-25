@@ -1,6 +1,6 @@
 ---
 title: "Kako promeniti jezik v Google Chrome?"
-date: 2025-03-27T16:00:00+01:00
+date: 2025-03-27T15:00:00+01:00
 # publishDate: 2025-03-12T12:01:33+01:00
 url: /gchrome-jezik-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
@@ -15,7 +15,7 @@ draft: false   # Prikaz na javnoj stranici: Prikaz (false) ili sakriti (true).
 language: "Srpski"
 ---
 
-Danas vam pokažem, kako da pronađete verziju vašeg veb pregledača Google Chrome.
+Hajde da promenimo jezik za Google Chrome. Ova metoda radi na Windows operativnom sistemu, ali ne radi na Linux Mint.
 
 *(Kliknite na pojedinačni korak ili trougao da biste sakrili ili prikazali detalje (slike, informacije, ...))*
 
@@ -25,33 +25,63 @@ Danas vam pokažem, kako da pronađete verziju vašeg veb pregledača Google Chr
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 2** Sa levim dugmeta miša kliknite na dugme sa 3 tačke da biste otvorili meni." openByDefault=true >}}
+{{< collapse summary="**Korak 2** Sa levim dugmetom miša kliknite na dugme sa 3 tačke da biste otvorili meni." openByDefault=true >}}
    
    ![](/images/Google-Chrome/Hr_-_GChrome_-_3_tacke_dugme.jpeg)
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 3** Strelicom miša pređite na `Pomoć`." openByDefault=true >}}
-   
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_meni_-_Pomoc.jpeg)
+{{< collapse summary="**Korak 3** Sa levim dugmeta miša kliknite na dugme `Postavke`." openByDefault=true >}}
+
+ ![](/images/Google-Chrome/Hr_-_GChrome_-_meni_-_Postavke.jpeg)
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 4** Sa levim dugmeta miša kliknite na `O Chromeu`." openByDefault=true >}}
-   
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_meni_-_Pomoc_-_o_Chromeu.jpeg)
+{{< collapse summary="**Korak 4** Sa levim dugmeta miša kliknite na dugme `Jezici`." openByDefault=true >}}
+
+   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Jezici.jpeg)
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 5** Na stranici `O Chromeu` pogledajte svoj broj verzije pretraživača." openByDefault=true >}}
+{{< collapse summary="**Korak 5** U području `Preferirani jezici` možete da dodate jedan ili više jezika sa klikom levog dugmeta miša na dugme `Dodaj jezike` ako željen jezik nije na spisku." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_o_Chromeu_stranica.jpeg)
+   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Jezici_-_dodaj_jezike.jpeg)
+
+{{< /collapse >}}
+
+{{< collapse summary="**Korak 6** V prozoru `Dodaj jezike` kliknite sa levim dugmetom miša na kvadratič željenog jezika ali više njih sa spiska. Opcionalno možete jezik potražite preko polja u gornjem desnom kutu prozora." openByDefault=true >}}
+   
+   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Jezici_-_dodaj_jezike_-_oznaciti.jpeg)
+
+{{< /collapse >}}
+
+{{< collapse summary="**Korak 7** Sa levim dugmetom miša kliknite dugme `Dodajte`, da to šta ste izabrali dodate na vaš spisak." openByDefault=true >}}
+   
+   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Jezici_-_dodaj_jezike_-_Dodajte.jpeg)
+
+{{< /collapse >}}
+
+{{< collapse summary="**Korak 8** Sa levim dugmetom miša kliknite na dugme sa 3 tačke u redu željenog jezika." openByDefault=true >}}
+   
+   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Jezici_-_3_tacke.jpeg)
+
+{{< /collapse >}}
+
+{{< collapse summary="**Korak 9** Sa levim dugmetom miša kliknite na kvadratič pored `Prikaži Chrome na tom jeziku`." openByDefault=true >}}
+   
+   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Jezici_-_3_tacke_-_promeni_jezik.jpeg)
+
+{{< /collapse >}}
+
+{{< collapse summary="**Korak 10** Sa levim dugmetom miša kliknite na dugme `Pokreni ponovno` gde se Chrome zatvori i u kratko nazad otvori u na novo definisanom jeziku." openByDefault=true >}}
+   
+   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Jezici_-_pokreni_ponovno.jpeg)
 
 {{< /collapse >}}
 
 ## Video verzija
 
-{{< youtube "s6-KAYBqE7c" >}}
+{{< youtube "dhhE5Nyeb0Y" >}}
 
 ## Plejlista
 
