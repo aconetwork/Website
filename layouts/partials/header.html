@@ -40,7 +40,7 @@
 {{- end }}
 <!-- Current time: {{ time.Now }} -->
 <header class="header">
-    <nav class="nav {{ now | dateFormat "2006-01-02 15:04" }}">
+    <nav class="nav">
         {{- $currentPage := . }}
         <ul id="menu">
             {{- range site.Menus.main }}
