@@ -25,13 +25,13 @@ language: "English"
 
 https://www.youtube.com/watch?v=7tqKBy9r9b4
 
-<disk type="file" device="disk">
-  <driver name="qemu" type="qcow2" cache="none" discard="unmap"/>
-  <source file="/media/aco/LinuxData/VirtualMachines/win10.qcow2"/>
-  <target dev="vda" bus="virtio"/>
-  <alias name="virtio-disk1"/>
-  <address type="pci" domain="0x0000" bus="0x04" slot="0x00" function="0x0"/>
-</disk>
+    <disk type="file" device="disk">
+      <driver name="qemu" type="qcow2" cache="none" discard="unmap"/>
+      <source file="/media/aco/LinuxData/VirtualMachines/win10.qcow2"/>
+      <target dev="vda" bus="virtio"/>
+      <alias name="virtio-disk1"/>
+      <address type="pci" domain="0x0000" bus="0x04" slot="0x00" function="0x0"/>
+    </disk>
 
 ## Walkthrough Video
 <!--

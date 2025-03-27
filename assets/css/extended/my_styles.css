@@ -1,9 +1,9 @@
 /* themes/PaperMod/assets/css/core/theme-vars.css */
 :root {/*
     --gap: 24px;
-    --content-gap: 20px;
-    --nav-width: 1024px;
-    --main-width: 720px;
+    --content-gap: 20px;*/
+    --nav-width: 1110px;
+    --main-width: 1110px;/*
     --header-height: 60px;
     --footer-height: 60px;
     --radius: 8px;
@@ -16,9 +16,9 @@
     --code-block-bg: rgb(221 245 217);
     --code-font-color: rgb(32, 32, 32);
     --code-bg: rgb(255, 255, 255);
-    --theme-header: rgb(245, 245, 245);/*
-    --border: rgb(238, 238, 238);*/
-    --title-bg-color: rgb(240, 240, 240);
+    --theme-header: rgb(245, 245, 245);/**/
+    --border: rgb(240, 240, 240);
+    --details-title-bg-color: rgb(240, 240, 240);   /* Color for the collapsable element */
 }
 
 .dark {/*
@@ -31,9 +31,9 @@
     --code-block-bg: rgb(61 101 55);
     --code-font-color: rgb(226, 226, 226);
     --code-bg: rgb(55, 56, 62);
-    --theme-header: rgb(55, 56, 62);/*
-    --border: rgb(51, 51, 51);*/
-    --title-bg-color: rgb(15, 15, 15);
+    --theme-header: rgb(55, 56, 62);/**/
+    --border: rgb(55, 56, 62);
+    --details-title-bg-color: rgb(55, 56, 62);   /* Color for the collapsable element */
 }
 
 /* Adding background color to header navigation */
@@ -119,31 +119,39 @@
         #consent-notice button.btn {position: relative; bottom: 4px; padding: 0px 0.5em 0 0.5em; color: darkgray}
     }
 
-    /* On tags page (terms.html) spacing along tags boxes */
-    .terms-tags li {
-        /*display: inline-block;*/
-        margin: 3px;
-        /*font-weight: 500;*/
-    }
+/* On tags page (terms.html) spacing along tags boxes */
+.terms-tags li {
+    /*display: inline-block;*/
+    margin: 3px;
+    /*font-weight: 500;*/
+}
 
-    /* Removing box shadow fo fix black line on the bottom of images */
-    .post-content a, .toc a:hover {
-        box-shadow: 0 0;
-        /*box-decoration-break: clone;
-        -webkit-box-decoration-break: clone;*/
-    }
+/* Removing box shadow fo fix black line on the bottom of images */
+.post-content a, .toc a:hover {
+    box-shadow: 0 0;
+    /*box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;*/
+}
 
-    /* Aligning text inside li for series */
-    .terms-tags li {
-        /* margin: 3px; */
-        text-align: center;
-    }
+/* Aligning text inside li for series */
+.terms-tags li {
+    /* margin: 3px; */
+    text-align: center;
+}
 
-    .post-content a {
-        text-decoration: underline;
-    }
+.post-content a {
+    text-decoration: underline;
+}
 
-    /* Font color for collapsable title */
-    .post-content details summary {
-        background-color: var(--title-bg-color);
-    }
+/* Collapsable */
+.post-content details {
+    border: 1px solid var(--details-title-bg-color);
+    padding: 5px 5px 0 5px;
+}
+
+/* Collapsable summary */
+.post-content details summary {
+    background-color: var(--details-title-bg-color);
+    padding: 5px;
+    margin-bottom: 5px;
+}

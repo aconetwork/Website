@@ -2,7 +2,7 @@
 title: "Tools"
 layout: "single"
 url: tools/
-summary: "Uporabna orodja za uporabo."
+summary: "Uporabna orodja za uporabo"
 ---
 
 ## Usefull tools
