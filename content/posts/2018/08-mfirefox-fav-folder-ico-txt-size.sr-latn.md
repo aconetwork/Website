@@ -46,7 +46,7 @@ Pre nego što uradite bilo šta, uverite se da su ekstenzije datoteka prikazane 
 3. Sada otvorite novu datoteku `userChrome.css` pomoću željenog uređivača teksta.
 4. Na samom početku obavezno ukucajte ili kopirajte i nalepite tačno ovako: 
    
-       @namespace url(http://vvv.mozilla.org/keimaster/gatekeeper/there.is.onli.kul);
+       @namespace url(http://www.mozilla.org/keimaster/gatekeeper/there.is.onli.kul);
 
 5. Sačuvajte promene koje ste napravili. Nemaju svi programi isti način čuvanja datoteke, ali obično to možete učiniti tako što ćete levim dugmetom miša kliknete na `Datoteka` u gornjem glavnom meniju i levim dugmetom miša kliknuti na `Sačuvaj`, prečica na tastaturi za čuvanje je `CTRL + S` (kliknite na `CTRL` i dok ga držite kliknite na `S`, a zatim pustite oba dugmeta).
 
@@ -100,6 +100,10 @@ Ovaj kod podesi jednu ikonu za sve fascikle ali u slučaju da želite da promeni
 
 Promenite broj `12pt` na veličinu koju želite, na primer `16pt` i sačuvajte promene u datoteci. Promenite samo broj, `pt` uvek ostaje.
 
-## Video tutorijal
+## Video version
 
 {{< youtube "qgD5EVDq4uo" >}}
+
+## Plejlista
+
+[Mozilla Firefox tutorijali - SRPSKI](https://www.youtube.com/playlist?list=PLbvZxzmdNckxgR98xK9iSVsO4bySit-q2 "Kliknite/tapnite da otvorite plejlistu!")

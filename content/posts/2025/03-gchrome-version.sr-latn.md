@@ -50,10 +50,13 @@ Danas vam pokažem, kako da pronađete verziju vašeg veb pregledača Google Chr
 
 {{< /collapse >}}
 
+*(Tutorijal je napravljen na Google Chrome verziji `134.0.6998.36` na operativnom sistemu `Windows 10 22H2 64-bita`)*
+*(Jer je Google Chrome je na srpskom jeziku samo u cerilici ali ne u latinici sam upotrebio hrvatski jezik Chrome za lakše razumevanje ljudi, koji neznaju cerilicu)*
+
 ## Video verzija
 
 {{< youtube "7e9eruN4DAI" >}}
 
 ## Plejlista
 
-[Google Chrome tutorijali - SRPSKI](https://www.youtube.com/playlist?list=PLbvZxzmdNckw-B2_mYYIbROTy0VuqR-qa "Kliknite/tapnite da odprete YouTube predcajalni seznam!")
+[Google Chrome tutorijali - SRPSKI](https://www.youtube.com/playlist?list=PLbvZxzmdNckw-B2_mYYIbROTy0VuqR-qa "Kliknite/tapnite da otvorite plejlistu!")

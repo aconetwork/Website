@@ -55,6 +55,7 @@ language: "Srpski"
 {{< /collapse >}}
 
 *(Tutorijal je napravljen na Google Chrome verziji `134.0.6998.36` na operativnom sistemu `Windows 10 22H2 64-bita`)*
+*(Jer je Google Chrome je na srpskom jeziku samo u cerilici ali ne u latinici sam upotrebio hrvatski jezik Chrome za lakše razumevanje ljudi, koji neznaju cerilicu)*
 
 ## Video verzija - nova [20.03.2025]
 
@@ -66,4 +67,4 @@ language: "Srpski"
 
 ## YouTube predvajalni seznam
 
-[Google Chrome tutorijali - SRPSKI](https://www.youtube.com/playlist?list=PLbvZxzmdNckw-B2_mYYIbROTy0VuqR-qa "Kliknite/tapnite da odprete YouTube predcajalni seznam!")
+[Google Chrome tutorijali - SRPSKI](https://www.youtube.com/playlist?list=PLbvZxzmdNckw-B2_mYYIbROTy0VuqR-qa "Kliknite/tapnite da otvorite plejlistu!")

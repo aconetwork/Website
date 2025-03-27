@@ -106,4 +106,4 @@ Ovaj vodič je o osnovnim stvarima koje možete da uradite u veb pregledaču Goo
 
 ## YouTube predvajalni seznam
 
-[Google Chrome tutorijali - SRPSKI](https://www.youtube.com/playlist?list=PLbvZxzmdNckw-B2_mYYIbROTy0VuqR-qa "Kliknite/tapnite da odprete YouTube predcajalni seznam!")
+[Google Chrome tutorijali - SRPSKI](https://www.youtube.com/playlist?list=PLbvZxzmdNckw-B2_mYYIbROTy0VuqR-qa "Kliknite/tapnite da otvorite plejlistu!")

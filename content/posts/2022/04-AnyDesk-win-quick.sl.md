@@ -8,8 +8,6 @@ categories:
 tags: 
   - Windows
   - AnyDesk
-  - priprava
-  - prenosna različica
 showtoc: false
 draft: false
 language: "Slovenski"

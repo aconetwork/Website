@@ -50,4 +50,4 @@ language: "Srpski"
 
 ## Plejlista
 
-[Google Chrome tutorijali - SRPSKI](https://www.youtube.com/playlist?list=PLbvZxzmdNckw-B2_mYYIbROTy0VuqR-qa "Kliknite/tapnite da otvorite YouTube plejlistu!")
+[Google Chrome tutorijali - SRPSKI](https://www.youtube.com/playlist?list=PLbvZxzmdNckw-B2_mYYIbROTy0VuqR-qa "Kliknite/tapnite da otvorite plejlistu!")

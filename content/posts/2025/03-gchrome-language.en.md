@@ -29,7 +29,7 @@ Let’s change the language for Google Chrome. This method works for me on Windo
 
 {{< /collapse >}}
 
-{{< collapse summary="**Step 3** Left mouse button click on `Settomgs`." openByDefault=true >}}
+{{< collapse summary="**Step 3** Left mouse button click on `Settings`." openByDefault=true >}}
    
    ![](/images/Google-Chrome/En_-_GChrome_menu_-_Settings_btn.jpeg)
 

@@ -100,6 +100,10 @@ This code sets one icon for all of the folders but in case you want to change in
 
 Change the number `12pt` to whatever size you want like for example `16pt` and save the changes to a file. Change just the number, `pt` stays always there.
 
-## Walkthrough Video
+## Video version
 
 {{< youtube "wWs_UwVntFU" >}}
+
+## Playlist
+
+[Mozilla Firefox tutorials - ENGLISH](https://www.youtube.com/playlist?list=PLbvZxzmdNckw4vDyB8cQtRTp2kn_fHtuI "Click/tap to open the playlist!")

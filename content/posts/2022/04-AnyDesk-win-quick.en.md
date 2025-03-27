@@ -8,8 +8,6 @@ categories:
 tags: 
   - Windows
   - AnyDesk
-  - prepair
-  - portable
 showtoc: false
 draft: false
 language: "English"

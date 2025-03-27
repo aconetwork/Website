@@ -25,19 +25,19 @@ Danes spremenimo jezik za Google Chrome. Ta metoda meni deluje v operacijskem si
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 2** S levo miškino tipko kliknite na tipko s tremi pikami za odpretje menija." openByDefault=true >}}
+{{< collapse summary="**Korak 2** Z levo miškino tipko kliknite na tipko s tremi pikami za odpretje menija." openByDefault=true >}}
 
  ![](/images/Google-Chrome/Sl_-_GChrome_-_3_pike_tipka.jpeg)
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 3** S levo miškino tipko kliknite na tipko `Nastavitve`." openByDefault=true >}}
+{{< collapse summary="**Korak 3** Z levo miškino tipko kliknite na tipko `Nastavitve`." openByDefault=true >}}
 
  ![](/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Nastavitve.jpeg)
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 4** S levo miškino tipko kliknite na tipko `Jeziki`." openByDefault=true >}}
+{{< collapse summary="**Korak 4** Z levo miškino tipko kliknite na tipko `Jeziki`." openByDefault=true >}}
 
    ![](/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_Jeziki.jpeg)
 
@@ -49,31 +49,31 @@ Danes spremenimo jezik za Google Chrome. Ta metoda meni deluje v operacijskem si
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 6** V oknu `Dodaj jezike` kliknite s levo miškino tipko na kvadratek željenega jezika ali več njih s seznama. Opcionalno lahko poiščete jezik v zgornjem desnem kotu okna." openByDefault=true >}}
+{{< collapse summary="**Korak 6** V oknu `Dodaj jezike` kliknite z levo miškino tipko na kvadratek željenega jezika ali več njih s seznama. Opcionalno lahko poiščete jezik v zgornjem desnem kotu okna." openByDefault=true >}}
    
    ![](/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_Jeziki_-_dodaj_-_oznaciti.jpeg)
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 7** Za potrditev dodajanja izbranih jezikov s levo miškino tipko kliknite na tipko `Dodaj`." openByDefault=true >}}
+{{< collapse summary="**Korak 7** Za potrditev dodajanja izbranih jezikov z levo miškino tipko kliknite na tipko `Dodaj`." openByDefault=true >}}
    
    ![](/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_Jeziki_-_dodaj_-_dodaj.jpeg)
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 8** S levo miškino tipko kliknite na tipko treh pikic v vrstici željenega jezika s seznama." openByDefault=true >}}
+{{< collapse summary="**Korak 8** Z levo miškino tipko kliknite na tipko treh pikic v vrstici željenega jezika s seznama." openByDefault=true >}}
    
    ![](/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_Jeziki_-_3_pike.jpeg)
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 9** S levo miškino tipko kliknite na na kvadratek zraven `Prikaz Chroma v tem jeziku`." openByDefault=true >}}
+{{< collapse summary="**Korak 9** Z levo miškino tipko kliknite na na kvadratek zraven `Prikaz Chroma v tem jeziku`." openByDefault=true >}}
    
    ![](/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_Jeziki_-_3_pike_-_definiraj_jezik.jpeg)
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 10** S levo miškino tipko kliknite na tipko `Vnovičen zagon` kjer se bo brskalnik zaprl in nekaj sekund kasneje nazaj odprl v na novo nastavljenem jeziku." openByDefault=true >}}
+{{< collapse summary="**Korak 10** Z levo miškino tipko kliknite na tipko `Vnovičen zagon` kjer se bo brskalnik zaprl in nekaj sekund kasneje nazaj odprl v na novo nastavljenem jeziku." openByDefault=true >}}
    
    ![](/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_Jeziki_-_vnovicni_zagon.jpeg)
 

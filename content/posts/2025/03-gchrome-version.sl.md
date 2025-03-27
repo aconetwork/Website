@@ -26,7 +26,7 @@ Danes vam pokažem, kako najti verzijo vašega spletnega brskalnika Google Chrom
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 2** S levo miškino tipko kliknite na tipko s tremi pikami za odpretje menija." openByDefault=true >}}
+{{< collapse summary="**Korak 2** Z levo miškino tipko kliknite na tipko s tremi pikami za odpretje menija." openByDefault=true >}}
 
  ![](/images/Google-Chrome/Sl_-_GChrome_-_3_pike_tipka.jpeg)
 
@@ -38,7 +38,7 @@ Danes vam pokažem, kako najti verzijo vašega spletnega brskalnika Google Chrom
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 4** S levo miškino tipko kliknite na `O Google Chromu`." openByDefault=true >}}
+{{< collapse summary="**Korak 4** Z levo miškino tipko kliknite na `O Google Chromu`." openByDefault=true >}}
 
  ![](/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Pomoc_-_O_Google_Chromu.jpeg)
 

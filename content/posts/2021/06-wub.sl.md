@@ -7,7 +7,7 @@ categories:
   - kako
 tags: 
   - Windows
-  - blokiranje Windows posodobitev
+  - Windows Update Blocker
 showtoc: false  # Table of content to hide (false) or show (true).
 draft: false  # Show (false) or hide (true) on page.
 language: "Slovenski"

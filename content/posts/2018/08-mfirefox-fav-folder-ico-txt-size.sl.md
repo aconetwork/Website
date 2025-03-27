@@ -101,6 +101,10 @@ Ta koda spremeni vse mape zaznamkov s enako ikono vendar v primeru, če želite 
 
 Spremenite številko `12pt` na poljubno velikost, na primer `16pt` in shranite spremembo v datoteko. Spremenite samo številko ampak `pt` ostane enak.
 
-## Video vodič
+## Video verzija
 
 {{< youtube "U-uOC7PB4uE" >}}
+
+## Predvajalni seznam
+
+[Mozilla Firefox vodiči - SLOVENSKI](https://www.youtube.com/playlist?list=PLbvZxzmdNckyeHQYbvDKF3GK58peTHdnl "Kliknite/tapnite da odprete predvajalni seznam!")

@@ -7,7 +7,7 @@ categories:
   - how to
 tags: 
   - Windows
-  - windows update blocker
+  - Windows Update Blocker
 showtoc: false  # Table of content to hide (false) or show (true).
 draft: false  # Show (false) or hide (true) on page.
 language: "English"
