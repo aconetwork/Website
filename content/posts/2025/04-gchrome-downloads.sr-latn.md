@@ -1,7 +1,7 @@
 ---
 title: "Kako promeniti lokaciju preuzimanja v Google Chrome?"
-date: 2025-04-03T14:00:00+01:00
-# publishDate: 2025-03-12T12:01:33+01:00
+date: 2025-03-25T16:00:00+02:00
+publishDate: 2025-04-03T16:00:00+02:00
 url: /gchrome-preuzimanja-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
