@@ -155,3 +155,12 @@
     padding: 5px;
     margin-bottom: 5px;
 }
+
+/* Table specs */
+.post-content table th,
+.post-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
+    min-width: 60px;/*
+    padding: 8px 5px;
+    line-height: 1.5;
+    border-bottom: 1px solid var(--border);*/
+}

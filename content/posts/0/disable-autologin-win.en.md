@@ -1,9 +1,9 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-# publishDate: {{ .Date }}
-url: /{{ .Name }}/
-# image: images/2024-thumbs/{{ .Name }}.jpg
+title: "Disable Autologin Win"
+date: 2025-03-28T21:17:18+01:00
+# publishDate: 2025-03-28T21:17:18+01:00
+url: /disable-autologin-win/
+# image: images/2024-thumbs/disable-autologin-win.jpg
 categories: 
   - how to
   - AST
@@ -32,9 +32,6 @@ language: "English"
    
 
 {{< /collapse >}}
-
-[]( "Click/tap to open the site!")
-![](/images/social-logos/X.png)
 
 ## Video version
 

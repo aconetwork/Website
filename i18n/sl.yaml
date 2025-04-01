@@ -51,13 +51,13 @@
   translation: "Shrani nastavitve"
 
 - id: h_series
-  translation: "SERIALI"
+  translation: "Serijali"
 
 - id: h_archives
-  translation: "ARHIV"
+  translation: "Arhiv strani"
 
 - id: h_tags
-  translation: "OZNAKE"
+  translation: "Oznake"
 
 - id: series_abt_title_logo
   translation: "(ŠE NI OBJAV) Aco sestavlja tehnologijo (ABT) - sestavljanje računalnikov, naprav, ..."

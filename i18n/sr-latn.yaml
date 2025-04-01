@@ -51,13 +51,13 @@
   translation: "Sačuvaj podešavanja"
 
 - id: h_series
-  translation: "SERIJALI"
+  translation: "Serijali"
 
 - id: h_archives
-  translation: "ARHIV"
+  translation: "Arhiva stranice"
 
 - id: h_tags
-  translation: "OZNAKE"
+  translation: "Oznake"
 
 - id: series_abt_title_logo
   translation: "(JOŠ NIŠTA OBJAVLJENO) Aco sastavlja sehnologiju (ABT) - sastavljanje računara i više..."

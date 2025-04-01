@@ -25,13 +25,16 @@ language: "Slovenski"
 
 
 
-<!--*(Kliknite/tapnite na posamezni korak ali trikotnik za prikaz oz. skriti podrobnosti (slika, informacije, ...))*
+<!--*(Kliknite/tapnite na posamezni korak ali trikotnik za skriti ali prikazati podrobnosti (slika, informacije, ...))*
 
-{{< collapse summary="**Korak 1** ." openByDefault=false >}}
+{{< collapse summary="**Korak 1:** TEXTHERE" openByDefault=true >}}
 
- ![](/images/Google-Chrome/GChrome_desktop_shortcut.jpeg)
+   
 
 {{< /collapse >}}
+
+[]( "Click/tap to open the site!")
+![](/images/social-logos/X.png)
 
 ## Video verzija
 

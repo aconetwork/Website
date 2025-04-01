@@ -147,15 +147,19 @@ languages:
           weight: 20
         - identifier: search
           name: "Iskanje"
-          url: search/
+          url: isci/
           weight: 30
         #- identifier: archives
         #  name: "Arhiv"
         #  url: archives/
         #  weight: 40
+        # - identifier: tools
+        #   name: "Orodja"
+        #   url: orodja/
+        #   weight: 40
         - identifier: aboutme
           name: "O meni"
-          url: aboutme/
+          url: omeni-sl/
           weight: 50
         - identifier: rss
           name: "RSS"
@@ -189,7 +193,7 @@ languages:
           - name: Vodiči
             url: tags/
           - name: O meni
-            url: aboutme/
+            url: omeni-sl/
 
   sr-latn:
     languageName: "Srpski"
@@ -212,15 +216,19 @@ languages:
           weight: 20
         - identifier: search
           name: "Traženje"
-          url: search/
+          url: trazi/
           weight: 30
         #- identifier: archives
         #  name: "Arhiva"
         #  url: archives/
         #  weight: 40
+        # - identifier: tools
+        #   name: "Alati"
+        #   url: alati/
+        #   weight: 40
         - identifier: aboutme
           name: "O meni"
-          url: aboutme/
+          url: omeni-sr/
           weight: 50
         - identifier: rss
           name: "RSS"
@@ -253,7 +261,7 @@ languages:
           - name: Tutorijali
             url: tags/
           - name: O meni
-            url: aboutme/
+            url: omeni-sr/
 outputs:
     home:
       - HTML

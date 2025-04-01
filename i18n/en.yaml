@@ -51,13 +51,13 @@
   translation: "Save preferences"
 
 - id: h_series
-  translation: "SERIES"
+  translation: "Series"
 
 - id: h_archives
-  translation: "ARCHIVES"
+  translation: "Site archive"
 
 - id: h_tags
-  translation: "TAGS"
+  translation: "Tags"
 
 - id: series_abt_title_logo
   translation: "(NO POSTS YET) Aco Builds Tech (ABT) - building computers and more..."
