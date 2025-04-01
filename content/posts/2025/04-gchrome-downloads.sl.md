@@ -1,7 +1,7 @@
 ---
 title: "Kako spremeniti lokacijo prenosov v Google Chrome?"
 date: 2025-04-02T14:00:00+01:00
-# publishDate: 2025-03-12T12:01:09+01:00
+publishDate: 2025-04-01T16:00:00+02:00
 url: /gchrome-prenosi-sl/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
