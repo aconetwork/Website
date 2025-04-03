@@ -147,7 +147,7 @@ languages:
           weight: 20
         - identifier: search
           name: "Iskanje"
-          url: isci/
+          url: search/
           weight: 30
         #- identifier: archives
         #  name: "Arhiv"
@@ -216,7 +216,7 @@ languages:
           weight: 20
         - identifier: search
           name: "Traženje"
-          url: trazi/
+          url: search/
           weight: 30
         #- identifier: archives
         #  name: "Arhiva"
