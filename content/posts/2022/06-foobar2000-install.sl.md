@@ -20,7 +20,7 @@ Program [foobar2000](https://www.foobar2000.org/ "Kliknite/tapnite, da odprete s
 
 {{< collapse summary="**Korak 1:** Obiščite spletno stran `foobar2000.org`" openByDefault=true >}}
 
-   Odprite želeni spletni brskalnik in obiščite [https://www.foobar2000.org/](https://www.foobar2000.org/ "Kliknite/tapnite da odprete spletno stran!")
+   Odprite želeni spletni brskalnik in obiščite [https://www.foobar2000.org/](https://www.foobar2000.org/ "Kliknite/tapnite, da odprete spletno stran!")
 
    ![](/images/foobar2000/URL-foobar2000.jpeg)
 
@@ -36,7 +36,7 @@ Program [foobar2000](https://www.foobar2000.org/ "Kliknite/tapnite, da odprete s
 
    ![](/images/foobar2000/Page-foobar2000-download-latest-ver.jpeg)
 
-   Sedaj samo kar presnamite namestitveno datoteko kamor želite. Če ne veste, kaj potrebujete, preverite [Je vaš Windows 32 ali 64 bitni? 4. načini da ugotovite](https://www.youtube.com/watch?v=AjeHD8JEBm0 "Kliknite/tapnite za odprtje videa!").
+   Sedaj samo kar presnamite namestitveno datoteko kamor želite. Če ne veste, kaj potrebujete, preverite [Je vaš Windows 32 ali 64 bitni? 4. načini da ugotovite](https://www.youtube.com/watch?v=AjeHD8JEBm0 "Kliknite/tapnite, da odprete video!").
 
 {{< /collapse >}}
 
@@ -104,12 +104,13 @@ Pri prvem zagonu programa se prikaže `Quick Apperance Setup`, v katerem lahko n
 
 ## Povezave, več info
 
-- [foobar2000 site](https://www.foobar2000.org/ "Kliknite/tapnite za odprtje spletne strani!")
-- [Je vaš Windows 32 ali 64 bitni? 4. načini da ugotovite](https://www.youtube.com/watch?v=AjeHD8JEBm0 "Kliknite/tapnite za odprtje videa!")
-- [Perceived Volume vs Actual Volume (YouTube)](https://www.youtube.com/watch?v=5SQFV8fv0Ho "Kliknite/tapnite za odprtje spletne strani!").
-- [Perceived Loudness Explained](https://www.blackghostaudio.com/blog/perceived-loudness-explained "Kliknite/tapnite za odprtje spletne strani!").
-- [Loudness (Wiki)](https://en.wikipedia.org/wiki/Loudness "Kliknite/tapnite za odprtje spletne strani!")
-- [LOUDNESS Explained (YouTube)](https://www.youtube.com/watch?v=rRsxwDd59kc "Kliknite/tapnite za odprtje spletne strani!")
+- [foobar2000 site](https://www.foobar2000.org/ "Kliknite/tapnite`, da odprete spletno stran!")
+- [Je vaš Windows 32 ali 64 bitni? 4. načini da ugotovite](https://www.youtube.com/watch?v=AjeHD8JEBm0 "Kliknite/tapnite, da odprete videa!")
+- [Nastaviti isto glasnost na več MP3 datotek hkrati s foobar2000 - moj vodič](/foobar2000-mp3-glasnost-sl/ "Kliknite/tapnite, da odprete vodič!")
+- [Perceived Volume vs Actual Volume](https://www.youtube.com/watch?v=5SQFV8fv0Ho "Kliknite/tapnite, da odprete video!") ![- YouTube](/images/social-logos/YouTube.png)
+- [Perceived Loudness Explained](https://www.blackghostaudio.com/blog/perceived-loudness-explained "Kliknite/tapnite, da odprete spletno stran!")
+- [Loudness](https://en.wikipedia.org/wiki/Loudness "Kliknite/tapnite`, da odprete spletno stran!") ![- Wikipedia](/images/social-logos/logo_Wikipedia_20x20px.png)
+- [LOUDNESS Explained](https://www.youtube.com/watch?v=rRsxwDd59kc "Kliknite/tapnite`, da odprete video!") ![- YouTube](/images/social-logos/YouTube.png)
 
 ## Video verzija
 

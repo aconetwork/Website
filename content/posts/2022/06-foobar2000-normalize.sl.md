@@ -72,10 +72,10 @@ Zdaj lahko znova [analizirate](#analizirajte-več-glasbenih-datotek-mp3-za-ogled
 
 - [foobar2000 site](https://www.foobar2000.org/ "Kliknite/tapnite, da odprete spletno stran!")
 - [How to download and install foobar2000 - moj vodič](/foobar2000-namestitev-sl/ "Kliknite/tapnite, da odprete vodič!")
-- [Perceived Volume vs Actual Volume](https://www.youtube.com/watch?v=5SQFV8fv0Ho "Kliknite/tapnite, da odprete spletno stran!") ![- YouTube](/images/social-logos/YouTube.png)
+- [Perceived Volume vs Actual Volume](https://www.youtube.com/watch?v=5SQFV8fv0Ho "Kliknite/tapnite, da odprete video!") ![- YouTube](/images/social-logos/YouTube.png)
 - [Perceived Loudness Explained](https://www.blackghostaudio.com/blog/perceived-loudness-explained "Kliknite/tapnite, da odprete spletno stran!")
 - [Loudness](https://en.wikipedia.org/wiki/Loudness "Kliknite/tapnite, da odprete spletno stran!") ![- Wikipedia](/images/social-logos/logo_Wikipedia_20x20px.png)
-- [LOUDNESS Explained](https://www.youtube.com/watch?v=rRsxwDd59kc "Kliknite/tapnite, da odprete spletno stran!") ![- YouTube](/images/social-logos/YouTube.png)
+- [LOUDNESS Explained](https://www.youtube.com/watch?v=rRsxwDd59kc "Kliknite/tapnite, da odprete video!") ![- YouTube](/images/social-logos/YouTube.png)
 
 ## Video verzija
 

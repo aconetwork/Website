@@ -78,10 +78,10 @@ Now you can [Analyse/scan](#analysescan-volumes-of-multiple-mp3-files-if-you-wan
 
 - [foobar2000 site](https://www.foobar2000.org/ "Click/tap to open the web page!")
 - [How to download and install foobar2000 - my guide](/foobar2000-install-en/ "Click/tap to open the guide!")
-- [Perceived Volume vs Actual Volume](https://www.youtube.com/watch?v=5SQFV8fv0Ho "Click/tap to open the web page!") ![- YouTube](/images/social-logos/YouTube.png)
+- [Perceived Volume vs Actual Volume](https://www.youtube.com/watch?v=5SQFV8fv0Ho "Click/tap to open the video!") ![- YouTube](/images/social-logos/YouTube.png)
 - [Perceived Loudness Explained](https://www.blackghostaudio.com/blog/perceived-loudness-explained "Click/tap to open the web page!")
 - [Loudness](https://en.wikipedia.org/wiki/Loudness "Click/tap to open the web page!") ![- Wikipedia](/images/social-logos/logo_Wikipedia_20x20px.png)
-- [LOUDNESS Explained](https://www.youtube.com/watch?v=rRsxwDd59kc "Click/tap to open the web page!") ![- YouTube](/images/social-logos/YouTube.png)
+- [LOUDNESS Explained](https://www.youtube.com/watch?v=rRsxwDd59kc "Click/tap to open the video!") ![- YouTube](/images/social-logos/YouTube.png)
 
 ## Video version
 

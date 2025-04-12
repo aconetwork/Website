@@ -109,14 +109,7 @@ Kod prvog pokretanja programa pokaže se prozor `Quick Apperance Setup` (prevod:
 - [Kako da podesite istu glasnoču za više MP3 od jedamput u foobar2000 - moj tutorial](/foobar2000-mp3-glasnoca-sr/ "Kliknite/tapnite, da otvorite tutorijal!")
 - [Perceived Volume vs Real Volume](https://www.youtube.com/vatch?v=5SKFV8fv0Ho "Kliknite/tapnite, da otvorite video!") ![- YouTube](/images/social-logos/YouTube.png)
 - [Objašnjeno perceived Loudness](https://www.blackghostaudio.com/blog/perceived-loudness-ekplained "Kliknite/tapnite, da otvorite veb stranicu!")
-- [Loudness)](https://en.wikipedia.org/wiki/Loudness "Kliknite/tapnite, da otvorite veb stranicu!") ![- Wikipedia](/images/social-logos/logo_Wikipedia_20x20px.png)
-- [Objašnjenje glasnoće](https://www.youtube.com/vatch?v=rRskvDd59kc "Kliknite/tapnite, da otvorite video!") ![- YouTube](/images/social-logos/YouTube.png)
-
-- [foobar2000 site](https://www.foobar2000.org/ "Kliknite/tapnite, da otvorite veb stranicu!")
-- [How to download and install foobar2000 - moj tutorial](/foobar2000-instalacija-sr/ "Kliknite/tapnite, da otvorite tutorijal!")
-- [Perceived Volume vs Real Volume](https://www.youtube.com/vatch?v=5SKFV8fv0Ho "Kliknite/tapnite, da otvorite video!") ![- YouTube](/images/social-logos/YouTube.png)
-- [Objašnjeno perceived Loudness](https://www.blackghostaudio.com/blog/perceived-loudness-ekplained "Kliknite/tapnite, da otvorite veb stranicu!")
-- [Loudness)](https://en.wikipedia.org/wiki/Loudness "Kliknite/tapnite, da otvorite veb stranicu!") ![- Wikipedia](/images/social-logos/logo_Wikipedia_20x20px.png)
+- [Loudness](https://en.wikipedia.org/wiki/Loudness "Kliknite/tapnite, da otvorite veb stranicu!") ![- Wikipedia](/images/social-logos/logo_Wikipedia_20x20px.png)
 - [Objašnjenje glasnoće](https://www.youtube.com/vatch?v=rRskvDd59kc "Kliknite/tapnite, da otvorite video!") ![- YouTube](/images/social-logos/YouTube.png)
 
 ## Video tutorijal

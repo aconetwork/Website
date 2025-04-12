@@ -107,10 +107,10 @@ When program is opened for the first time window `Quick Appearance Setup`, where
 
 - [foobar2000 site](https://www.foobar2000.org/ "Click/tap to open the web page!")
 - [Is your windows 32 or 64bit? 4 ways to determine](https://www.youtube.com/watch?v=RdnbCTC5Xsg "Click/tap to open the video!")
-- [Perceived Volume vs Actual Volume (YouTube)](https://www.youtube.com/watch?v=5SQFV8fv0Ho "Click/tap to open the web page!")
+- [Perceived Volume vs Actual Volume](https://www.youtube.com/watch?v=5SQFV8fv0Ho "Click/tap to open the video!") ![- YouTube](/images/social-logos/YouTube.png)
 - [Perceived Loudness Explained](https://www.blackghostaudio.com/blog/perceived-loudness-explained "Click/tap to open the web page!")
-- [Loudness (Wiki)](https://en.wikipedia.org/wiki/Loudness "Click/tap to open the web page!")
-- [LOUDNESS Explained (YouTube)](https://www.youtube.com/watch?v=rRsxwDd59kc "Click/tap to open the web page!")
+- [Loudness](https://en.wikipedia.org/wiki/Loudness "Click/tap to open the web page!") ![- Wikipedia](/images/social-logos/logo_Wikipedia_20x20px.png)
+- [LOUDNESS Explained](https://www.youtube.com/watch?v=rRsxwDd59kc "Click/tap to open the video!") ![- YouTube](/images/social-logos/YouTube.png)
 
 ## Video version
 
