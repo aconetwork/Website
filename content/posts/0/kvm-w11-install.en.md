@@ -33,6 +33,10 @@ https://www.youtube.com/watch?v=7tqKBy9r9b4
       <address type="pci" domain="0x0000" bus="0x04" slot="0x00" function="0x0"/>
     </disk>
 
+## Share folder
+
+https://www.debugpoint.com/kvm-share-folder-windows-guest/
+
 ## Walkthrough Video
 <!--
 {{< youtube "" >}}

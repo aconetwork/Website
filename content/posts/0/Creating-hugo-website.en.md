@@ -82,7 +82,9 @@ New post:
     hugo new --kind posts.en posts/0/post-name.en.md
 
 sudo hugo server -F -D
-sudo hugo server -D -F --bind=192.168.1.100 --baseURL=http://192.168.1.100:1313   /* Setting computer IP adress to access from other network devices
+sudo hugo server -F -D --bind=192.168.1.100 --baseURL=http://192.168.1.100:1313   /* Setting computer IP adress to access from other network devices
+
+
 
 Deploy the site
 
