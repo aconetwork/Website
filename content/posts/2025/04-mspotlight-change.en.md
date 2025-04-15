@@ -47,7 +47,7 @@ Microsoft Spotlight is a tool that changes your Windows desktop background image
 
 {{< /collapse >}}
 
-## Video version
+## Video version (14.04.2025)
 <!--
 {{< youtube "" >}}
 -->

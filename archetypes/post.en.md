@@ -33,6 +33,8 @@ language: "English"
 
 {{< /collapse >}}
 
+*(This tutorial was made with Windows 11 24H2 64-bit)*
+
 []( "Click/tap to open the site!")
 ![](/images/social-logos/X.png)
 

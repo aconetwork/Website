@@ -1,0 +1,49 @@
+---
+title: "04 Win Ver"
+date: 2025-04-15T15:17:29+02:00
+publishDate: 2025-04-15T00:00:00+02:00
+url: /win-verzija-sr/
+# image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
+categories: 
+  - kako
+tags: 
+  - Windows
+  - kako
+showtoc: false  # Tabela sadržaja: Sakriti (false) ili pokazati (true).
+draft: false   # Prikaz na javnoj stranici: Prikaz (false) ili sakriti (true).
+language: "Srpski"
+---
+
+Danas tražimo verziju operativnog sistema Windows! Ovaj tutorijal radi na Windows 10 i 11.
+
+*(Kliknite na pojedinačni korak ili trougao da bi sakrili ili prikazali detalje (slike, informacije, ...))*
+
+{{< collapse summary="**Korak 1:** Sa levim dugmetom miša kliknite na dugme menija `Start`" openByDefault=true >}}
+
+   ![](/images/other/Win11_start_btn.jpeg)
+
+{{< /collapse >}}
+
+{{< collapse summary="**Korak 2:** Na tastaturi napišite `winver`" openByDefault=true >}}
+
+   ![](/images/other/Win11_sr_start_trazi_winver.jpeg)
+
+{{< /collapse >}}
+
+{{< collapse summary="**Korak 3:** Sa levim dugmetom miša kliknite na rezultat `winver` ispod `Najtačnije podudaranje`" openByDefault=true >}}
+
+   ![](/images/other/Win11_sr_start_trazi_winver_rezultat.jpeg)
+
+{{< /collapse >}}
+
+{{< collapse summary="**Korak 4:** Sada proverite vašu verziju, uživkajte!" openByDefault=true >}}
+
+   ![](/images/other/Win11_sr_osnovni_podaci_prozor.jpeg)
+
+{{< /collapse >}}
+
+*(Ovaj tutorijal je napravljen sa 64-bitnim Windows 11 24H2)*
+
+## Video verzija (17.04.2025, 18:00 / 06:00 PM, vremenska zona: CEST / UTC+2 / GMT+2)
+
+{{< youtube "uBkKuugQevk" >}}

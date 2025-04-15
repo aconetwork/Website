@@ -33,6 +33,8 @@ language: "Srpski"
 
 {{< /collapse >}}
 
+*(Ovaj tutorijal je napravljen sa 64-bitnim Windows 11 24H2)*
+
 []( "Click/tap to open the site!")
 ![](/images/social-logos/X.png)
 
