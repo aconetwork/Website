@@ -44,6 +44,8 @@ Danes poiščemo vašo verzijo operacijskega sistema Windows! Ta vodič deluje e
 
 *(Ta vodič je bil narejen na 64-bitnem Windows 11 24H2)*
 
-## Video verzija (16.04.2025, 18:00 / 06:00 PM, vremenski pas: CEST / UTC+2 / GMT+2)
+## Video verzija 
+
+*(16.04.2025, 18:00 / 06:00 PM, vremenski pas: CEST / UTC+2 / GMT+2)*
 
 {{< youtube "eo_2-SAVfrc" >}}

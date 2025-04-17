@@ -1,5 +1,5 @@
 ---
-title: "04 Win Ver"
+title: "Pa nađimo Windows verziju"
 date: 2025-04-15T15:17:29+02:00
 publishDate: 2025-04-15T00:00:00+02:00
 url: /win-verzija-sr/
@@ -44,6 +44,8 @@ Danas tražimo verziju operativnog sistema Windows! Ovaj tutorijal radi na Windo
 
 *(Ovaj tutorijal je napravljen sa 64-bitnim Windows 11 24H2)*
 
-## Video verzija (17.04.2025, 18:00 / 06:00 PM, vremenska zona: CEST / UTC+2 / GMT+2)
+## Video verzija
+
+*(17.04.2025, 18:00 / 06:00 PM, vremenska zona: CEST / UTC+2 / GMT+2)*
 
 {{< youtube "uBkKuugQevk" >}}

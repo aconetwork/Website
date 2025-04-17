@@ -44,6 +44,8 @@ Today is all about finding your Windows operating system version! This tutorial 
 
 *(This tutorial was made with Windows 11 24H2 64-bit)*
 
-## Video version (15.04.2025, 18:00 / 06:00 PM, timezone: CEST / UTC+2 / GMT+2)
+## Video version
+
+*(15.04.2025, 18:00 / 06:00 PM, timezone: CEST / UTC+2 / GMT+2)*
 
 {{< youtube "EeGlJYagmu8" >}}
