@@ -1,7 +1,7 @@
 ---
 title: "Change Spotlight to your pictures/color/..."
-date: 2025-04-09T11:01:00+02:00
-publishDate: 2025-04-22T00:00:00+02:00
+date: 2025-04-22T00:00:00+02:00
+# publishDate: 2025-04-22T00:00:00+02:00
 url: /mspotlight-change-en/
 # image: images/2024-thumbs/spotlight-reset.jpg
 categories: 

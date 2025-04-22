@@ -1,7 +1,7 @@
 ---
 title: "Promenite Spotlight u vaše slike/boje/..."
-date: 2025-04-09T11:01:00+02:00
-publishDate: 2025-04-22T00:00:00+02:00
+date: 2025-04-22T00:00:00+02:00
+# publishDate: 2025-04-22T00:00:00+02:00
 url: /mspotlight-promeni-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 

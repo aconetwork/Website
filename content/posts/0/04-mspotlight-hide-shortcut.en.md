@@ -1,7 +1,7 @@
 ---
 title: "Hide Spotlight shortcut from desktop"
-date: 2025-04-09T11:01:00+02:00
-publishDate: 2025-04-14T00:00:00+02:00
+date: 2025-04-14T00:00:00+02:00
+# publishDate: 2025-04-14T00:00:00+02:00
 url: /mspotlight-shortcut-hide-en/
 # image: images/2024-thumbs/spotlight-reset.jpg
 categories: 

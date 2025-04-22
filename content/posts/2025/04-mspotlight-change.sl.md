@@ -1,7 +1,7 @@
 ---
 title: "Spremenite Spotlight v vaše slike/barvo/..."
-date: 2025-04-09T11:01:00+02:00
-publishDate: 2025-04-22T00:00:00+02:00
+date: 2025-04-22T00:00:00+02:00
+# publishDate: 2025-04-22T00:00:00+02:00
 url: /mspotlight-spremeni-sl/
 # image: images/2024-thumbs/spotlight-reset.jpg
 categories: 
