@@ -1,6 +1,6 @@
 ---
 title: "Let's find Windows version"
-date: 2025-04-15T15:00:00:00
+date: 2025-04-15T00:00:00+02:00
 # publishDate: 2025-04-15T00:00:00+02:00
 url: /win-version-en/
 # image: images/2024-thumbs/04-win-ver.jpg

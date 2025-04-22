@@ -1,7 +1,7 @@
 ---
 title: "Pa nađimo Windows verziju"
-date: 2025-04-15T15:00:00:00
-# publishDate: 2025-04-15T00:00:00+02:00
+date: 2025-04-15T00:00:00+02:00
+# publishDate: 2025-04-15T00:00:00+02:00git
 url: /win-verzija-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
