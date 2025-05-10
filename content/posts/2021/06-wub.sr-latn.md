@@ -1,5 +1,5 @@
 ---
-title: "Kako onemogočiti Windows posodobitve s Windows Update Blocker"
+title: "Kako onemogučiti Windows ažuriranja sa Windows Update Blocker"
 date: 2021-06-13T18:00:00+02:00
 url: /wub-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
@@ -15,7 +15,7 @@ language: "Srpski"
 
 Pomoću malog programa Windows Update Blocker (WUB) od [Sordum](https://www.sordum.org/ "Kliknite/tapnite da otvorite stranicu Sordum!") možete onemogućiti ažuriranja za Windows, ali i *Microsoft Store* sa njime. 
 
-**PAZITE** da ne onemogućite ažuriranja za Windows trajno, već ih omogućite barem nekoliko puta mesečno, ažuriranja su veoma važna!
+**PAZITE** da ne onemogućite ažuriranja za Windows trajno, već ih omogućite barem nekoliko puta mesečno jer su ažuriranja su veoma važna!
 
 ## Preuzmite i otvorite Windows Update Blocker
 

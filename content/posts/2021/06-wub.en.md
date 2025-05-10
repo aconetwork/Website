@@ -15,7 +15,7 @@ language: "English"
 
 With tiny program Windows Update Blocker (WUB) by [Sordum](https://www.sordum.org/ "Click/tap to visit website Sordum!") you can disable Windows updates but you also disable Microsoft Store with it. 
 
-**BEWARE** not to disable Windows updates permanently but enable it at very least couple couple of times a month, updates are very important!
+**BEWARE** not to disable Windows updates permanently but enable it at very least couple couple of times a month because the updates are very important!
 
 ## Download & open Windows Update Blocker
 
