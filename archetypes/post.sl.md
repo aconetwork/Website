@@ -40,4 +40,6 @@ language: "Slovenski"
 
 ## Video verzija
 
+*(..2025, 18:00 / 06:00 PM, vremenski pas: CEST / UTC+2 / GMT+2)*
+
 {{< youtube "" >}}-->

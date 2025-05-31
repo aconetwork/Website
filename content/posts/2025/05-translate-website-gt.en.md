@@ -95,6 +95,8 @@ Enjoy 😁.
 
 ## Video version
 
+*(30.05.2025, 18:00 / 06:00 PM, timezone: CEST / UTC+2 / GMT+2)*
+
 {{< youtube "T3LEzuJ_0bU" >}}
 
 <!--*(Click on the individual step or triangle to hide or show the details (images, info, ...))*

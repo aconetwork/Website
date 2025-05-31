@@ -99,7 +99,9 @@ Uživajte 😁.
 
 ## Video verzija
 
-{{< youtube "T3LEzuJ_0bU" >}}
+*(30.05.2025, 18:00 / 06:00 PM, vremenski pas: CEST / UTC+2 / GMT+2)*
+
+{{< youtube "J2vkNC17vFQ" >}}
 
 <!--*(Kliknite/tapnite na posamezni korak ali trikotnik za skriti ali prikazati podrobnosti (slika, informacije, ...))*
 

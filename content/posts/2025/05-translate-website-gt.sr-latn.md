@@ -109,7 +109,9 @@ Uživajte 😁.
 
 ## Video verzija
 
-{{< youtube "T3LEzuJ_0bU" >}}s
+*(01.06.2025, 18:00 / 06:00 PM, vremenska zona: CEST / UTC+2 / GMT+2)*
+
+{{< youtube "i2N0fSBvfaA" >}}s
 
 <!--*(Kliknite na pojedinačni korak ili trougao da bi sakrili ili prikazali detalje (slike, informacije, ...))*
 
