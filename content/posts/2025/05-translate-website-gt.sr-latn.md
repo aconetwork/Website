@@ -6,20 +6,12 @@ url: /prevod-stranice-gt-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
   - kako
-  - AST
-  - AFT
-  - ART
-  - WIT
-  - zdravlje
 tags: 
   - Windows
   - Linux
-  - Ubuntu
-  - Android
-  - Šta je to
-  - hardver
+  - Prevod
 showtoc: false  # Tabela sadržaja: Sakriti (false) ili pokazati (true).
-draft: true   # Prikaz na javnoj stranici: Prikaz (false) ili sakriti (true).
+draft: false   # Prikaz na javnoj stranici: Prikaz (false) ili sakriti (true).
 language: "Srpski"
 ---
 
