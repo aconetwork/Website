@@ -50,7 +50,7 @@ Let's translate the website with [Google Translate](https://translate.google.com
 
   To open new tab click `+` button near your opened websites tabs, example:
   
-  ![](/images/Brave/Brave_-_new_tab_btn.jpeg)
+  ![](/images/Brave/Brave_-_en_-_new_tab_btn.jpeg)
 
   Now left mouse button click in the URL area, type in [Google Translate](https://translate.google.com "Click/tap to open the site!") address and press `Enter` key on the keyboard.
 
@@ -62,7 +62,7 @@ Let's translate the website with [Google Translate](https://translate.google.com
 
   By default `Default language` is selected and with this option it will try to detect the language but it is not always successfull so if you know what is the original page language select it (select the desired language with left mouse button click)! There are few other languages available near the `Default language` but if it is not correct one, left mouse button click on the arrow button and select yours with left mouse button click on the desired language.
   
-  ![](/images/Brave/Brave_-_google_translate_-_select_lang_source.jpeg)
+  ![](/images/Brave/Brave_-_en_-_google_translate_-_select_lang_source.jpeg)
 
 {{< /collapse >}}
 
