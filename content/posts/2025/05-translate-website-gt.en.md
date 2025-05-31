@@ -15,7 +15,7 @@ draft: false  # Draft: Show (false) or hide (true)
 language: "English"
 ---
 
-Let's translate the website with Google Translate!
+Let's translate the website with [Google Translate](https://translate.google.com "Click/tap to open the site!")!
 
 *(Click on the individual step or triangle to hide or show the details (images, info, ...))*
 
@@ -25,7 +25,7 @@ Let's translate the website with Google Translate!
 
   Web site address example:
 
-    https://aconetwork.net/sl/omeni-sl/
+    https://aconetwork.net/sl/omeni-sl
 
   Example in the web browser Brave: 
 
@@ -42,7 +42,7 @@ Let's translate the website with Google Translate!
   If right mouse button click on address and it is not selected by default, you can do this:
 
   - Left mouse button click on the end of the address and while holding it move mouse to the beggining of a address and when selected release mouse button.
-  - Left mouse button click on the empty area of the website and then left mouse button click on the address to select it or right mouse button click to try the original approach.
+  - Left mouse button click on the empty area of the website and then left mouse button click on the address to select it or right mouse button click to try the original approach from the beggining of this step.
 
 {{< /collapse >}}
 
@@ -66,7 +66,7 @@ Let's translate the website with Google Translate!
 
 {{< /collapse >}}
 
-{{< collapse summary="**Step 5:** In the text area on the left side right mouse button click in it and click `Paste` to paste previously copied page from the `Step 2`" openByDefault=true >}}
+{{< collapse summary="**Step 5:** In the text area on the left side right mouse button click in it and then left mouse button click the on `Paste` button to paste previously copied page from the `Step 2`" openByDefault=true >}}
   
   ![](/images/Brave/Brave_-_en_-_google_translate_left_paste_url.jpeg)
  
@@ -91,10 +91,11 @@ Enjoy 😁.
 ## Resources
 
 - [Google Translate](https://translate.google.com/ "Click/tap to open the website!")
+- [Brave web browser](https://brave.com/ "Click/tap to open the website!")
 
 ## Video version
 
-{{< youtube "T3LEzuJ_0bU" >}}-->
+{{< youtube "T3LEzuJ_0bU" >}}
 
 <!--*(Click on the individual step or triangle to hide or show the details (images, info, ...))*
 

@@ -35,7 +35,7 @@ language: "Slovenski"
 
 *(Ta vodič je bil narejen na 64-bitnem Windows 11 24H2)*
 
-[]( "Click/tap to open the site!")
+[]( "Kliknite/tapnite da odprete spletno stran!")
 ![](/images/social-logos/X.png)
 
 ## Video verzija
