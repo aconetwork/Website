@@ -74,7 +74,7 @@ Let's translate the website with [Google Translate](https://translate.google.com
 
 {{< collapse summary="**Step 6:** On the right side select with the left mouse button click desired language and if not shown left mouse button click on the arrow button" openByDefault=true >}}
 
-  ![](/images/Brave/Brave_-_google_translate_-_right_select_lang.jpeg)
+  ![](/images/Brave/Brave_-_en_-_google_translate_-_select_lang_translate.jpeg)
 
 {{< /collapse >}}
 
