@@ -20,25 +20,25 @@ Danes poiščemo vašo verzijo operacijskega sistema Windows! Ta vodič deluje e
 
 {{< collapse summary="**Korak 1:** S levo miškino tipko kliknemo na tipko menija `Start`" openByDefault=true >}}
 
-   ![](/images/other/Win11_start_btn.jpeg)
+   {{< figure align=center src="/images/other/Win11_start_btn.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 2:** Na tipkovnici napišite `winver`" openByDefault=true >}}
 
-   ![](/images/other/Win11_sl_start_isci_winver.jpeg)
+   {{< figure align=center src="/images/other/Win11sl_start_isci_winver.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 3:** S levo miškino tipko kliknemo na rezultat `winver` pod `Najustreznejši rezultati`" openByDefault=true >}}
 
-   ![](/images/other/Win11_sl_start_isci_winver_rezultat.jpeg)
+   {{< figure align=center src="/images/other/Win11sl_start_isci_winver_rezultat.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 4:** Sedaj si poglejte vašo verzijo, uživajte!" openByDefault=true >}}
 
-   ![](/images/other/Win11_sl_vizitka_okno.jpeg)
+   {{< figure align=center src="/images/other/Win11sl_-_vizitka_okno.jpeg" >}}
 
 {{< /collapse >}}
 

@@ -18,7 +18,10 @@ showtoc: false
 draft: true
 ---
 
-rename -n 's/ /_/g' *
+rename -n 's/ /_/g' `
+
+<!-- Rename 456 to 555 in all files containing 456 -->
+rename -n 's/456/555/g' `456`
 
 ## Walkthrough Video
 

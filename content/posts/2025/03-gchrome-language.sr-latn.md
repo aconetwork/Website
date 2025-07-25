@@ -21,61 +21,61 @@ Hajde da promenimo jezik za Google Chrome. Ova metoda radi na Windows operativno
 
 {{< collapse summary="**Korak 1** Otvorite veb pregledač Google Chrome." openByDefault=true >}}
 
- ![](/images/Google-Chrome/GChrome_desktop_shortcut.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/GChrome_desktop_shortcut.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 2** Sa levim dugmetom miša kliknite na dugme sa 3 tačke da biste otvorili meni." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_3_tacke_dugme.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_3_tacke_dugme.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 3** Sa levim dugmeta miša kliknite na dugme `Postavke`." openByDefault=true >}}
 
- ![](/images/Google-Chrome/Hr_-_GChrome_-_meni_-_Postavke.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_meni_-_Postavke.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 4** Sa levim dugmeta miša kliknite na dugme `Jezici`." openByDefault=true >}}
 
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Jezici.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Jezici.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 5** U području `Preferirani jezici` možete da dodate jedan ili više jezika sa klikom levog dugmeta miša na dugme `Dodaj jezike` ako željen jezik nije na spisku." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Jezici_-_dodaj_jezike.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Jezici_-_dodaj_jezike.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 6** V prozoru `Dodaj jezike` kliknite sa levim dugmetom miša na kvadratič željenog jezika ali više njih sa spiska. Opcionalno možete jezik potražite preko polja u gornjem desnom kutu prozora." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Jezici_-_dodaj_jezike_-_oznaciti.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Jezici_-_dodaj_jezike_-_oznaciti.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 7** Sa levim dugmetom miša kliknite dugme `Dodajte`, da to šta ste izabrali dodate na vaš spisak." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Jezici_-_dodaj_jezike_-_Dodajte.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Jezici_-_dodaj_jezike_-_Dodajte.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 8** Sa levim dugmetom miša kliknite na dugme sa 3 tačke u redu željenog jezika." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Jezici_-_3_tacke.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Jezici_-_3_tacke.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 9** Sa levim dugmetom miša kliknite na kvadratič pored `Prikaži Chrome na tom jeziku`." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Jezici_-_3_tacke_-_promeni_jezik.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Jezici_-_3_tacke_-_promeni_jezik.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 10** Sa levim dugmetom miša kliknite na dugme `Pokreni ponovno` gde se Chrome zatvori i u kratko nazad otvori u na novo definisanom jeziku." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Jezici_-_pokreni_ponovno.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Jezici_-_pokreni_ponovno.jpeg" >}}
 
 {{< /collapse >}}
 

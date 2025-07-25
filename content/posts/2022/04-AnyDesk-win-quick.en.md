@@ -19,11 +19,11 @@ language: "English"
 2. Visit the website [anydesk.com](https://anydesk.com/ "Click/tap to visit AnyDesk website!") or just use search engine like [Google](https://www.google.com/ "Click/tap to visit Google website!"), [DuckDuckGo](https://duckduckgo.com/ "Click/tap to visit DuckDuckGo website!") or whatever, search for `anydesk` and click on the result. 
 3. On the main AnyDesk website click red `Download Now` button.
    
-   ![](/images/AnyDesk/AnyDesk_dl_page_button_dl_now.jpeg)
+   {{< figure align=center src="/images/AnyDesk/AnyDesk_dl_page_button_dl_now.jpeg" >}}
 
 4. On new page select Windows or your operating system (OS) if site did not alerady selected correct one and click red `Download Now` button. For some other operating systems download part is little different.
    
-   ![](/images/AnyDesk/AnyDesk_Win_dl_now.jpeg)
+   {{< figure align=center src="/images/AnyDesk/AnyDesk_Win_dl_now.jpeg" >}}
    
 Direct link to download page: [anydesk.com/en/downloads/windows](https://anydesk.com/en/downloads/windows "Click/tap to visit AnyDesk download website!")
 

@@ -24,23 +24,23 @@ Ta vodnik govori o osnovnih stvareh, ki jih lahko počnete v spletnem brskalniku
 
 1. Odprite spletni brskalnik Google Chrome.
 
- ![](/images/Google-Chrome/GChrome_desktop_shortcut.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/GChrome_desktop_shortcut.jpeg" >}}
 
 2. S levo miškino tipko kliknite na tipko s tremi pikami za odpretje menija.
 
- ![](/images/Google-Chrome/Sl_-_GChrome_-_3_pike_tipka.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_3_pike_tipka.jpeg" >}}
 
 3. S kazalcem miške pojdite čez `Pomoč`.
 
- ![](/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Pomoc.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Pomoc.jpeg" >}}
 
 4. S levo miškino tipko kliknite na `O Google Chromu`.
 
- ![](/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Pomoc_-_O_Google_Chromu.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Pomoc_-_O_Google_Chromu.jpeg" >}}
 
 5. Na strani `O brskalniku Chrome` si poglejte verzijo programa brskalnika.
 
- ![](/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_O_brskalniku_stran.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_O_brskalniku_stran.jpeg" >}}
 
 **Video:**
 
@@ -52,19 +52,19 @@ Ta vodnik govori o osnovnih stvareh, ki jih lahko počnete v spletnem brskalniku
 
 1. Odprite spletni brskalnik Google Chrome.
 
- ![](/images/Google-Chrome/GChrome_desktop_shortcut.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/GChrome_desktop_shortcut.jpeg" >}}
 
 2. S levo miškino tipko kliknite na tipko s tremi pikami, da odprete meni.
 
- ![](/images/Google-Chrome/Sl_-_GChrome_-_3_pike_tipka.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_3_pike_tipka.jpeg" >}}
 
 3. S kazalcem miške pojdite čez `Zaznamki in seznami`.
 
- ![](/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Zaznamki_in_seznami.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Zaznamki_in_seznami.jpeg" >}}
 
 4. Za prikaz vrstice zaznamkov z levim gumbom miške kliknite na `Pokaži vrstico z zaznamki` ali skriti pa kliknite `Skrij vrstico s zaznamki`. Bljižnica na tipkovnici za prikazati/skriti vrstico je `CTRL` + `SHIFT` + `B`
 
- ![](/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Zaznamki_in_seznami_-_pokazi_vrstico.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Zaznamki_in_seznami_-_pokazi_vrstico.jpeg" >}}
 
 **Video (30.06.2021):**
 
@@ -76,29 +76,29 @@ Ta vodnik govori o osnovnih stvareh, ki jih lahko počnete v spletnem brskalniku
 
 1. Odprite spletni brskalnik Google Chrome.
 
- ![](/images/Google-Chrome/GChrome_desktop_shortcut.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/GChrome_desktop_shortcut.jpeg" >}}
 
 2. S levo miškino tipko kliknite na tipko s tremi pikami, da odprete meni.
 
- ![](/images/Google-Chrome/Sl_-_GChrome_-_3_pike_tipka.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_3_pike_tipka.jpeg" >}}
 
 1. S levo miškino tipko kliknite na `Nastavitve`.
    
-   ![](/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Nastavitve.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Nastavitve.jpeg" >}}
 
 2. S levo miškino tipko kliknite na `Videz`.
    
-   ![](/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_videz.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_videz.jpeg" >}}
 
-3. V vrstici `Prikaži gumb za domačo stran` kliknite stikalo za VKLOP ![](/images/Google-Chrome/GChrome_switch_ON.jpeg) (za prikaz ![](/images/Google-Chrome/GChrome_button_home.jpeg)) ali IZKLOP ![](/images/Google-Chrome/GChrome_switch_OFF.jpeg) (za skriti ![](/images/Google-Chrome/GChrome_button_home.jpeg)).
+3. V vrstici `Prikaži gumb za domačo stran` kliknite stikalo za VKLOP {{< figure align=center src="/images/Google-Chrome/GChrome_switch_ON.jpeg" >}} (za prikaz {{< figure align=center src="/images/Google-Chrome/GChrome_button_home.jpeg" >}}) ali IZKLOP {{< figure align=center src="/images/Google-Chrome/GChrome_switch_OFF.jpeg" >}} (za skriti {{< figure align=center src="/images/Google-Chrome/GChrome_button_home.jpeg" >}}).
    
-   ![](/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_videz_-_pokazi_domov_ON.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_videz_-_pokazi_domov_ON.jpeg" >}}
 
-   S klikom na tipko Domov ![](/images/Google-Chrome/GChrome_button_home.jpeg), lahko nastavite da odpre:
+   S klikom na tipko Domov {{< figure align=center src="/images/Google-Chrome/GChrome_button_home.jpeg" >}}, lahko nastavite da odpre:
    
-      - ![](/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_videz_-_pokazi_domov_ON_-_nov_zavihek.jpeg) stran novega zavihka ALI
+      - {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_videz_-_pokazi_domov_ON_-_nov_zavihek.jpeg" >}} stran novega zavihka ALI
    
-      - ![](/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_videz_-_pokazi_domov_ON_-_specificna_stran.jpeg) stran, ki jo vi definirate.
+      - {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_videz_-_pokazi_domov_ON_-_specificna_stran.jpeg" >}} stran, ki jo vi definirate.
 
 **Video:**
 

@@ -13,14 +13,14 @@ draft: true  # Draft: Show (false) or hide (true)
 language: "English"
 ---
 
-1. **Install Samba**
+1. ``Install Samba``
 
     Open terminal window and run:
 
         sudo apt update
         sudo apt install samba
 
-2. **Stop Samba daemon**
+2. ``Stop Samba daemon``
     
     Check if Samba service is running:
 
@@ -30,7 +30,7 @@ language: "English"
 
         sudo systemctl stop smbd
     
-3. **Back up Samba config file**
+3. ``Back up Samba config file``
     
     Go to a Samba folder:
 
@@ -42,7 +42,7 @@ language: "English"
     
     Now make sure Samba service is stopped `sudo systemctl stop smbd` (like we did before and you can check if stopped).
 
-4. **Create and edit new Samba config file**
+4. ``Create and edit new Samba config file``
     
     We will spend most of the time setting up that config file so let's create new Samba config file with `nano` text editor (you can use whatever text editor you want!):
     
@@ -58,7 +58,7 @@ language: "English"
         name resolve order = bcast host
         include = /etc/samba/shares.conf
 
-5. **Create Samba shares config file**
+5. ``Create Samba shares config file``
 
         sudo nano /etc/samba/shares.conf
     
@@ -87,15 +87,15 @@ language: "English"
         writable = no
         Create samba user and group
 
-6. **Create group**
+6. ``Create group``
 
         sudo groupadd --system smbgroup
 
-7. **Create user**
+7. ``Create user``
 
         sudo useradd --system --no-create-home --group smbgroup -s /bin/false smbuser
 
-8. **Create shared directories**
+8. ``Create shared directories``
 
     Create directories:
 
@@ -115,5 +115,5 @@ https://www.youtube.com/watch?v=Df1MwI9jaPc
 
 ## Walkthrough Video
 <!--
-{{< youtube "" >}}
+
 -->

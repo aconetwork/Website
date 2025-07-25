@@ -38,8 +38,16 @@ language: "English"
 []( "Click/tap to open the site!")
 ![](/images/social-logos/X.png)
 
+{{< figure align=center src="/images/Brave/Brave_sl_-_shrani_povezavo_kao_reg_fajl.jpeg" >}}
+
 ## Video version
+
+{{< youtube "O1DA0HpFK-4" >}}
 
 *(..2025, 18:00 / 06:00 PM, timezone: CEST / UTC+2 / GMT+2)*
 
-{{< youtube "" >}}-->
+{{< rawhtml >}}
+<p style="color:green;text-align:center;">Hello World!</p>
+{{< /rawhtml >}}
+
+-->

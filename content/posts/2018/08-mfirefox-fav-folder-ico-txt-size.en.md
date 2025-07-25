@@ -19,17 +19,17 @@ Let's set Firefox font size and change bookmarks folder icons. **Before** you do
 
 ## Open Firefox profile folder
 
-1. Left mouse button click on the menu button ![](/images/Mozilla-Firefox/mfirefox_menu_button.jpeg) and then Left mouse button click `Help`.
+1. Left mouse button click on the menu button {{< figure align=center src="/images/Mozilla-Firefox/mfirefox_menu_button.jpeg" >}} and then Left mouse button click `Help`.
    
-   ![test](/images/Mozilla-Firefox/mfirefox_menu_help.en.jpeg)
+   ![test](/images/Mozilla-Firefox/mfirefox_menu_help.en.jpeg" >}}
 
 2. Left mouse button click on `Troubleshooting Information`.
    
-   ![](/images/Mozilla-Firefox/mfirefox_menu_troubleshooting_info.en.jpeg)
+   {{< figure align=center src="/images/Mozilla-Firefox/mfirefox_menu_troubleshooting_info.en.jpeg" >}}
 
 3. Left mouse button click on the button `Open Folder` in the same line of the `Profile Folder`.
    
-   ![](/images/Mozilla-Firefox/mfirefox_troubleshooting_info.en.jpeg)
+   {{< figure align=center src="/images/Mozilla-Firefox/mfirefox_troubleshooting_info.en.jpeg" >}}
 
 You can also open your file explorer and go to browsers profile folder similar to this:
 

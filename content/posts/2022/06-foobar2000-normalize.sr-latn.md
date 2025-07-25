@@ -24,13 +24,13 @@ Kada se program `foobar2000` otvori prvi put u prozoru `brzo podešavanje izgled
 
 {{< collapse summary="**Korak 1:** Izaberite svu muziku sa liste koje želite da analizirate i kliknite desnim dugmetom miša na izabrano" openByDefault=true >}}
 
-   ![](/images/foobar2000/En-foobar2000-playlist-select-mp3-lmb.jpeg)
+   {{< figure align=center src="/images/foobar2000/En-foobar2000-playlist-select-mp3-lmb.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 2:** Idite preko `ReplayGain` i sa levim dugmetom miša kliknite na `Scan per-file track gain` (prevod: Skeniraj i ojačaj inviduelnu datoteku)" openByDefault=true >}}
 
-   ![](/images/foobar2000/En-foobar2000-playlist-select-mp3-lmb-scan.jpeg)
+   {{< figure align=center src="/images/foobar2000/En-foobar2000-playlist-select-mp3-lmb-scan.jpeg" >}}
 
    V novem oknu vidite seznam glasbenih datotek, pod stolpcem `Track gain` (prevod: glasnost posnetka) pa vidite, koliko glasnejše (+) ali tišje (-) so glasnosti od 89db (**d**eci**b**el). Ako želite trenutačne vrednosti ubaciti u informacije datoteka MP3, sa levim dugmetom miša kliknite na durgme `Update File Tags` (prevod: Ažuriraj oznake datoteka), u nasprotnom primeru pa sa levim dugmetom miša kliknite na durgme `Cancel` (prevod: otkaži).
 
@@ -42,19 +42,19 @@ Kada se program `foobar2000` otvori prvi put u prozoru `brzo podešavanje izgled
 
 {{< collapse summary="**Korak 1:** Izaberite svu muziku sa liste koje želite da analizirate i kliknite desnim dugmetom miša na izabrano" openByDefault=true >}}
 
-   ![](/images/foobar2000/En-foobar2000-playlist-select-mp3-lmb.jpeg)
+   {{< figure align=center src="/images/foobar2000/En-foobar2000-playlist-select-mp3-lmb.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 2:** Idite preko `ReplayGain` i sa levim dugmetom miša kliknite na `Apply gain to file content...` (prevod: Primeni pojačanje na sadržaj datoteke...)" openByDefault=true >}}
 
-   ![](/images/foobar2000/En-foobar2000-playlist-select-mp3-lmb-apply.jpeg)
+   {{< figure align=center src="/images/foobar2000/En-foobar2000-playlist-select-mp3-lmb-apply.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 3:** Možete koristiti podrazumevana podešavanja (kao na slici ispod) i kliknuti levim dugmetom miša na dugme `Start`" openByDefault=true >}}
 
-   ![](/images/foobar2000/En-foobar2000-playlist-select-mp3-lmb-apply-start.jpeg)
+   {{< figure align=center src="/images/foobar2000/En-foobar2000-playlist-select-mp3-lmb-apply-start.jpeg" >}}
 
    U prozoru `Apply gain to file contents - Setup` (prevod: Primeni podešavanja na sadržaj datoteke - Podešavanje) možete podesiti gomilu stvari, ali predlažem da izaberete:
    - Izaberite `Apply track ReplayGain` (prevod: Primeni ReplayGain po datoteki) .

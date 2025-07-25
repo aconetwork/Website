@@ -29,7 +29,7 @@ Prevedimo veb stranicu sa [Google Prevodilac](https://translate.google.com "Klik
 
   Primer v spletnem brskalniku Brave: 
 
-  ![](/images/Brave/Brave_-_url_-_aconetwork_about_me_en.jpeg)
+  {{< figure align=center src="/images/Brave/Brave_-_url_-_aconetwork_about_me_en.jpeg" >}}
 
 {{< /collapse >}}
 
@@ -37,7 +37,7 @@ Prevedimo veb stranicu sa [Google Prevodilac](https://translate.google.com "Klik
 
   Sa desnim dugmetom miša kliknite na adresu veb sajta i sa levim dugmetom miša kliknite na `Kopiraj`.
   
-  ![](/images/Brave/Brave_-_hr_-_kopiraj_url.jpeg)
+  {{< figure align=center src="/images/Brave/Brave_hr_-_kopiraj_url.jpeg" >}}
 
   Ako kliknete desnim dugmetom miša na naslov a on nije podrazumevano izabran, možete da uradite sledeće:
 
@@ -50,7 +50,7 @@ Prevedimo veb stranicu sa [Google Prevodilac](https://translate.google.com "Klik
 
   Da otvorite novu karticu sa levim dugmetom miša kliknite na dugme `+` na desnoj strani zadnje otvorene kartice sa desne strane, primer:
   
-  ![](/images/Brave/Brave_-_hr_-_nova_kartica_dugme.jpeg)
+  {{< figure align=center src="/images/Brave/Brave_hr_-_nova_kartica_dugme.jpeg" >}}
 
   Sada kliknite levim dugmetom miša u polje za adresu veb stranice, upišite veb adresu [Google Translate](https://translate.google.com "Kliknite/tapnite da otvorite stranicu!") i pritisnite dugme `Enter` na tastaturi.
 
@@ -62,31 +62,31 @@ Prevedimo veb stranicu sa [Google Prevodilac](https://translate.google.com "Klik
 
   Podrazumevano je izabrana opcija `Otkrij jezik` i sa ovom opcijom Google će pokušati da otkrije jezik stranice ali to nije uvek uspešno, zbog toga pa odaberite jezik ako znate koji je jezik stranice (odaberete sa klikom na levo dugme miša)! Sa desne strane `Otkrij jezik` dostupno je još nekoliko jezika ali ako nema pravog, kliknite levim dugmetom miša na dugme sa strelicom i odaberite željeni jezik klikom levog dugmeta miša na njega.
   
-  ![](/images/Brave/Brave_-_hr_-_google_translate_-_odabir_izvornega_jezika.jpeg)
+  {{< figure align=center src="/images/Brave/Brave_hr_-_google_translate_-_odabir_izvornega_jezika.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 5:** U tekstualnom polju sa leve strane kliknite desnim dugmetom miša a zatim levim dugmetom miša na dugme `Zaljepi` / `Prilepi` da nalepite prethodno kopiranu stranicu iz `Korak 2`" openByDefault=true >}}
   
-  ![](/images/Brave/Brave_-_hr_-_google_translate_-_levo_zaljepi_url.jpeg)
+  {{< figure align=center src="/images/Brave/Brave_hr_-_google_translate_-_levo_zaljepi_url.jpeg" >}}
  
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 6:** Sa desne strane kliknite levim dugmetom miša na željeni jezik a ako nije prikazan kliknite levim dugmetom miša na dugme sa strelicom" openByDefault=true >}}
 
-  ![](/images/Brave/Brave_-_hr_-_google_translate_-_desno_odabir_jezika.jpeg)
+  {{< figure align=center src="/images/Brave/Brave_hr_-_google_translate_-_desno_odabir_jezika.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 7:** Sa desne strane kliknite levim dugmetom miša na link, da se pokaže prevod stranice" openByDefault=true >}}
 
-  ![](/images/Brave/Brave_-_hr_-_google_translate_-_desno_levi_miš_link_klik.jpeg)
+  {{< figure align=center src="/images/Brave/Brave_hr_-_google_translate_-_desno_levi_miš_link_klik.jpeg" >}}
 
 {{< /collapse >}}
 
 Primer konačne Google Translate stranice:
 
-![](/images/Brave/Brave_-_hr_-_google_translate_-_finalni_prikaz.jpeg)
+{{< figure align=center src="/images/Brave/Brave_hr_-_google_translate_-_finalni_prikaz.jpeg" >}}
 
 **Achenski jezik je označen greškom ali sam kasnije promenio šta se vidi u videu!**
 
@@ -103,21 +103,4 @@ Uživajte 😁.
 
 *(01.06.2025, 18:00 / 06:00 PM, vremenska zona: CEST / UTC+2 / GMT+2)*
 
-{{< youtube "i2N0fSBvfaA" >}}s
-
-<!--*(Kliknite na pojedinačni korak ili trougao da bi sakrili ili prikazali detalje (slike, informacije, ...))*
-
-{{< collapse summary="**Korak 1:** TEXTHERE" openByDefault=true >}}
-
-   
-
-{{< /collapse >}}
-
-*(Ovaj tutorijal je napravljen sa 64-bitnim Windows 11 24H2)*
-
-[]( "Kliknite/tapnite da otvorite stranicu!")
-![](/images/social-logos/X.png)
-
-## Video verzija
-
-{{< youtube "" >}}-->
+{{< youtube "i2N0fSBvfaA" >}}

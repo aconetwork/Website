@@ -20,31 +20,31 @@ Let’s change the download location for Google Chrome.
 
 {{< collapse summary="**Step 1:** Open Google Chrome web browser" openByDefault=true >}}
 
-   ![](/images/Google-Chrome/GChrome_desktop_shortcut.jpeg) 
+   {{< figure align=center src="/images/Google-Chrome/GChrome_desktop_shortcut.jpeg" >}} 
 
 {{< /collapse >}}
 
 {{< collapse summary="**Step 2** Left mouse button click on 3 dots button to open the menu." openByDefault=true >}}
 
-   ![](/images/Google-Chrome/En_-_GChrome_-_3_dots_btn.jpeg) 
+   {{< figure align=center src="/images/Google-Chrome/En_-_GChrome_-_3_dots_btn.jpeg" >}} 
 
 {{< /collapse >}}
 
 {{< collapse summary="**Step 3** Left mouse button click on `Settings`." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/En_-_GChrome_menu_-_Settings_btn.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/En_-_GChrome_menu_-_Settings_btn.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Step 4** Left mouse button click on `Downloads` in the left menu." openByDefault=true >}}
 
-   ![](/images/Google-Chrome/En_-_GChrome_Settings_-_Downloads_btn.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/En_-_GChrome_Settings_-_Downloads_btn.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Step 5** In the `Downloads` section in the right of the `Location` with left mouse button click on the `Change` button to change the downloads location." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/En_-_GChrome_Settings_-_Downloads_btn_-_Change_btn.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/En_-_GChrome_Settings_-_Downloads_btn_-_Change_btn.jpeg" >}}
 
    - Under the `Location` is current downloads path.
    - Toggle the switch on the right of the `Ask where to save each file before downloading` to get notified or not where to save the file you are downloading.
@@ -54,7 +54,7 @@ Let’s change the download location for Google Chrome.
 
 {{< collapse summary="**Step 6** In the `Location` window open the desired folder for the downloads, so you are inside it." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/En_-_GChrome_Settings_-_Downloads_btn_-_Change_btn_-_Location.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/En_-_GChrome_Settings_-_Downloads_btn_-_Change_btn_-_Location.jpeg" >}}
 
    - If you need to create new folder left mouse button click on `New folder` button. 
 
@@ -62,7 +62,7 @@ Let’s change the download location for Google Chrome.
 
 {{< collapse summary="**Step 7** To confirm selected folder left mouse button click on `Select folder` button." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/En_-_GChrome_Settings_-_Downloads_btn_-_Change_btn_-_Select_folder_btn.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/En_-_GChrome_Settings_-_Downloads_btn_-_Change_btn_-_Select_folder_btn.jpeg" >}}
 
    Now new folder is set, enjoy.
 

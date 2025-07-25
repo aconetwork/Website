@@ -20,25 +20,25 @@ language: "English"
 
 {{< collapse summary="**Step 1:** Open Google Chrome web browser" openByDefault=true >}}
 
-   ![](/images/Google-Chrome/GChrome_desktop_shortcut.jpeg) 
+   {{< figure align=center src="/images/Google-Chrome/GChrome_desktop_shortcut.jpeg" >}} 
 
 {{< /collapse >}}
 
 {{< collapse summary="**Step 2** Left mouse button click on 3 dots button to open the menu." openByDefault=true >}}
 
-   ![](/images/Google-Chrome/En_-_GChrome_-_3_dots_btn.jpeg) 
+   {{< figure align=center src="/images/Google-Chrome/En_-_GChrome_-_3_dots_btn.jpeg" >}} 
 
 {{< /collapse >}}
 
 {{< collapse summary="**Step 3** With mouse cursor go over the `Bookmarks and Lists`." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/En_-_GChrome_menu_-_Bookmarks_and_lists.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/En_-_GChrome_menu_-_Bookmarks_and_lists.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Step 4** To show bookmarks bar left mouse button click on `Show bookmarks bar` or to hide it click `Hide bookmarks bar`. To show/hide with the keyboard use shortcut `CTRL` + `SHIFT` + `B`" openByDefault=true >}}
    
-   ![](/images/Google-Chrome/En_-_GChrome_menu_-_Bookmarks_and_lists_-_Show_bookmarks_toolbar_btn.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/En_-_GChrome_menu_-_Bookmarks_and_lists_-_Show_bookmarks_toolbar_btn.jpeg" >}}
 
 {{< /collapse >}}
 

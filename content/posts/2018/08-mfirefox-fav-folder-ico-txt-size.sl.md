@@ -20,17 +20,17 @@ Pa nastavimo velikost pisave Firefoxa in spremenimo ikone map z zaznamki. **Pred
 
 ## Odprite mapo profila Firefox
 
-1. Z levim gumbom miške kliknite gumb menija ![](/images/Mozilla-Firefox/mfirefox_menu_button.jpeg) in nato z levim gumbom miške kliknite `Pomoč`.
+1. Z levim gumbom miške kliknite gumb menija {{< figure align=center src="/images/Mozilla-Firefox/mfirefox_menu_button.jpeg" >}} in nato z levim gumbom miške kliknite `Pomoč`.
 
- ![](/images/Mozilla-Firefox/mfirefox_menu_help.sl.jpeg)
+ {{< figure align=center src="/images/Mozilla-Firefox/mfirefox_menu_help.sl.jpeg" >}}
 
 1. Z levim gumbom miške kliknite `Reševanje težav ...`.
 
- ![](/images/Mozilla-Firefox/mfirefox_menu_troubleshooting_info.sl.jpeg)
+ {{< figure align=center src="/images/Mozilla-Firefox/mfirefox_menu_troubleshooting_info.sl.jpeg" >}}
 
 1. Levi gumb miške kliknite na gumb `Odpri mapo` v isti vrstici `Mapa s profilom`.
 
- ![](/images/Mozilla-Firefox/mfirefox_troubleshooting_info.sl.jpeg)
+ {{< figure align=center src="/images/Mozilla-Firefox/mfirefox_troubleshooting_info.sl.jpeg" >}}
 
 Lahko tudi odprete svoj raziskovalec datotek in odprete mapo profila brskalnika, podobno tej:
 

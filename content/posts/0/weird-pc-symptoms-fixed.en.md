@@ -33,4 +33,3 @@ Sometimes computer can give you very strange issues, important is to diagnose ac
 
 ## Walkthrough Video
 
-<!-- {{< youtube "" >}} -->

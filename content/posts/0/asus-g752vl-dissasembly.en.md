@@ -21,8 +21,6 @@ This guide is a bottom part dissasembly of gaming laptop Asus ROG G752VL, then c
 
 1. On the table, put on some rubber mat or something so you do not scratch your laptop. Put the laptop on it upside down, remove all the screw rubber covers, unscrew & take out the screws.
    
-   <!-- ![]() -->
-   
 2. Lift the middle rubber, unscrew the screw & take out under it and remove the plastic cover from top side.
 3. Unscrew & take out the screws for 2,5" disk drive and take the drive out. Optionally you can unscrew screws on the NVMe heat sink plate and remove the plate.
 4. Unscrew & take out remaining screws.

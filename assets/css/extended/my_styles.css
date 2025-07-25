@@ -18,6 +18,7 @@
     --code-bg: rgb(255, 255, 255);
     --theme-header: rgb(245, 245, 245);/**/
     --border: rgb(240, 240, 240);
+    --border-figure: rgb(194, 152, 0);
     --details-title-bg-color: rgb(240, 240, 240);   /* Color for the collapsable element */
 }
 
@@ -33,6 +34,7 @@
     --code-bg: rgb(55, 56, 62);
     --theme-header: rgb(55, 56, 62);/**/
     --border: rgb(55, 56, 62);
+    --border-figure: rgb(194, 152, 0);
     --details-title-bg-color: rgb(55, 56, 62);   /* Color for the collapsable element */
 }
 
@@ -145,7 +147,7 @@
 
 /* Collapsable */
 .post-content details {
-    border: 1px solid var(--details-title-bg-color);
+    border: 4px solid var(--details-title-bg-color);
     padding: 5px 5px 0 5px;
 }
 
@@ -164,3 +166,47 @@
     line-height: 1.5;
     border-bottom: 1px solid var(--border);*/
 }
+
+/* Figure picture styles */
+.post-content figure {
+    padding: 4px;
+    text-align: center; 
+    border: 6px solid var(--border);
+    display: inline-block; 
+    margin: 6px 1px 6px 1px;
+}
+
+.post-content figure figcaption {
+    color: var(--code-font-color);
+    font-size: 16px;
+    font-weight: bold;
+    margin: 2px 0 2px;
+    background-color: var(--border);
+}
+
+.post-content figure img {
+  margin: 0 !important;
+}
+
+/*
+.post-content figure.align-center {
+    text-align: center;
+}
+
+.post-content figure > figcaption {
+    color: var(--primary);
+    font-size: 16px;
+    font-weight: bold;
+    margin: 2px 0 2px;
+}
+
+.post-content figure > figcaption > p {
+    color: var(--secondary);
+    font-size: 14px;
+    font-weight: normal;
+}*/
+
+
+
+
+

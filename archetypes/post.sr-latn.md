@@ -35,11 +35,19 @@ language: "Srpski"
 
 *(Ovaj tutorijal je napravljen sa 64-bitnim Windows 11 24H2)*
 
-[]( "Kliknite/tapnite da otvorite stranicu!")
+[]( "Kliknite/tapnite, da otvorite stranicu!")
 ![](/images/social-logos/X.png)
+
+{{< figure align=center src="/images/Brave/Brave_sl_-_shrani_povezavo_kao_reg_fajl.jpeg" >}}
 
 ## Video verzija
 
+{{< youtube "O1DA0HpFK-4" >}}
+
 *(..2025, 18:00 / 06:00 PM, vremenska zona: CEST / UTC+2 / GMT+2)*
 
-{{< youtube "" >}}-->
+{{< rawhtml >}}
+<p style="color:green;text-align:center;">Hello World!</p>
+{{< /rawhtml >}}
+
+-->

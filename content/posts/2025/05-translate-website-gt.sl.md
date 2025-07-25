@@ -29,7 +29,7 @@ Prevedimo spletno stran s [Google Prevajalnik](https://translate.google.com "Kli
 
   Primer v spletnem brskalniku Brave: 
 
-  ![](/images/Brave/Brave_-_url_-_aconetwork_about_me_en.jpeg)
+  {{< figure align=center src="/images/Brave/Brave_-_url_-_aconetwork_about_me_en.jpeg" >}}
 
 {{< /collapse >}}
 
@@ -37,7 +37,7 @@ Prevedimo spletno stran s [Google Prevajalnik](https://translate.google.com "Kli
 
   Z desno miškino tipko kliknite na naslov spletne strani in z levo miškino tipko kliknite `Kopiraj`.
   
-  ![](/images/Brave/Brave_-_sl_-_kopiraj_url.jpeg)
+  {{< figure align=center src="/images/Brave/Brave_sl_-_kopiraj_url.jpeg" >}}
 
   Če z desno miškino tipko kliknete na naslov in ta ni privzeto izbrana, lahko storite naslednje:
 
@@ -50,7 +50,7 @@ Prevedimo spletno stran s [Google Prevajalnik](https://translate.google.com "Kli
 
   Da odprete nov zavihek kliknite z levo miškino tipko `+` tipko blizu zadnjega desnega odpretega zavihka, primer:
   
-  ![](/images/Brave/Brave_-_sl_-_nov_zavihek_tipka.jpeg)
+  {{< figure align=center src="/images/Brave/Brave_sl_-_nov_zavihek_tipka.jpeg" >}}
 
   Sedaj s levo miškino tipko kliknite v področje naslova spletne strani, vpišite spletni naslov [Google Translate](https://translate.google.com "Kliknite/tapnite da odprete spletno stran!") in pritisnite `Enter` tipko na tipkovnici.
 
@@ -62,31 +62,31 @@ Prevedimo spletno stran s [Google Prevajalnik](https://translate.google.com "Kli
 
   Privzeto je izbrana možnost `Zaznaj jezik` in s to možnostjo bo Google poskušal zaznati jezik strani vendar ni vedno uspešno, zato jezik izberite če veste, kateri je izvirni jezik strani (izberite želeni jezik z klikom leve miškine tipke)! Na desni strani od `Zaznaj jezik` je na voljo še nekaj drugih jezikov, če pa ni pravilen, kliknite z levo miškino tipko na tipko puščice in izberite želeni jezik z klikom leve miškine tipke nanj.
   
-  ![](/images/Brave/Brave_-_sl_-_google_translate_-_izbor_izvornega_jezika.jpeg)
+  {{< figure align=center src="/images/Brave/Brave_sl_-_google_translate_-_izbor_izvornega_jezika.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 5:** V besedilnem območju na levi strani kliknite z desno miškino tipko in nato z levo miškino tipko kliknite na tipko `Prilepi`, da prilepite prej kopirano stran iz `Korak 2`" openByDefault=true >}}
   
-  ![](/images/Brave/Brave_-_sl_-_google_translate_-_levo_prilepi_url.jpeg)
+  {{< figure align=center src="/images/Brave/Brave_sl_-_google_translate_-_levo_prilepi_url.jpeg" >}}
  
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 6:** Na desni strani z levo miškino tipko izberite želeni jezik in če ni prikazan kliknite z levo miškino tipko na tipko puščice" openByDefault=true >}}
 
-  ![](/images/Brave/Brave_-_sl_-_google_translate_-_desno_izbor_jezika.jpeg)
+  {{< figure align=center src="/images/Brave/Brave_sl_-_google_translate_-_desno_izbor_jezika.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 7:** Na desni strani z levo miškino tipko kliknite na povezavo za prikaz prevoda strani" openByDefault=true >}}
 
-  ![](/images/Brave/Brave_-_sl_-_google_translate_-_desno_levi_miš_link_klik.jpeg)
+  {{< figure align=center src="/images/Brave/Brave_sl_-_google_translate_-_desno_levi_miš_link_klik.jpeg" >}}
 
 {{< /collapse >}}
 
 Primer končne Google Translate strani:
 
-![](/images/Brave/Brave_-_sl_-_google_translate_-_koncni_prikaz.jpeg)
+{{< figure align=center src="/images/Brave/Brave_sl_-_google_translate_-_koncni_prikaz.jpeg" >}}
 
 Uživajte 😁.
 
@@ -102,20 +102,3 @@ Uživajte 😁.
 *(30.05.2025, 18:00 / 06:00 PM, vremenski pas: CEST / UTC+2 / GMT+2)*
 
 {{< youtube "J2vkNC17vFQ" >}}
-
-<!--*(Kliknite/tapnite na posamezni korak ali trikotnik za skriti ali prikazati podrobnosti (slika, informacije, ...))*
-
-{{< collapse summary="**Korak 1:** TEXTHERE" openByDefault=true >}}
-
-   
-
-{{< /collapse >}}
-
-*(Ta vodič je bil narejen na 64-bitnem Windows 11 24H2)*
-
-[]( "Kliknite/tapnite da odprete spletno stran!")
-![](/images/social-logos/X.png)
-
-## Video verzija
-
-{{< youtube "" >}}-->

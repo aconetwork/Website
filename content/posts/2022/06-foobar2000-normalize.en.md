@@ -24,19 +24,19 @@ Music contains the sinus like waves and the volume is the average volume between
 
 When the program `foobar2000` if opened for the first time in the `quick Apperance Setup` window you can select prefered program looks `Main layout`, `Colors` and `Playlist Layout`. Now import the music MP3 by dragging the music files from a folder on your computer into a `foobar2000` playlist OR in the program menu click `File` and `Add files...`. (check the [Video version](#video-version "Click/tap to go to that section!") for more details)
 
-![](/images/foobar2000/En-foobar2000-first-run.jpeg)
+{{< figure align=center src="/images/foobar2000/En-foobar2000-first-run.jpeg" >}}
 
 ## Analyse/scan volumes of multiple MP3 files (if you want to know the individual file volumes)
 
 {{< collapse summary="**Step 1:** Select all the music from the playlist you want to analyse and right mouse button click on the selected" openByDefault=true >}}
 
-   ![](/images/foobar2000/En-foobar2000-playlist-select-mp3-lmb.jpeg)
+   {{< figure align=center src="/images/foobar2000/En-foobar2000-playlist-select-mp3-lmb.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Step 2:** Go over the `ReplayGain` and left mouse button click on the `Scan per-file track gain`" openByDefault=true >}}
 
-   ![](/images/foobar2000/En-foobar2000-playlist-select-mp3-lmb-scan.jpeg)
+   {{< figure align=center src="/images/foobar2000/En-foobar2000-playlist-select-mp3-lmb-scan.jpeg" >}}
 
    In the new window you see list of music files, under the `Track gain` column you see how much louder (+) or quieter (-) volumes are from 89db (**d**eci**b**els). If you want to insert current `ReplayGain` values into MP3 file info click `Update File Tags` button othervise left mouse button click on the `Cancel` button.
 
@@ -48,19 +48,19 @@ When the program `foobar2000` if opened for the first time in the `quick Apperan
 
 {{< collapse summary="**Step 1:** Select all the music from the playlist you want to modify and right mouse button click the selected" openByDefault=true >}}
 
-   ![](/images/foobar2000/En-foobar2000-playlist-select-mp3-lmb.jpeg)
+   {{< figure align=center src="/images/foobar2000/En-foobar2000-playlist-select-mp3-lmb.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Step 2:** Go over the `ReplayGain` and left mouse button click on the `Apply gain to file content...`" openByDefault=true >}}
 
-   ![](/images/foobar2000/En-foobar2000-playlist-select-mp3-lmb-apply.jpeg)
+   {{< figure align=center src="/images/foobar2000/En-foobar2000-playlist-select-mp3-lmb-apply.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Step 3:** You can use default settings (like on picture bellow) and left mouse button click on the `Start` button" openByDefault=true >}}
 
-   ![](/images/foobar2000/En-foobar2000-playlist-select-mp3-lmb-apply-start.jpeg)
+   {{< figure align=center src="/images/foobar2000/En-foobar2000-playlist-select-mp3-lmb-apply-start.jpeg" >}}
 
    In the `Apply Gain to File Contents - Setup` window you can set ton of stuff but I suggest you select:
    - Select the checkbox near the `Apply track ReplayGain` with left mouse button click.

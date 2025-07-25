@@ -22,31 +22,31 @@ Danas vam pokažem, kako da pronađete verziju vašeg veb pregledača Google Chr
 
 {{< collapse summary="**Korak 1** Otvorite veb pregledač Google Chrome." openByDefault=true >}}
 
- ![](/images/Google-Chrome/GChrome_desktop_shortcut.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/GChrome_desktop_shortcut.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 2** Sa levim dugmeta miša kliknite na dugme sa 3 tačke da biste otvorili meni." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_3_tacke_dugme.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_3_tacke_dugme.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 3** Strelicom miša pređite na `Pomoć`." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_meni_-_Pomoc.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_meni_-_Pomoc.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 4** Sa levim dugmeta miša kliknite na `O Chromeu`." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_meni_-_Pomoc_-_o_Chromeu.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_meni_-_Pomoc_-_o_Chromeu.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 5** Na stranici `O Chromeu` pogledajte svoj broj verzije pretraživača." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_o_Chromeu_stranica.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_o_Chromeu_stranica.jpeg" >}}
 
 {{< /collapse >}}
 

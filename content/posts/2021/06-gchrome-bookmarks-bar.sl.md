@@ -20,25 +20,25 @@ language: "Slovenski"
 
 {{< collapse summary="**Korak 1** Odprite spletni brskalnik Google Chrome." openByDefault=true >}}
 
- ![](/images/Google-Chrome/GChrome_desktop_shortcut.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/GChrome_desktop_shortcut.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 2** S levo miškino tipko kliknite na tipko s tremi pikami, da odprete meni." openByDefault=true >}}
 
- ![](/images/Google-Chrome/Sl_-_GChrome_-_3_pike_tipka.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_3_pike_tipka.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 3** S kazalcem miške pojdite čez `Zaznamki in seznami`." openByDefault=true >}}
 
- ![](/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Zaznamki_in_seznami.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Zaznamki_in_seznami.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 4** Za prikaz vrstice zaznamkov z levim gumbom miške kliknite na `Pokaži vrstico z zaznamki` ali skriti pa kliknite `Skrij vrstico s zaznamki`. Bljižnica na tipkovnici za prikazati/skriti vrstico je `CTRL` + `SHIFT` + `B`" openByDefault=true >}}
 
- ![](/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Zaznamki_in_seznami_-_pokazi_vrstico.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Zaznamki_in_seznami_-_pokazi_vrstico.jpeg" >}}
 
 
 {{< /collapse >}}

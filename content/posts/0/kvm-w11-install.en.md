@@ -38,6 +38,3 @@ https://www.youtube.com/watch?v=7tqKBy9r9b4
 https://www.debugpoint.com/kvm-share-folder-windows-guest/
 
 ## Walkthrough Video
-<!--
-{{< youtube "" >}}
--->

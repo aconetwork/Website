@@ -19,37 +19,37 @@ language: "English"
 
 {{< collapse summary="**Step 1:** Open Google Chrome web browser" openByDefault=true >}}
 
-   ![](/images/Google-Chrome/GChrome_desktop_shortcut.jpeg) 
+   {{< figure align=center src="/images/Google-Chrome/GChrome_desktop_shortcut.jpeg" >}} 
 
 {{< /collapse >}}
 
 {{< collapse summary="**Step 2** Left mouse button click on 3 dots button to open the menu." openByDefault=true >}}
 
-   ![](/images/Google-Chrome/En_-_GChrome_-_3_dots_btn.jpeg) 
+   {{< figure align=center src="/images/Google-Chrome/En_-_GChrome_-_3_dots_btn.jpeg" >}} 
 
 {{< /collapse >}}
 
 {{< collapse summary="**Step 3** Left mouse button click on the `Settings`." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/En_-_GChrome_menu_-_Settings_btn.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/En_-_GChrome_menu_-_Settings_btn.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Step 4** Left mouse button click on the `Apperance`." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/En_-_GChrome_Settings_-_Apperance_btn.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/En_-_GChrome_Settings_-_Apperance_btn.jpeg" >}}
 
 {{< /collapse >}}
 
-{{< collapse summary="**Step 5** In the line of `Show Home Button` switch the button ON ![](/images/Google-Chrome/GChrome_switch_ON.jpeg) (to show ![](/images/Google-Chrome/GChrome_button_home.jpeg)) or OFF ![](/images/Google-Chrome/GChrome_switch_OFF.jpeg) (to hide ![](/images/Google-Chrome/GChrome_button_home.jpeg))." openByDefault=true >}}
+{{< collapse summary="**Step 5** In the line of `Show Home Button` switch the button ON ![](/images/Google-Chrome/GChrome_switch_ON.jpeg) (to show ![](/images/Google-Chrome/GChrome_button_home.jpeg) or OFF ![](/images/Google-Chrome/GChrome_switch_OFF.jpeg) (to hide ![](/images/Google-Chrome/GChrome_button_home.jpeg))." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/En_-_GChrome_Settings_-_Apperance_-_show_home_sw_ON.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/En_-_GChrome_Settings_-_Apperance_-_show_home_sw_ON.jpeg" >}}
 
-   With click on the Home button ![](/images/Google-Chrome/GChrome_button_home.jpeg), you can set to open:
+   With click on the Home button {{< figure align=center src="/images/Google-Chrome/GChrome_button_home.jpeg" >}}, you can set to open:
    
-   ![](/images/Google-Chrome/En_-_GChrome_Settings_-_Apperance_-_show_home_sw_ON_-_new_tab_page_cb.jpeg) new tab page OR
+   {{< figure align=center src="/images/Google-Chrome/En_-_GChrome_Settings_-_Apperance_-_show_home_sw_ON_-_new_tab_page_cb.jpeg" >}} new tab page OR
    
-   ![](/images/Google-Chrome/En_-_GChrome_Settings_-_Apperance_-_show_home_sw_ON_-_custom_page_cb.jpeg) page you specify.
+   {{< figure align=center src="/images/Google-Chrome/En_-_GChrome_Settings_-_Apperance_-_show_home_sw_ON_-_custom_page_cb.jpeg" >}} page you specify.
 
 {{< /collapse >}}
 

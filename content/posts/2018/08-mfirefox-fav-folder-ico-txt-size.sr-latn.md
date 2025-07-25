@@ -19,17 +19,17 @@ Hajde da podesimo veličinu fonta u Firefox-u i promenimo ikonu fascikla obelež
 
 ## Otvorite fasciklu profila Firefok-a
 
-1. Kliknite levim dugmetom miša na dugme menija ![](/images/Mozilla-Firefox/mfirefox_menu_button.jpeg), a zatim levim dugmetom miša kliknite na `Pomoć`.
+1. Kliknite levim dugmetom miša na dugme menija {{< figure align=center src="/images/Mozilla-Firefox/mfirefox_menu_button.jpeg" >}}, a zatim levim dugmetom miša kliknite na `Pomoć`.
    
-   ![](/images/Mozilla-Firefox/mfirefox_menu_help.sr-cyr.jpeg)
+   {{< figure align=center src="/images/Mozilla-Firefox/mfirefox_menu_help.sr-cyr.jpeg" >}}
 
 2. Kliknite levim dugmetom miša na `Podaci o rešavanju problema`.
    
-   ![](/images/Mozilla-Firefox/mfirefox_menu_troubleshooting_info.sr-cyr.jpeg)
+   {{< figure align=center src="/images/Mozilla-Firefox/mfirefox_menu_troubleshooting_info.sr-cyr.jpeg" >}}
 
 3. Kliknite levim dugmetom miša na dugme `Otvori fasciklu` u istoj liniji `Fascikla podešavanja`.
    
-   ![](/images/Mozilla-Firefox/mfirefox_troubleshooting_info.sr-cyr.jpeg)
+   {{< figure align=center src="/images/Mozilla-Firefox/mfirefox_troubleshooting_info.sr-cyr.jpeg" >}}
 
 Takođe možete otvoriti svoj istraživač datoteka i otići u folder profila pretraživača sličan ovome:
 

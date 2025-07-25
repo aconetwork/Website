@@ -20,37 +20,37 @@ language: "Srpski"
 
 {{< collapse summary="**Korak 1** Otvorite veb pregledač Google Chrome." openByDefault=true >}}
 
- ![](/images/Google-Chrome/GChrome_desktop_shortcut.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/GChrome_desktop_shortcut.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 2** Sa levim dugmeta miša kliknite na dugme sa 3 tačke da biste otvorili meni." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_3_tacke_dugme.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_3_tacke_dugme.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 3** Sa levim dugmeta miša kliknite na `Postavke`." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_Postavke.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 4** Sa levim dugmeta miša kliknite na `Prikaz`." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Prikaz..jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Prikaz..jpeg" >}}
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 5** U liniji `Pokaži gumb počente stranice`/`Pokaži dugme počente stranice` kliknite prekidač za uključiti ![](/images/Google-Chrome/GChrome_switch_ON.jpeg) (za prikaz ![](/images/Google-Chrome/GChrome_button_home.jpeg)) ili izključiti ![](/images/Google-Chrome/GChrome_switch_OFF.jpeg) (za skriti ![](/images/Google-Chrome/GChrome_button_home.jpeg))." openByDefault=true >}}
+{{< collapse summary="**Step 5** In the line of `Show Home Button` switch the button ON ![](/images/Google-Chrome/GChrome_switch_ON.jpeg) (to show ![](/images/Google-Chrome/GChrome_button_home.jpeg) or OFF ![](/images/Google-Chrome/GChrome_switch_OFF.jpeg) (to hide ![](/images/Google-Chrome/GChrome_button_home.jpeg))." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Prikaz_-_pokazi_kuci_ON.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Prikaz_-_pokazi_kuci_ON.jpeg" >}}
 
-   Sa klikom na dugme Kuči ![](/images/Google-Chrome/GChrome_button_home.jpeg), može da namestite da otvori sledeće:
+   Sa klikom na dugme Kuči {{< figure align=center src="/images/Google-Chrome/GChrome_button_home.jpeg" >}}, može da namestite da otvori sledeće:
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Prikaz_-_pokazi_kuci_ON_-_nova_kartica.jpeg) stranicu nove kartice ILI
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Prikaz_-_pokazi_kuci_ON_-_nova_kartica.jpeg" >}} stranicu nove kartice ILI
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Prikaz_-_pokazi_kuci_ON_-_spec_strana.jpeg) stranicu koju vi unesete.
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_Prikaz_-_pokazi_kuci_ON_-_spec_strana.jpeg" >}} stranicu koju vi unesete.
 
 {{< /collapse >}}
 

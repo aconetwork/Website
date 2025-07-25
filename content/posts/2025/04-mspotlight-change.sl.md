@@ -15,7 +15,7 @@ language: "Slovenski"
 
 Microsoft Spotlight je orodje, ki spremeni sliko Windows namizja in prijavnega okna s prenosom slik iz interneta. V tem vodiču vas bom naučil, kako spremeniti na drugo možnost ozadja namzija. Bljižnoci na namizju `Več o tej sliki` najdete le v izbrani opciji `Središče pozornosti Windows`, pri ostalih je skrita.
 
-  ![](/images/other/Win10sl_-_namizje_vec_o_tej_sliki.jpeg)
+{{< figure align=center src="/images/other/Win10sl_-_namizje_vec_o_tej_sliki.jpeg" >}}
 
 ## Windows 10
 
@@ -23,19 +23,19 @@ Microsoft Spotlight je orodje, ki spremeni sliko Windows namizja in prijavnega o
 
 {{< collapse summary="**Korak 1:** Z desno miškino tipko kliknite prazno območje namizja Windows in nato z levo miškino tipko kliknite na `Prilagodi`" openByDefault=true >}}
 
-  ![](/images/other/Win10sl_-_namizje_-_prilagodi.jpeg)
+  {{< figure align=center src="/images/other/Win10sl_-_namizje_-_prilagodi.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 2:** Pod `Ozadje` levega menija z levo miškino tipko kliknite na `Središče pozornosti Windows`" openByDefault=true >}}
 
-  ![](/images/other/Win10sl_-_nastavitve_-_ozadje_-_sred_pozornosti_izbira.jpeg)
+  {{< figure align=center src="/images/other/Win10sl_-_nastavitve_-_ozadje_-_sred_pozornosti_izbira.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 3:** Sedaj izberite s klikom na levo miškino tipko kar želite in si nastavite" openByDefault=true >}}
 
-  ![](/images/other/Win10sl_-_nastavitve_-_ozadje_-_sred_pozornosti_izbira_-_moznosti_ozadja.jpeg)
+  {{< figure align=center src="/images/other/Win10sl_-_nastavitve_-_ozadje_-_sred_pozornosti_izbira_-_moznosti_ozadja.jpeg" >}}
 
 {{< /collapse >}}
 
@@ -45,19 +45,19 @@ Microsoft Spotlight je orodje, ki spremeni sliko Windows namizja in prijavnega o
 
 {{< collapse summary="**Korak 1:** Z desno miškino tipko kliknite prazno območje namizja Windows in nato z levo miškino tipko kliknite `Prilagodi`" openByDefault=true >}}
 
-  ![](/images/other/Win11sl_-_namizje_-_prilagodi.jpeg)
+  {{< figure align=center src="/images/other/Win11sl_-_namizje_-_prilagodi.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 2:** V `Prilagoditev` v levem meniju z levo miškino tipko kliknite na `Ozadje`" openByDefault=true >}}
 
-  ![](/images/other/Win11sl_-_Nastavitve_-_Prilagoditev_-_Ozadje.jpeg)
+  {{< figure align=center src="/images/other/Win11sl_-_Nastavitve_-_Prilagoditev_-_Ozadje.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 3:** V vrstici `Prilagodite svoje ozadje` z levo miškino tipko kliknite na `Windows spotlight` in izberete željen tip ozadja" openByDefault=true >}}
 
-  ![](/images/other/Win11sl_-_Nastavitve_-_Prilagoditev_-_Ozadje_-_sred_pozornosti_moznosti_ozadja.jpeg)
+  {{< figure align=center src="/images/other/Win11sl_-_Nastavitve_-_Prilagoditev_-_Ozadje_-_sred_pozornosti_moznosti_ozadja.jpeg" >}}
 
 {{< /collapse >}}
 

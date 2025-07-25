@@ -13,7 +13,7 @@ draft: false  # Show (false) or hide (true) on page.
 language: "Srpski"
 ---
 
-Pomoću malog programa Windows Update Blocker (WUB) od [Sordum](https://www.sordum.org/ "Kliknite/tapnite da otvorite stranicu Sordum!") možete onemogućiti ažuriranja za Windows, ali i *Microsoft Store* sa njime. 
+Pomoću malog programa Windows Update Blocker (WUB) od [Sordum](https://www.sordum.org/ "Kliknite/tapnite da otvorite stranicu Sordum!") možete onemogućiti ažuriranja za Windows, ali i `Microsoft Store` sa njime. 
 
 **PAZITE** da ne onemogućite ažuriranja za Windows trajno, već ih omogućite barem nekoliko puta mesečno jer su ažuriranja su veoma važna!
 

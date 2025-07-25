@@ -20,37 +20,37 @@ language: "Slovenski"
 
 {{< collapse summary="**Korak 1** Odprite spletni brskalnik Google Chrome." openByDefault=true >}}
 
- ![](/images/Google-Chrome/GChrome_desktop_shortcut.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/GChrome_desktop_shortcut.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 2** S levo miškino tipko kliknite na tipko s tremi pikami za odpretje menija." openByDefault=true >}}
 
- ![](/images/Google-Chrome/Sl_-_GChrome_-_3_pike_tipka.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_3_pike_tipka.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 3** S levo miškino tipko kliknite na `Nastavitve`." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Nastavitve.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Nastavitve.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 4** S levo miškino tipko kliknite na `Videz`." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_videz.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_videz.jpeg" >}}
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 5** V vrstici `Prikaži gumb za domačo stran` kliknite stikalo za VKLOP ![](/images/Google-Chrome/GChrome_switch_ON.jpeg) (za prikaz ![](/images/Google-Chrome/GChrome_button_home.jpeg)) ali IZKLOP ![](/images/Google-Chrome/GChrome_switch_OFF.jpeg) (za skriti ![](/images/Google-Chrome/GChrome_button_home.jpeg))." openByDefault=true >}}
+{{< collapse summary="**Step 5** In the line of `Show Home Button` switch the button ON ![](/images/Google-Chrome/GChrome_switch_ON.jpeg) (to show ![](/images/Google-Chrome/GChrome_button_home.jpeg) or OFF ![](/images/Google-Chrome/GChrome_switch_OFF.jpeg) (to hide ![](/images/Google-Chrome/GChrome_button_home.jpeg))." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_videz_-_pokazi_domov_ON.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_videz_-_pokazi_domov_ON.jpeg" >}}
 
-   S klikom na tipko Domov ![](/images/Google-Chrome/GChrome_button_home.jpeg), lahko nastavite da odpre:
+   S klikom na tipko Domov {{< figure align=center src="/images/Google-Chrome/GChrome_button_home.jpeg" >}}, lahko nastavite da odpre:
    
-   ![](/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_videz_-_pokazi_domov_ON_-_nov_zavihek.jpeg) stran novega zavihka ALI
+   {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_videz_-_pokazi_domov_ON_-_nov_zavihek.jpeg" >}} stran novega zavihka ALI
    
-   ![](/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_videz_-_pokazi_domov_ON_-_specificna_stran.jpeg) stran, ki jo vi definirate.
+   {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_videz_-_pokazi_domov_ON_-_specificna_stran.jpeg" >}} stran, ki jo vi definirate.
 
 {{< /collapse >}}
 

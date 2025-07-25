@@ -52,7 +52,7 @@ First open Terminal (on Linux) or Git Bash (Windows) or what ever utility you wi
         git config --global user.name "YOUR NAME"
         git config --global user.email "YOUR@MAIL.COM"
 
-    *Replace*: 
+    `Replace`: 
 
     - `YOUR NAME` with your name (example: `John Smith`)
     - `YOUR@MAIL.COM` with your email (example: `john.smith@gmail.com`).
@@ -74,7 +74,7 @@ First open Terminal (on Linux) or Git Bash (Windows) or what ever utility you wi
         origin https://github.com/USERNAME/REPOSITORY-NAME.git (fetch)
         origin https://github.com/USERNAME/REPOSITORY-NAME.git (push)
 
-    *Replace*: 
+    `Replace`: 
 
     - `origin` is an alias for your repository and you can use what ever you want. Alias will be used later to send data to GitHub. 
     - `USERNAME` write your username (example: `john`). 
@@ -84,7 +84,7 @@ First open Terminal (on Linux) or Git Bash (Windows) or what ever utility you wi
 
     git remote set-url origin https://USERNAME:TOKEN@github.com/USERNAME/REPOSITORY-NAME.git
 
-    *Replace*: 
+    `Replace`: 
 
     - `USERNAME` write your username (example: `john`). 
     - `TOKEN` write your personal token. Check []() 

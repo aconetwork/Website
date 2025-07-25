@@ -15,7 +15,7 @@ language: "Srpski"
 
 Microsoft Spotlight je alat koji menja pozadinu vaše Windows radne površine preuzimanjem slika sa interneta. U ovom tutorijalu naučiću vas kako da promenite na vašu opciju pozadine. Prečicu `Saznajte više o ovoj slici` na radnoj površini postoji samo uz odabrani mogučnosti `Windows interesovanja`.
 
-  ![](/images/other/Win10sr_-_radna_povrsina_saznajte_vise_o_slici.jpeg)
+  {{< figure align=center src="/images/other/Win10sr_-_radna_povrsina_saznajte_vise_o_slici.jpeg" >}}
 
 ## Windows 10
 
@@ -23,19 +23,19 @@ Microsoft Spotlight je alat koji menja pozadinu vaše Windows radne površine pr
 
 {{< collapse summary="**Korak 1:** Desnim dugmetom miša kliknite na praznu površinu Windows radne površine a zatim levim dugmetom miša kliknite na `Prilagodi`" openByDefault=true >}}
 
-  ![](/images/other/Win10sr_-_radna_povrsina_-_prilagodi.jpeg)
+  {{< figure align=center src="/images/other/Win10sr_-_radna_povrsina_-_prilagodi.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 2:** U `Pozadina` levog menija levim dugmetom miša kliknite na `Windows interesovanja`" openByDefault=true >}}
 
-  ![](/images/other/Win10sr_-_postavke_-_pozadina_-_interesovanja_odabir.jpeg)
+  {{< figure align=center src="/images/other/Win10sr_-_postavke_-_pozadina_-_interesovanja_odabir.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 3:** Sada odaberite željenu opciju pozadine i podesite je" openByDefault=true >}}
 
-  ![](/images/other/Win10sr_-_postavke_-_pozadina_-_interesovanja_odabir_-_mogucnosti_pozadine.jpeg)
+  {{< figure align=center src="/images/other/Win10sr_-_postavke_-_pozadina_-_interesovanja_odabir_-_mogucnosti_pozadine.jpeg" >}}
 
 {{< /collapse >}}
 
@@ -45,19 +45,19 @@ Microsoft Spotlight je alat koji menja pozadinu vaše Windows radne površine pr
 
 {{< collapse summary="**Korak 1:** Desnim dugmetom miša kliknite na praznu površinu Windows radne površine a zatim levim dugmetom miša kliknite na `Prilagodi`" openByDefault=true >}}
 
-  ![](/images/other/Win11sr_-_radna_povrsina_-_prilagodi.jpeg)
+  {{< figure align=center src="/images/other/Win11sr_-_radna_povrsina_-_prilagodi.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 2:** U `Personalizacija` levog menija levim dugmetom miša kliknite na `Pozadina`" openByDefault=true >}}
 
-  ![](/images/other/Win11sr_-_postavke_-_personalizacija_-_pozadina.jpeg)
+  {{< figure align=center src="/images/other/Win11sr_-_postavke_-_personalizacija_-_pozadina.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 3:** U redu `Personalizujte pozadinu` levim dugmetom miša kliknite na `Windows interesovanja` i sa levim dugmetom miša kliknite na svoj izbor i podesite ga" openByDefault=true >}}
 
-  ![](/images/other/Win11sr_-_postavke_-_personalizacija_-_pozadina_-_interesovanja_mogucnosti_pozadine.jpeg)
+  {{< figure align=center src="/images/other/Win11sr_-_postavke_-_personalizacija_-_pozadina_-_interesovanja_mogucnosti_pozadine.jpeg" >}}
 
 {{< /collapse >}}
 
@@ -68,21 +68,3 @@ Microsoft Spotlight je alat koji menja pozadinu vaše Windows radne površine pr
 *(24.04.2025, 18:00 / 06:00 PM, časovni pas: CEST / UTC+2 / GMT+2)*
 
 {{< youtube "asAXC-_2GT8" >}}
-
-<!--
--->
-
-<!--*(Kliknite na pojedinačni korak ili trougao da bi sakrili ili prikazali detalje (slike, informacije, ...))*
-
-{{< collapse summary="**Korak 1:** TEXTHERE" openByDefault=true >}}
-
-   
-
-{{< /collapse >}}
-
-[]( "Click/tap to open the site!")
-![](/images/social-logos/X.png)
-
-## Video verzija
-
-{{< youtube "" >}}-->

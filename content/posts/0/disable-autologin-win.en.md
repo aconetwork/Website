@@ -35,4 +35,4 @@ language: "English"
 
 ## Video version
 
-{{< youtube "" >}}-->
+-->

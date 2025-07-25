@@ -21,31 +21,31 @@ Ajde da promenimo fasciklu preuzimanja za Google Chrome.
 
 {{< collapse summary="**Korak 1** Otvorite veb pregledač Google Chrome." openByDefault=true >}}
 
- ![](/images/Google-Chrome/GChrome_desktop_shortcut.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/GChrome_desktop_shortcut.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 2** Sa levim dugmetom miša kliknite na dugme sa 3 tačke da biste otvorili meni." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_3_tacke_dugme.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_3_tacke_dugme.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 3** Sa levim dugmetom miša kliknite na dugme `Postavke`." openByDefault=true >}}
 
- ![](/images/Google-Chrome/Hr_-_GChrome_-_meni_-_Postavke.jpeg)
+ {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_meni_-_Postavke.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 4** Sa levim dugmetom miša kliknite na dugme `Preuzimanje` u levom meniju." openByDefault=true >}}
 
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_preuzimanje.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_preuzimanje.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 5** V pudručju `Preuzimanje` v redu `Lokacija` sa levim dugmetom miša kliknite na dugme `Promjeni` / `Promeni` za promeni lokacije preuzimanja." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_preuzimanje_-_promjeni.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_preuzimanje_-_promjeni.jpeg" >}}
 
    - Ispod `Lokacija` vidite trenutačnu lokaciju prenosa.
    - Upotrebite prekidač desno u redu `Pitaj gde spremiti svaku fasciklu pre preuzimanja`, da ste ili niste obavešteni, gde da sačuvate fajl, koga snimate.
@@ -55,7 +55,7 @@ Ajde da promenimo fasciklu preuzimanja za Google Chrome.
 
 {{< collapse summary="**Korak 6** V prozoru `Lokacija` otvorite željenu fasciklu za prenose, da ste u nju." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_preuzimanje_-_promjeni_-_Lokacija.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_preuzimanje_-_promjeni_-_Lokacija.jpeg" >}}
 
    - Ako želite da napravite novu fasciklu, sa levim dugmetom miša kliknite na dugme `Nova fascikla`. 
 
@@ -63,7 +63,7 @@ Ajde da promenimo fasciklu preuzimanja za Google Chrome.
 
 {{< collapse summary="**Korak 7** Da potvrdite otvorenu izabranu fasciklu, sa levim dugmetom miša kliknite na dugme `Izaberite fasciklu`." openByDefault=true >}}
    
-   ![](/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_preuzimanje_-_promjeni_-_izaberite_fasciklu.jpeg)
+   {{< figure align=center src="/images/Google-Chrome/Hr_-_GChrome_-_Postavke_-_preuzimanje_-_promjeni_-_izaberite_fasciklu.jpeg" >}}
 
    Sada je nova fascikla napravljena, uživkajte.
 

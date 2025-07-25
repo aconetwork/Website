@@ -21,24 +21,24 @@ Hugo is one of the most popular open-source static site generators and it is sim
 
 [Installation guide](https://gohugo.io/installation/linux/ "Click/tap to visit website Hugo!") on HUGO website. GIT is optional if you need it. All commands can be run with the Terminal.
 
-*With snap*:
+`With snap`:
 
     sudo snap install hugo
 
-*Debian-based*:
+`Debian-based`:
 
     sudo apt install hugo
     sudo apt install git-all
 
-*Arch-based*:
+`Arch-based`:
 
     yay -S hugo
 
-*To check if installed correctly and you have installed Hugo v0.112.0 or later*:
+`To check if installed correctly and you have installed Hugo v0.112.0 or later`:
 
     hugo version
 
-*Fedora-based*:
+`Fedora-based`:
 
     sudo dnf install hugo
     sudo dnf install git-all
@@ -47,15 +47,15 @@ Hugo is one of the most popular open-source static site generators and it is sim
 
 You can install GIT over Winget or manually download and install from [HERE](https://git-scm.com/download/win "Click/tap to visit git-scm!").
 
-*With Chocolatey (free and open-source package manager for Windows)*:
+`With Chocolatey (free and open-source package manager for Windows)`:
 
     choco install hugo-extended
 
-*Scoop (free and open-source package manager for Windows)*:
+`Scoop (free and open-source package manager for Windows)`:
 
     scoop install hugo-extended
 
-*Winget (Microsoft’s official free and open-source package manager for Windows)*:
+`Winget (Microsoft’s official free and open-source package manager for Windows)`:
 
     winget install Hugo.Hugo.Extended
     winget install --id Git.Git -e --source winget
@@ -82,7 +82,7 @@ New post:
     hugo new --kind posts.en posts/0/post-name.en.md
 
 sudo hugo server -F -D
-sudo hugo server -F -D --bind=192.168.1.100 --baseURL=http://192.168.1.100:1313   /* Setting computer IP adress to access from other network devices
+sudo hugo server -F -D --bind=192.168.1.100 --baseURL=http://192.168.1.100:1313   /` Setting computer IP adress to access from other network devices
 
 
 
@@ -96,4 +96,4 @@ https://www.markdownguide.org/
 
 ## Walkthrough Video
 
-<!-- {{< youtube "" >}} -->
+<!--  -->
