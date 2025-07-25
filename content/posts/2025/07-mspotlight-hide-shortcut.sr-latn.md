@@ -173,4 +173,6 @@ Da ovo uradite ispravno, uradite sve **ISTO** kao ja inače možete oštetiti sv
 
 ## Video verzija
 
+*(27.07.2025, 18:00 / 06:00 PM, timezone: CEST / UTC+2 / GMT+2)*
+
 {{< youtube "r1BVxVWCJOs" >}}

@@ -173,4 +173,6 @@ Da se to naredi pravilno naredite **TOČNO** tako kot jaz sicer lahko poškoduje
 
 ## Video verzija
 
+*(26.07.2025, 18:00 / 06:00 PM, timezone: CEST / UTC+2 / GMT+2)*
+
 {{< youtube "-mxZabjl4VA" >}}

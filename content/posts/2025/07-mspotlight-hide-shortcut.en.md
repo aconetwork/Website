@@ -172,4 +172,6 @@ To do this correctly do **EXACTLY** as I do otherwise you can damage to your Win
 
 ## Video version
 
+*(25.07.2025, 18:00 / 06:00 PM, timezone: CEST / UTC+2 / GMT+2)*
+
 {{< youtube "-7RQ2Vk0p0g" >}}
