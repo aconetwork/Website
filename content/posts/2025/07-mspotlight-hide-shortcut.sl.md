@@ -112,7 +112,8 @@ Da se to naredi pravilno naredite **TOČNO** tako kot jaz sicer lahko poškoduje
 
      Da potrdite novo lokacijo pritisnite tipko `Enter` na tipkovnici.
 
-     {{< figure align=center src="/images/other/Keyboard_-_enter_l.jpeg" >}} {{< figure align=center src="/images/other/Keyboard_-_enter_r.jpeg" >}}
+     {{< figure align=center src="/images/other/Keyboard_-_enter_l.jpeg" >}}
+     {{< figure align=center src="/images/other/Keyboard_-_enter_r.jpeg" >}}
   
   2. z levo miškino tipko kliknite puščice na levi strani ključev da razširite ključe, dokler ne prispete `NewStartPanel`.
 

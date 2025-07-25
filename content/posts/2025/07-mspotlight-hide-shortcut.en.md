@@ -111,7 +111,8 @@ To do this correctly do **EXACTLY** as I do otherwise you can damage to your Win
 
      To confirm new location press `Enter` key on the keyboard.
 
-     {{< figure align=center src="/images/other/Keyboard_-_enter_l.jpeg" >}} {{< figure align=center src="/images/other/Keyboard_-_enter_r.jpeg" >}}
+     {{< figure align=center src="/images/other/Keyboard_-_enter_l.jpeg" >}}
+     {{< figure align=center src="/images/other/Keyboard_-_enter_r.jpeg" >}}
   
   2. With left mouse button click arrows on the left side of the keys to expand the keys until you are inside `NewStartPanel`.
 
