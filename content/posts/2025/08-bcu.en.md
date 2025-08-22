@@ -405,10 +405,10 @@ Everytime BCU is opened it will scan your system for the uninstallers to show th
 
 ## Links
 
-- [Bulk Crap Uninstaller website](https://www.bcuninstaller.com/ "Click/tap to open the site!")
+[Bulk Crap Uninstaller website](https://www.bcuninstaller.com/ "Click/tap to open the site!")
 
 ## Video version
 
-*(..2025, 18:00 / 06:00 PM, timezone: CEST / UTC+2 / GMT+2)*
+*PREMIERE (22.08.2025, 18:00 / 06:00 PM, timezone: CEST / UTC+2 / GMT+2)*
 
-{{< youtube "O1DA0HpFK-4" >}}
+{{< youtube "7Z0XDGHRX0o" >}}

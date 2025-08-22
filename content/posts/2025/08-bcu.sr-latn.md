@@ -164,6 +164,6 @@ language: "Srpski"
 
 ## Video version
 
-*(..2025, 18:00 / 06:00 PM, vremenska cona: CEST / UTC+2 / GMT+2)*
+*PREMIERA (24.08.2025, 18:00 / 06:00 PM, vremenska cona: CEST / UTC+2 / GMT+2)*
 
-{{< youtube "O1DA0HpFK-4" >}}
+{{< youtube "i3CGzkc9JUQ" >}}
