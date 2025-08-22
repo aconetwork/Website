@@ -18,27 +18,27 @@ Danes poiščemo vašo verzijo operacijskega sistema Windows! Ta vodič deluje e
 
 *(Kliknite/tapnite na posamezni korak ali trikotnik za skriti ali prikazati podrobnosti (slika, informacije, ...))*
 
-{{< collapse summary="**Korak 1:** S levo miškino tipko kliknemo na tipko menija `Start`" openByDefault=true >}}
+{{< collapse summary="**Korak 1:** Z levo miškino tipko kliknemo na tipko menija `Start`" openByDefault=true >}}
 
-   {{< figure align=center src="/images/other/Win11_start_btn.jpeg" >}}
+   {{< figure align=center src="/images/other/win11/Win_start_btn.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 2:** Na tipkovnici napišite `winver`" openByDefault=true >}}
 
-   {{< figure align=center src="/images/other/Win11sl_start_isci_winver.jpeg" >}}
+   {{< figure align=center src="/images/other/win11/Winsl_start_isci_winver.jpeg" >}}
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 3:** S levo miškino tipko kliknemo na rezultat `winver` pod `Najustreznejši rezultati`" openByDefault=true >}}
+{{< collapse summary="**Korak 3:** Z levo miškino tipko kliknemo na rezultat `winver` pod `Najustreznejši rezultati`" openByDefault=true >}}
 
-   {{< figure align=center src="/images/other/Win11sl_start_isci_winver_rezultat.jpeg" >}}
+   {{< figure align=center src="/images/other/win11/Winsl_start_isci_winver_rezultat.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 4:** Sedaj si poglejte vašo verzijo, uživajte!" openByDefault=true >}}
 
-   {{< figure align=center src="/images/other/Win11sl_-_vizitka_okno.jpeg" >}}
+   {{< figure align=center src="/images/other/win11/Winsl_-_vizitka_okno.jpeg" >}}
 
 {{< /collapse >}}
 

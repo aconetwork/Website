@@ -24,19 +24,19 @@ language: "Slovenski"
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 2** S levo miškino tipko kliknite na tipko s tremi pikami za odpretje menija." openByDefault=true >}}
+{{< collapse summary="**Korak 2** Z levo miškino tipko kliknite na tipko s tremi pikami za odpretje menija." openByDefault=true >}}
 
  {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_3_pike_tipka.jpeg" >}}
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 3** S levo miškino tipko kliknite na `Nastavitve`." openByDefault=true >}}
+{{< collapse summary="**Korak 3** Z levo miškino tipko kliknite na `Nastavitve`." openByDefault=true >}}
    
    {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Nastavitve.jpeg" >}}
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 4** S levo miškino tipko kliknite na `Videz`." openByDefault=true >}}
+{{< collapse summary="**Korak 4** Z levo miškino tipko kliknite na `Videz`." openByDefault=true >}}
    
    {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_videz.jpeg" >}}
 

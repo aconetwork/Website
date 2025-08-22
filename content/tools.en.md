@@ -9,8 +9,6 @@ summary: "Useful tools to use for Microsoft Windows"
 
 {{< collapse summary="**Web browser extensions** Some useful extensions for your web browser" openByDefault=false >}}
 
-   Be carefull what extensions you install! Some of them can take a lot of your data, show you malicious ads, infect your computer, ... but some of them are safe so **BE VERY CAREFULL!!!** I did not have issues with the extensions on the list bellow but **THAT DOES NOT MEAN** they are all safe! 
-
    ||||
    | -------- | ------- | ------- |
    | [![](/images/Google-Chrome/GChrome_logo_40px.png)](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm "Click/tap to open extension page!") | [![](/images/Mozilla-Firefox/mfirefox_logo_39x40px.png)](https://addons.mozilla.org/firefox/addon/ublock-origin/ "Click/tap to open add-on page!") | ![](/images/Browser-extensions_logos/logo_browser_ext_uBlock_Origin_22px.png) **uBlock Origin** blocks ads and trackers on web pages. Currently the extension is blocked on the Chromium based web browsers because Google wants you to see ads but for now is still works `AdBlock` and `Malwarebytes Browser Guard` available on this list. |
@@ -38,10 +36,12 @@ summary: "Useful tools to use for Microsoft Windows"
 
    ||
    | -------- |
-   | [The Ultimate Windows Utility](https://christitus.com/windows-tool/ "Click/tap to open the site!") is made by Chris Titus Tech with help of his community that you can do a ton of tweaks for the Windows operating system and also to de bloat it. You can install ton of programs via Winget and Chocolatey source, Windows ISO modify and more. Remember that this tool is NOT from the Microsoft **and you use it at your OWN risk**!! Watch the video on his site/YouTube for more info. |
-   | [UniGetUI (formerly WingetUI)](https://www.marticliment.com/unigetui/ "Click/tap to open the site!") Unofficial graphical program made for [Microsoft](https://www.microsoft.com/ "Click/tap to open the site!")'s [Winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/ "Click/tap to open the site!") package manager to install, update, ... programs. |
-   | [chocolatey](https://chocolatey.org/ "Click/tap to open the site!") Popular package manager to install and update programs. |
+   | [The Ultimate Windows Utility](https://christitus.com/windows-tool/ "Click/tap to open the site!") is made by Chris Titus Tech with help of his community that you can do a ton of tweaks for the [Windows](https://www.microsoft.com/en-us/windows "Click/tap to open the site!") operating system and also to de bloat it. You can install ton of programs via [Winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/ "Click/tap to open the site!") and [Chocolatey](https://chocolatey.org/ "Click/tap to open the site!") source, Windows ISO modify and more. Watch the video on his site/YouTube for more info. |
+   | [UniGetUI (formerly WingetUI)](https://www.marticliment.com/unigetui/ "Click/tap to open the site!") is graphical program made for [Microsoft](https://www.microsoft.com/ "Click/tap to open the site!")'s [Winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/ "Click/tap to open the site!") package manager to install, update, ... programs. Not made by [Microsoft](https://www.microsoft.com/ "Click/tap to open the site!") while [Winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/ "Click/tap to open the site!") is! |
+   | [Chocolatey](https://chocolatey.org/ "Click/tap to open the site!") Popular package manager to install and update programs. |
 
 {{< /collapse >}}
 
-<!-- []( "Click/tap to open the site!") -->
+{{< notice warning >}}
+   Be carefull what extensions, tools, ... you install because some of them can take your information, show you malicious ads, infect your computer, ... but some of them are safe so **BE VERY CAREFULL!!!**. I did not have issues with stuff on this page but **THAT DOES NOT MEAN** they are all safe now and in the future but if I notice enything I will notify you here! Same also applys to everything you use on your system! If anything goes wrong I am not responsable but you can ask me for help!
+{{< /notice >}}

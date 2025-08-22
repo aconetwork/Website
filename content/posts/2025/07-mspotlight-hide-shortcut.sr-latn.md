@@ -8,6 +8,7 @@ categories:
   - kako
 tags: 
   - Windows
+  - Microsoft Spotlight
 showtoc: true  # Tabela sadržaja: Sakriti (false) ili pokazati (true).
 draft: false   # Prikaz na javnoj stranici: Prikaz (false) ili sakriti (true).
 language: "Srpski"
@@ -15,13 +16,13 @@ language: "Srpski"
 
 Microsoft Spotlight je alat koji menja pozadinsku sliku vaše radne površine u operativnom sistemu Windows preuzimanjem slika sa interneta. U ovom tutorijalu če naučite, kako da sakrijete (i pokažete) prečicu Spotlajta na radnoj površini `Saznajte više o ovoj slici` ali i da zadržite pozadinske slike Spotlajta na 2 načina unutar Windows registra.
 
-{{< figure align=center src="/images/other/Win10srcyrl_-_radna_povrsina_-_saznajte_vise_o_ovoj_slici.jpeg" >}} {{< figure align=center src="/images/other/Win10sr_-_radna_povrsina_saznajte_vise_o_slici.jpeg" >}} {{< figure align=center src="/images/other/Win10en_-_desktop_-_learn_about_this_pic.jpeg" >}}
+{{< figure align=center src="/images/other/win10/Winsrcyrl_-_radna_povrsina_-_saznajte_vise_o_ovoj_slici.jpeg" >}} {{< figure align=center src="/images/other/win10/Winsr_-_radna_povrsina_saznajte_vise_o_slici.jpeg" >}} {{< figure align=center src="/images/other/win10/Winen_-_desktop_-_learn_about_this_pic.jpeg" >}}
 
 ## Šta uraditi ako se pojave bezbednosna obaveštenja prilikom otvaranja datoteke ili programa?
 
 Ako se kod otvaranja neke datoteke ili programa pojavi `Bezbednosno upozorenje`, `Kontrola korisničkog naloga` ili bilo koji drugi bezbednosni prozor, kliknite levim dugmetom miša na dugme `Da`, `Pokreni` ili bilo koje drugo dugme da potvrdite dozvoljavanje otvaranje.
 
-{{< figure align=center src="/images/other/Win10sr_-_msdih_reg_otvoriti_bezbednostno_upozorenje.jpeg" title="Bezbednosno upozorenje za otvaranje datoteke" >}} {{< figure align=center src="/images/other/Win10sr_-_UAC_-_registry_editor_-_da.jpeg" title="Kontrola korisničkog naloga za otvaranje programa" >}}
+{{< figure align=center src="/images/other/win10/Winsr_-_msdih_reg_otvoriti_bezbednostno_upozorenje.jpeg" title="Bezbednosno upozorenje za otvaranje datoteke" >}} {{< figure align=center src="/images/other/win10/Winsr_-_UAC_-_registry_editor_-_da.jpeg" title="Kontrola korisničkog naloga za otvaranje programa" >}}
 
 ## 1. METODA (lakša): Sa pripremljenim fajlovima registra
 
@@ -49,7 +50,7 @@ Kod ove metode jednostavno preuzimete datoteku registra i upotrebite je. Ja sam 
 
 {{< collapse summary="**Korak 2:** Otvorite fasciklu u koju ste preuzeli datoteku i otvorite je sa klikom levog dugmeta miša" openByDefault=true >}}
 
-  {{< figure align=center src="/images/other/Win10en_-_desktop_-_file_msdih_reg_open.jpeg" >}}
+  {{< figure align=center src="/images/other/win10/Winen_-_desktop_-_file_msdih_reg_open.jpeg" >}}
 
   Ako se pojavi bilo koji bezbednosni prozor, proverite [ovde](#šta-uraditi-ako-se-pojave-bezbednosna-obaveštenja-prilikom-otvaranja-datoteke-ili-programa "Kliknite/tapnite, da skoknete na razdelak!") na vrh (skoro) ove veb stranice!
 
@@ -57,19 +58,19 @@ Kod ove metode jednostavno preuzimete datoteku registra i upotrebite je. Ja sam 
 
 {{< collapse summary="**Korak 3:** U prozoru obaveštenja `Registry Editor` kliknite levim dugmetom miša na dugme `Da`, da unesete u registar" openByDefault=true >}}
 
-  {{< figure align=center src="/images/other/Win10sr_-_fajl_msdih_reg_potvrditi_-_da.jpeg" >}}
+  {{< figure align=center src="/images/other/win10/Winsr_-_fajl_msdih_reg_potvrditi_-_da.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 4:** Kada dobijete obaveštenje, da je datoteka registra uspešno uvezena, kliknite levim dugmetom miša na dugme `U redu`, da je zatvorite" openByDefault=true >}}
 
-  {{< figure align=center src="/images/other/Win10sr_-_registry_editor_msdih_-_success_-_u_redu.jpeg" >}}
+  {{< figure align=center src="/images/other/win10/Winsr_-_registry_editor_msdih_-_success_-_u_redu.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 5:** Kliknite desnim dugmetom miša na radnu površinu Windows-a, a zatim levim dugmetom miša kliknite na dugme Osveži da vidite promenu" openByDefault=true >}}
 
-  {{< figure align=center src="/images/other/Win10sr_-_radna_povrsina_-_rmb_osvezi.jpeg" >}}
+  {{< figure align=center src="/images/other/win10/Winsr_-_radna_povrsina_-_rmb_osvezi.jpeg" >}}
 
 {{< /collapse >}}
 
@@ -81,13 +82,13 @@ Da ovo uradite ispravno, uradite sve **ISTO** kao ja inače možete oštetiti sv
 
 {{< collapse summary="**Korak 1:** Sa levim dugmetom miša kliknite na dugme `Start` / `Početak`" openByDefault=true >}}
 
-  {{< figure align=center src="/images/other/Win10sr_-_start_btn_pocetak.jpeg" >}}
+  {{< figure align=center src="/images/other/win10/Winsr_-_start_btn_pocetak.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 2:** Sa tastaturom počnite da pišete `Registry Editor` i sa levim dugmetom miša kliknite na rezultat `Registry Editor`" openByDefault=true >}}
 
-  {{< figure align=center src="/images/other/Win10sr_-_start_-_trazenje_registry_editor.jpeg" title="Start - traženje" >}} {{< figure align=center src="/images/other/Win10sr_-_start_-_trazenje_-_registry_editor_otvoriti.jpeg" title="Start - rezultat traženja" >}}
+  {{< figure align=center src="/images/other/win10/Winsr_-_start_-_trazenje_registry_editor.jpeg" title="Start - traženje" >}} {{< figure align=center src="/images/other/win10/Winsr_-_start_-_trazenje_-_registry_editor_otvoriti.jpeg" title="Start - rezultat traženja" >}}
 
   Ako se pojavi bilo koji bezbednosni prozor, proverite [ovde](#šta-uraditi-ako-se-pojave-bezbednosna-obaveštenja-prilikom-otvaranja-datoteke-ili-programa "Kliknite/tapnite, da skoknete na razdelak!") skoro na vrhu ove veb stranice!
   
@@ -107,7 +108,7 @@ Da ovo uradite ispravno, uradite sve **ISTO** kao ja inače možete oštetiti sv
 
      Sada na vrhu prozora `Windows Registry` u polju za tekst uklonite postojeći tekst, kliknite desnim dugmetom miša u polje i sa levim dugmetom miša kliknite na dugme `Nalepi`, da nalepite pre kopiran tekst.
 
-     {{< figure align=center src="/images/other/Win10sr_-_registry_editor_lokacija_nalepi.jpeg" >}}
+     {{< figure align=center src="/images/other/win10/Winsr_-_registry_editor_lokacija_nalepi.jpeg" >}}
 
      Da potvrdite novu lokaciju kliknite dugme `Enter` na tastaturi.
 
@@ -116,7 +117,7 @@ Da ovo uradite ispravno, uradite sve **ISTO** kao ja inače možete oštetiti sv
   
   2. Sa levim dugmetom miša kliknite strelice sa leve strane ključeva, dok ne otvorite `NewStartPanel`.
 
-     {{< figure align=center src="/images/other/Win10_-_registry_editor_-_expand_NewStartPanel.jpeg" >}}
+     {{< figure align=center src="/images/other/win10/Win_-_registry_editor_-_expand_NewStartPanel.jpeg" >}}
 
 {{< /collapse >}}
 
@@ -128,7 +129,7 @@ Da ovo uradite ispravno, uradite sve **ISTO** kao ja inače možete oštetiti sv
 
   Ako želite da kreirate novu `Vrednost` (engleski `Value`) a ako postoji več vrednost sa istim imenom, dobičete poruku o grešci. Nova vrednost je i dalje kreirana sa podrazumevanim imenom, možete je obrisati.
 
-  {{< figure align=center src="/images/other/Win10en_-_registry_editor_-_value_name_exists_err.jpeg" >}}
+  {{< figure align=center src="/images/other/win10/Winen_-_registry_editor_-_value_name_exists_err.jpeg" >}}
 
   Da napravite novu vrednost:
 
@@ -138,11 +139,11 @@ Da ovo uradite ispravno, uradite sve **ISTO** kao ja inače možete oštetiti sv
 
   2. Uverite se da ste unutar `NewStartPanel` i na desnoj strani prozora kliknite desnim tasterom miša na prazno područje, idite preko `New` i sa levim dugmetom miša kliknite `DWORD (32-bit) Value`.
 
-     {{< figure align=center src="/images/other/Win10en_-_registry_editor_-_rmb_new_dword32.jpeg" >}}
+     {{< figure align=center src="/images/other/win10/Winen_-_registry_editor_-_rmb_new_dword32.jpeg" >}}
 
   3. Sada kliknite desnim dumetom miša na izabrano ime podrazumevane vrednosti `New Value #1` (srpski: Nova vrednost #1), i sa levim dugmetom miša kliknite na dugme `Nalepi` da nalepite pre kopiran tekst `{2cc5ca98-6485-489a-920e-b3e88a6ccce3}`.
 
-     {{< figure align=center src="/images/other/Win10sr_-_registry_editor_-_new_dword32_nalepi_dugme.jpeg" >}}
+     {{< figure align=center src="/images/other/win10/Winsr_-_registry_editor_-_new_dword32_nalepi_dugme.jpeg" >}}
 
      Da potvrdite novo ime kliknite dugme `Enter` na tastaturi.
 
@@ -153,13 +154,13 @@ Da ovo uradite ispravno, uradite sve **ISTO** kao ja inače možete oštetiti sv
 
 {{< collapse summary="**Korak 5:** Sa desnim dugmetom miša kliknite na `{2cc5ca98-6485-489a-920e-b3e88a6ccce3}` i onda sa levim dugmetom miša kliknete na `Modify` (srpski: Uredi)" openByDefault=true >}}
 
-  {{< figure align=center src="/images/other/Win10en_-_registry_editor_-_dword32_-_rmb_modify.jpeg" >}}
+  {{< figure align=center src="/images/other/win10/Winen_-_registry_editor_-_dword32_-_rmb_modify.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 6:** Ispod `Value data` u tekstualnom polju uverite se, da jeste `1` (`1` je za sakrivenu prečicu, `0` ili izbrisana vrednost je za pokazanu prečicu) i sa levim dugmetom miša kliknite na dugme `Ok` da potvrdite promenu" openByDefault=true >}}
 
-  {{< figure align=center src="/images/other/Win10en_-_registry_editor_-_dword32_-_modify_-_1_-_ok.jpeg" >}}
+  {{< figure align=center src="/images/other/win10/Winen_-_registry_editor_-_dword32_-_modify_-_1_-_ok.jpeg" >}}
 
   Da promenite vrednost sa levim dumetom miša kliknite u polje za tekst ispod `Value data` (možete da upotrebite dugmeta tastature `Backspace` ili `Del` / `Delete` da izbrišete postoječi sadržaj) i sa tastaturom upišite šta želite, naprimer `1`.
 
@@ -167,7 +168,7 @@ Da ovo uradite ispravno, uradite sve **ISTO** kao ja inače možete oštetiti sv
 
 {{< collapse summary="**Korak 7:** Osvežite Windows radnu površinu, da vidite promene" openByDefault=true >}}
 
-  {{< figure align=center src="/images/other/Win10sr_-_radna_povrsina_-_rmb_osvezi.jpeg" >}}
+  {{< figure align=center src="/images/other/win10/Winsr_-_radna_povrsina_-_rmb_osvezi.jpeg" >}}
 
 {{< /collapse >}}
 

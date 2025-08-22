@@ -52,7 +52,7 @@ Prevedimo spletno stran s [Google Prevajalnik](https://translate.google.com "Kli
   
   {{< figure align=center src="/images/Brave/Brave_sl_-_nov_zavihek_tipka.jpeg" >}}
 
-  Sedaj s levo miškino tipko kliknite v področje naslova spletne strani, vpišite spletni naslov [Google Translate](https://translate.google.com "Kliknite/tapnite da odprete spletno stran!") in pritisnite `Enter` tipko na tipkovnici.
+  Sedaj z levo miškino tipko kliknite v področje naslova spletne strani, vpišite spletni naslov [Google Translate](https://translate.google.com "Kliknite/tapnite da odprete spletno stran!") in pritisnite `Enter` tipko na tipkovnici.
 
     https://translate.google.com
 

@@ -24,7 +24,7 @@ language: "Slovenski"
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 2** S levo miškino tipko kliknite na tipko s tremi pikami, da odprete meni." openByDefault=true >}}
+{{< collapse summary="**Korak 2** Z levo miškino tipko kliknite na tipko s tremi pikami, da odprete meni." openByDefault=true >}}
 
  {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_3_pike_tipka.jpeg" >}}
 

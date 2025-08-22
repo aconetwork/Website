@@ -9,8 +9,6 @@ summary: "Uporabna orodja za uporabo za Microsoft Windows"
 
 {{< collapse summary="**Razširitve spletnih brskalnikov** Uporabne razširitve za vaš spletni brskalnik" openByDefault=false >}}
 
-   Bodite previdni pri nameščanju razširitev! Nekatere lahko ukradejo veliko vaših podatkov, prikazujejo zlonamerne oglase, okužijo vaš računalnik ... nekatere pa so varne zato **BODITE ZELO PREVIDNI!!!** Z razširitvami na spodnjem seznamu nisem imel težav ampak **TO NE POMENI**, da so vsi varni.
-
    ||||
    | -------- | ------- | ------- |
    | [![](/images/Google-Chrome/GChrome_logo_40px.png)](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm "Kliknite/tapnite za obisk spletne stran razširitve!") | [![](/images/Mozilla-Firefox/mfirefox_logo_39x40px.png)](https://addons.mozilla.org/firefox/addon/ublock-origin/ "Kliknite/tapnite za obisk spletne stran razširitve!") | ![](/images/Browser-extensions_logos/logo_browser_ext_uBlock_Origin_22px.png) **uBlock Origin** blokira oglase in sledilnike na spletnih straneh. Trenutno je razširitev blokirana v Chromium baziranih spletnih brskalnikih ker Google želi, da vidite oglase vendar je zaenkrat še vedno delujeta razširitvi `AdBlock` in `Malwarebytes Browser Guard` najdete pa ju na tem seznamu. |
@@ -36,10 +34,12 @@ summary: "Uporabna orodja za uporabo za Microsoft Windows"
 
    ||
    | -------- |
-   | [The Ultimate Windows Utility](https://christitus.com/windows-tool/ "Kliknite/tapnite za obisk spletne strani!") je orodje, ki je izdelal Chris Titus Tech s podporo njegove skupnosti, s katerim lahko naredite veliko prilagoditev za operacijski sistem Windows in ga tudi razbremenite (debloat). Namestite lahko veliko programov preko Winget in Chocolatey, modificirate lahko datoteko Windows ISO in še več. Ne pozabite, da to orodje **NI** od Microsofta **in ga uporabljate na lastno odgovornost**!! Za več informacij si oglejte videoposnetek na njegovi spletni strani/YouTube. |
+   | [The Ultimate Windows Utility](https://christitus.com/windows-tool/ "Kliknite/tapnite za obisk spletne strani!") je orodje, ki je izdelal Chris Titus Tech s podporo njegove skupnosti, s katerim lahko naredite veliko prilagoditev za operacijski sistem warning in ga tudi razbremenite (debloat). Namestite lahko veliko programov preko [Winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/ "Kliknite/tapnite za obisk spletne strani!") in [Chocolatey](https://chocolatey.org/ "Kliknite/tapnite za obisk spletne strani!"), modificirate lahko datoteko Windows ISO in še več. Za več informacij si oglejte videoposnetek na njegovi spletni strani/YouTube. |
    | [UniGetUI (bil poznan kot WingetUI)](https://www.marticliment.com/unigetui/ "Kliknite/tapnite za obisk spletne strani!") je neuraden grafični program za [Microsoft](https://www.microsoft.com/ "Kliknite/tapnite za obisk spletne strani!") [Winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/ "Kliknite/tapnite za obisk spletne strani!") upravitelj paketov za namestitev, posodobitev, ... upravljanje programov. |
-   | [chocolatey](https://chocolatey.org/ "Kliknite/tapnite za obisk spletne strani!") je popularen upravitelj paketov. |
+   | [Chocolatey](https://chocolatey.org/ "Kliknite/tapnite za obisk spletne strani!") je popularen upravitelj paketov. |
 
 {{< /collapse >}}
 
-<!-- []( "Kliknite/tapnite za obisk spletne strani!") -->
+{{< notice warning >}}
+   Bodite previdni pri nameščanju razširitev, orodij ... , ker nekatere od njih lahko ukradejo vaše podatke, prikazujejo zlonamerne oglase, okužijo vaš računalnik ... nekateri pa so varne, zato **BODITE ZELO PREVIDNI!!!**. Z vsebino na tej strani nisem imel težav, vendar **TO NE POMENI**, da je vse varno zdaj in v prihodnosti, če pa kaj opazim pa vas tukaj obvestim! Enako velja za vse, kar osebno uporabljate v svojem sistemu! Če gre kaj narobe nisem odgovoren, vendar me lahko vprašate za pomoč!
+{{< /notice >}}

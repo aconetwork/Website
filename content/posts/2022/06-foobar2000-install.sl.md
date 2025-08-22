@@ -26,13 +26,13 @@ Program [foobar2000](https://www.foobar2000.org/ "Kliknite/tapnite, da odprete s
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 2:** Na strani kliknite s levo miškino tipko na `Download` (prevod: Presnami/Prenosi) v glavnem meniju" openByDefault=true >}}
+{{< collapse summary="**Korak 2:** Na strani kliknite z levo miškino tipko na `Download` (prevod: Presnami/Prenosi) v glavnem meniju" openByDefault=true >}}
 
    {{< figure align=center src="/images/foobar2000/Page-foobar2000-download-btn.jpeg" >}}
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 3:** Pod `Latest stable version` (prevod: Zadnja stabilna verzija) kliknite s levo miškino tipko na kaj potrebujete `32-bit | 64-bit | ARM`." openByDefault=true >}}
+{{< collapse summary="**Korak 3:** Pod `Latest stable version` (prevod: Zadnja stabilna verzija) kliknite z levo miškino tipko na kaj potrebujete `32-bit | 64-bit | ARM`." openByDefault=true >}}
 
    {{< figure align=center src="/images/foobar2000/Page-foobar2000-download-latest-ver.jpeg" >}}
 
@@ -48,13 +48,13 @@ Program [foobar2000](https://www.foobar2000.org/ "Kliknite/tapnite, da odprete s
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 2:** S levo miškino tipko kliknite na tipko `Next` button" openByDefault=true >}}
+{{< collapse summary="**Korak 2:** Z levo miškino tipko kliknite na tipko `Next` button" openByDefault=true >}}
 
    {{< figure align=center src="/images/foobar2000/En-foobar2000-setup-1-welcome-next.jpeg" >}}
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 3:** V oknu `license Agreement` (prevod: Licenčna pogodba) s levo miškino tipko kliknite na tipko `I agree` (prevod: Strinjam se)" openByDefault=true >}}
+{{< collapse summary="**Korak 3:** V oknu `license Agreement` (prevod: Licenčna pogodba) z levo miškino tipko kliknite na tipko `I agree` (prevod: Strinjam se)" openByDefault=true >}}
 
    {{< figure align=center src="/images/foobar2000/En-foobar2000-setup-2-licencea-i-agree.jpeg" >}}
 
@@ -62,7 +62,7 @@ Program [foobar2000](https://www.foobar2000.org/ "Kliknite/tapnite, da odprete s
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 4:** S levo miškino tipko označite krogec zraven `Standard installation`  in nato s levo miškino tipko kliknite na tipko `Next`" openByDefault=true >}}
+{{< collapse summary="**Korak 4:** Z levo miškino tipko označite krogec zraven `Standard installation`  in nato z levo miškino tipko kliknite na tipko `Next`" openByDefault=true >}}
 
    {{< figure align=center src="/images/foobar2000/En-foobar2000-setup-3-type.jpeg" >}}
 
@@ -72,15 +72,15 @@ Program [foobar2000](https://www.foobar2000.org/ "Kliknite/tapnite, da odprete s
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 5:** S levo miškino tipko kliknite na tipko `Next`" openByDefault=true >}}
+{{< collapse summary="**Korak 5:** Z levo miškino tipko kliknite na tipko `Next`" openByDefault=true >}}
 
    {{< figure align=center src="/images/foobar2000/En-foobar2000-setup-4-instloc-next.jpeg" >}}
 
-   Če želite spremeniti privzeto lokacijo namestitve, s levo miškino tipko kliknite na `Browse` in nastavite svojo mapo.
+   Če želite spremeniti privzeto lokacijo namestitve, z levo miškino tipko kliknite na `Browse` in nastavite svojo mapo.
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 6:** S levo miškino tipko kliknite na tipko `Install`" openByDefault=true >}}
+{{< collapse summary="**Korak 6:** Z levo miškino tipko kliknite na tipko `Install`" openByDefault=true >}}
 
    {{< figure align=center src="/images/foobar2000/En-foobar2000-setup-5-components-install.jpeg" >}}
 
@@ -88,7 +88,7 @@ Program [foobar2000](https://www.foobar2000.org/ "Kliknite/tapnite, da odprete s
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 7:** S levo miškino tipko kliknite na tipko `Finish`" openByDefault=true >}}
+{{< collapse summary="**Korak 7:** Z levo miškino tipko kliknite na tipko `Finish`" openByDefault=true >}}
 
    {{< figure align=center src="/images/foobar2000/En-foobar2000-setup-6-completed-finish.jpeg" >}}
 
@@ -98,7 +98,7 @@ Program [foobar2000](https://www.foobar2000.org/ "Kliknite/tapnite, da odprete s
 
 {{< /collapse >}}
 
-Pri prvem zagonu programa se prikaže `Quick Apperance Setup`, v katerem lahko nastavite splošne nastavitve izgleda programa. Da potrdite izbire, s levo miškino tipko kliknite na tipko `OK`.
+Pri prvem zagonu programa se prikaže `Quick Apperance Setup`, v katerem lahko nastavite splošne nastavitve izgleda programa. Da potrdite izbire, z levo miškino tipko kliknite na tipko `OK`.
 
 {{< figure align=center src="/images/foobar2000/En-foobar2000-first-run.jpeg" >}}
 

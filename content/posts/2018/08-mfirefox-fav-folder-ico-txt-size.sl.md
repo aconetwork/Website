@@ -15,7 +15,7 @@ language: "Slovenski"
 
 Pa nastavimo velikost pisave Firefoxa in spremenimo ikone map z zaznamki. **Preden** to storite, se prepričajte:
 
-- da znotraj `about:config` in nastavite `toolkit.legacyUserProfileCustomizations.stylesheets` (hiter dvoklik s levo miškino tipko) na `true`, hiter vodič najdete tukaj: [Popravite Mozilla Firefox da ne ignorira userChrome.css](https://www.youtube.com/watch?v=rVJnEDhHXdQ&list=PLbvZxzmdNckxgR98xK9iSVsO4bySit-q2 "Kliknite/tapnite za obisk vodiča!"),
+- da znotraj `about:config` in nastavite `toolkit.legacyUserProfileCustomizations.stylesheets` (hiter dvoklik z levo miškino tipko) na `true`, hiter vodič najdete tukaj: [Popravite Mozilla Firefox da ne ignorira userChrome.css](https://www.youtube.com/watch?v=rVJnEDhHXdQ&list=PLbvZxzmdNckxgR98xK9iSVsO4bySit-q2 "Kliknite/tapnite za obisk vodiča!"),
 - da znotraj vašega raziskovalca datotek lahko vidite končnice datotek, kot so `.exe`, `.txt`, `.msi`, `.docx`, ... kot je na primer `file.exe` in ne samo imena datoteke kot `file`. Kako to naredite, si lahko ogledate v [video vodiču ob času 01:59](https://youtu.be/wWs_UwVntFU?si=jACAf5M_ZNkZE4MJ&t=119 "Kliknite/tapnite za skok na ta del videoposnetka!").
 
 ## Odprite mapo profila Firefox

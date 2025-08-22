@@ -88,3 +88,14 @@
 
 - id: series_wit_title
   translation: "What Is That"
+
+# ----- Početak. Obaveštenje Short code prevod -----
+- id: warning
+  translation: "Upozorenje"
+- id: note
+  translation: "Napomena"
+- id: info
+  translation: "Informacija"  
+- id: tip
+  translation: "Savet"
+# ----- Kraj. Obaveštenje Short code prevod -----

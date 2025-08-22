@@ -26,7 +26,7 @@ Program [foobar2000](https://www.foobar2000.org/ "Kliknite/tapnite, da otvorite 
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 2:** Na strani kliknite s levo miškino tipko na `Download` v glavnem meniju" openByDefault=true >}}
+{{< collapse summary="**Korak 2:** Na strani kliknite z levo miškino tipko na `Download` v glavnem meniju" openByDefault=true >}}
 
    {{< figure align=center src="/images/foobar2000/Page-foobar2000-download-btn.jpeg" >}}
 

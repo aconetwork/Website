@@ -42,12 +42,28 @@ language: "Srpski"
 
 ## Video verzija
 
-{{< youtube "O1DA0HpFK-4" >}}
-
 *(..2025, 18:00 / 06:00 PM, vremenska zona: CEST / UTC+2 / GMT+2)*
+
+{{< youtube "O1DA0HpFK-4" >}}
 
 {{< rawhtml >}}
 <p style="color:green;text-align:center;">Hello World!</p>
 {{< /rawhtml >}}
+
+{{< notice info >}}
+  TEXT
+{{< /notice >}}
+
+{{< notice note >}}
+  TEXT
+{{< /notice >}}
+
+{{< notice tip >}}
+  TEXT
+{{< /notice >}}
+
+{{< notice warning >}}
+  TEXT
+{{< /notice >}}
 
 -->

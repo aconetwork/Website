@@ -88,3 +88,14 @@
 
 - id: series_wit_title
   translation: "What Is That"
+
+# ----- Begin. Notice Short code translation -----
+- id: warning
+  translation: "Warning"
+- id: note
+  translation: "Note"
+- id: info
+  translation: "Info"  
+- id: tip
+  translation: "Tip"
+# ----- End. Notice Short code translation -----

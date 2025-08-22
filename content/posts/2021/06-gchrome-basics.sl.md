@@ -26,7 +26,7 @@ Ta vodnik govori o osnovnih stvareh, ki jih lahko počnete v spletnem brskalniku
 
  {{< figure align=center src="/images/Google-Chrome/GChrome_desktop_shortcut.jpeg" >}}
 
-2. S levo miškino tipko kliknite na tipko s tremi pikami za odpretje menija.
+2. Z levo miškino tipko kliknite na tipko s tremi pikami za odpretje menija.
 
  {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_3_pike_tipka.jpeg" >}}
 
@@ -34,7 +34,7 @@ Ta vodnik govori o osnovnih stvareh, ki jih lahko počnete v spletnem brskalniku
 
  {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Pomoc.jpeg" >}}
 
-4. S levo miškino tipko kliknite na `O Google Chromu`.
+4. Z levo miškino tipko kliknite na `O Google Chromu`.
 
  {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Pomoc_-_O_Google_Chromu.jpeg" >}}
 
@@ -54,7 +54,7 @@ Ta vodnik govori o osnovnih stvareh, ki jih lahko počnete v spletnem brskalniku
 
  {{< figure align=center src="/images/Google-Chrome/GChrome_desktop_shortcut.jpeg" >}}
 
-2. S levo miškino tipko kliknite na tipko s tremi pikami, da odprete meni.
+2. Z levo miškino tipko kliknite na tipko s tremi pikami, da odprete meni.
 
  {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_3_pike_tipka.jpeg" >}}
 
@@ -78,15 +78,15 @@ Ta vodnik govori o osnovnih stvareh, ki jih lahko počnete v spletnem brskalniku
 
  {{< figure align=center src="/images/Google-Chrome/GChrome_desktop_shortcut.jpeg" >}}
 
-2. S levo miškino tipko kliknite na tipko s tremi pikami, da odprete meni.
+2. Z levo miškino tipko kliknite na tipko s tremi pikami, da odprete meni.
 
  {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_3_pike_tipka.jpeg" >}}
 
-1. S levo miškino tipko kliknite na `Nastavitve`.
+1. Z levo miškino tipko kliknite na `Nastavitve`.
    
    {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_meni_-_Nastavitve.jpeg" >}}
 
-2. S levo miškino tipko kliknite na `Videz`.
+2. Z levo miškino tipko kliknite na `Videz`.
    
    {{< figure align=center src="/images/Google-Chrome/Sl_-_GChrome_-_Nastavitve_-_videz.jpeg" >}}
 

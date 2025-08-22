@@ -9,8 +9,6 @@ summary: "Korisni alati za korišćenje za Microsoft Windows"
 
 {{< collapse summary="**Ekstensije/proširenja za veb pregledače** Neka korisna proširenja za vaš veb pregledač" openByDefault=false >}}
 
-   Budite oprezni koje ekstenzije instalirate! Neke od njih mogu da vam uzmu mnogo podatke, prikazuju zlonamerne oglase, zaraze vaš računar, ... ali neke od njih su bezbedne, zato **BUDITE MNOGO OPREZNI!!!**. Nisam imao problema sa ekstenzijama na listi ispod ali **TO NE ZNAČI**, da su svi sigurni. 
-
    ||||
    | -------- | ------- | ------- |
    | [![](/images/Google-Chrome/GChrome_logo_40px.png)](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm "Kliknite/tapnite da otvorite sajt proširenja!") | [![](/images/Mozilla-Firefox/mfirefox_logo_39x40px.png)](https://addons.mozilla.org/firefox/addon/ublock-origin/ "Kliknite/tapnite da otvorite sajt proširenja!") | ![](/images/Browser-extensions_logos/logo_browser_ext_uBlock_Origin_22px.png) **uBlock Origin** blokira reklame, praćenja, ... na veb stranicama. Trenutačno je ovo proširenje blokirano na Chromium veb pregledačima kao Google Chrome jer Google želi da vidite reklame ali je za sada i dalje dostupan `AdBlock` i `Malwarebytes Browser Guard`, koje može nađete na ovoj listi. |
@@ -36,10 +34,12 @@ summary: "Korisni alati za korišćenje za Microsoft Windows"
 
    ||
    | -------- |
-   | [The Ultimate Windows Utility](https://christitus.com/windows-tool/ "Kliknite/tapnite da otvorite veb stranicu!") je napravljen sa strane Chris Titus Tech uz pomoć njegove zajednice sa kojim možete da uradite mnogo podešavanja za Windows operativni sistem, kao i da ga debloatujete. Možete instalirati mnogo programa putem Winget i Chocolatey, modifikovati Windows ISO i još mnogo toga. Zapamtite da ovaj alat NIJE od Microsoft-a **i koristite ga na SOPSTVENU odgovornost**!! Pogledajte video na njegovom veb sajtu/YouTube za više informacija. |
-   | [UniGetUI (nekad WingetUI)](https://www.marticliment.com/unigetui/ "Kliknite/tapnite da otvorite veb stranicu!") je nezvanični grafički program napravljen za [Microsoft](https://www.microsoft.com/ "Kliknite/tapnite da otvorite veb stranicu!")-ov [Winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/ "Kliknite/tapnite da otvorite veb stranicu!") menadžer paketa za instaliranje, ažuriranje, ... programa. |
-   | [chocolatey](https://chocolatey.org/ "Kliknite/tapnite da otvorite veb stranicu!") je popularni menadžer paketa za instaliranje i ažuriranje programa. |
+   | [The Ultimate Windows Utility](https://christitus.com/windows-tool/ "Kliknite/tapnite da otvorite veb stranicu!") je napravljen sa strane Chris Titus Tech uz pomoć njegove zajednice sa kojim možete da uradite mnogo podešavanja za [Windows](https://www.microsoft.com/sr-latn-rs/windows/ "Kliknite/tapnite da otvorite veb stranicu!") operativni sistem, kao i da ga debloatujete. Možete instalirati mnogo programa putem [Winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/ "Kliknite/tapnite da otvorite veb stranicu!") i [Chocolatey](https://chocolatey.org/ "Kliknite/tapnite da otvorite veb stranicu!"), modifikovati Windows ISO i još mnogo toga. Pogledajte video na njegovom veb sajtu/YouTube za više informacija. |
+   | [UniGetUI (u prošlosti WingetUI)](https://www.marticliment.com/unigetui/ "Kliknite/tapnite da otvorite veb stranicu!") je nezvanični grafički program napravljen za [Microsoft](https://www.microsoft.com/ "Kliknite/tapnite da otvorite veb stranicu!")-ov [Winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/ "Kliknite/tapnite da otvorite veb stranicu!") menadžer paketa za instaliranje, ažuriranje, ... programa. |
+   | [Chocolatey](https://chocolatey.org/ "Kliknite/tapnite da otvorite veb stranicu!") je popularni menadžer paketa za instaliranje i ažuriranje programa. |
 
 {{< /collapse >}}
 
-<!-- []( "Kliknite/tapnite da otvorite veb stranicu!!") -->
+{{< notice warning >}}
+   Budite oprezni koje ekstenzije, alate, ... instalirate jer neke od njih mogu da ukradu vaše podatke, prikazuju vam zlonamerne oglase, zaraze vaš računar, ... ali neke od njih su bezbedne zato **BUDITE VEOMA OPREZNI!!!**. Nisam imao problema sa stvarima na ovoj stranici, ali **TO NE ZNAČI** da je sve bezbedno sada i u budućnosti ali ako primetim bilo šta, obavestiću vas ovde! Isto važi i za sve što koristite na svom sistemu! nisam odgovoran ako nešto krene naopako ali možete me pitati za pomoć!
+{{< /notice >}}

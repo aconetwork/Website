@@ -32,7 +32,7 @@ Ko prvič odprete program `foobar2000` se odpre okno `quick Apperance Setup` (pr
 
    {{< figure align=center src="/images/foobar2000/En-foobar2000-playlist-select-mp3-lmb-scan.jpeg" >}}
 
-   V novem oknu vidite seznam glasbenih datotek, pod stolpcem `Track gain` (prevod: ojačitev posnetka) pa vidite, koliko glasnejše (+) ali tišje (-) so glasnosti od 89db (**d**eci**b**el). Če želite trenutne vrednosti `ReplayGain` vstaviti v informacije datotek MP3, s levo miškino tipko kliknite na gumb `Update File Tags` (prevod: Posodobi oznake datoteke), v nasprotnem primeru pa z levo miškino tipko kliknete tipko `Cancel` (prevod: Prekliči).
+   V novem oknu vidite seznam glasbenih datotek, pod stolpcem `Track gain` (prevod: ojačitev posnetka) pa vidite, koliko glasnejše (+) ali tišje (-) so glasnosti od 89db (**d**eci**b**el). Če želite trenutne vrednosti `ReplayGain` vstaviti v informacije datotek MP3, z levo miškino tipko kliknite na gumb `Update File Tags` (prevod: Posodobi oznake datoteke), v nasprotnem primeru pa z levo miškino tipko kliknete tipko `Cancel` (prevod: Prekliči).
 
 {{< /collapse >}}
 
