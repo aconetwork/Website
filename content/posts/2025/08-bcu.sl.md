@@ -26,9 +26,13 @@ language: "Slovenski"
 
 ## Namestitev BCU s winget
 
+{{< notice info >}}
+  V primeru da nimate WINGET ali pa ste prejeli neko drugo napako v oknu instalacije programa ga namestite na [ročni način](#namestite-bulk-crap-uninstaller-ročno-s-prej-presneto-datoteko "Kliknite/tapnite da posetite sekciju!").
+{{< /notice >}}
+
 *(Kliknite/tapnite na posamezni korak ali trikotnik za skriti ali prikazati podrobnosti (slika, informacije, ...))*
 
-{{< collapse summary="**Korak 1:** Z desno miškino tipko kliknite na tipko `Start` menija in nato na `Windows PowerShell` ali `Terminal` kot Administrator" openByDefault=true >}}
+{{< collapse summary="**Korak 1:** Z desno miškino tipko kliknite na tipko `Start` menija in nato s levo miškino tipko kliknite na `Windows PowerShell` ali `Terminal` kot Administrator" openByDefault=true >}}
 
   {{< figure align=center src="/images/other/win10/Win10sl_-_start_btn.jpeg" title="Windows 10 Start" >}}
   {{< figure align=center src="/images/other/win11/Win11sl_-_start_btn_zacetek.jpeg" title="Windows 11 Start" >}}
@@ -37,7 +41,7 @@ language: "Slovenski"
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 2:** V novem oknu napišite winget komando in nato pritisnite tipko `Enter` na tipkovnici za namestitev BCU" openByDefault=true >}}
+{{< collapse summary="**Korak 2:** V novem oknu napišite winget komando (poglejte malo niže) in nato pritisnite tipko `Enter` na tipkovnici za namestitev BCU" openByDefault=true >}}
 
   Winget komanda:
 
@@ -121,10 +125,10 @@ language: "Slovenski"
 
   {{< figure align=center src="/images/bcu/bcu_-_file_setup_5.9_mouse_hover.jpeg" title="Setup for the installation" >}}
 
-  Če se prikaže okno za obveščanje o Microsoft Defender SmartScreen z levo miškino tipko kliknite na `Več informacij` in nato `Vseeno zaženi`.
+  Če se prikaže okno za obveščanje o Microsoft Defender SmartScreen z levo miškino tipko kliknite na `Več informacij` in nato kliknite `Vseeno zaženi`.
 
-  {{< figure align=center src="/images/bcu/bcu_-_fajl_setup_-_win11sl_smartscreen_-_vec_informacij_btn.jpeg" title="Več informacij tipka" >}}
-  {{< figure align=center src="/images/bcu/bcu_-_fajl_setup_-_win11sl_smartscreen_-_vseeno_zazeni_btn.jpeg" title="Vseeno zaženi tipka" >}}
+  {{< figure align=center src="/images/bcu/bcu_-_fajl_setup_-_win11sl_smartscreen_-_vec_informacij_btn.jpeg" title="Tipka: Več informacij" >}}
+  {{< figure align=center src="/images/bcu/bcu_-_fajl_setup_-_win11sl_smartscreen_-_vseeno_zazeni_btn.jpeg" title="Tipka: Vseeno zaženi" >}}
 
 {{< /collapse >}}
 
@@ -143,6 +147,8 @@ language: "Slovenski"
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 4:** Z levo miškino tipko kliknite na tipko `Naprej`,opcijsko lahko spremenite kam da se program namesti z klikom leve miškine tipke na tipko `Prebrskaj...`" openByDefault=true >}}
+
+  Če kliknete tipko `Prebrskaj...` v novem oknu s levo miškino tipko kliknite na željeno mapo in nato kliknete tipko `V redu`.
 
   {{< figure align=center src="/images/bcu/bcusl_-_namestitev_-_3_-_destinacija_-_naprej_btn.jpeg" >}}
 
@@ -176,7 +182,7 @@ language: "Slovenski"
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 9:** Z levo miškino tipko kliknite na tipko `Končaj`, opcionalno, če je potrditveno polje zraven `Odpri BCUninstaller` označeno, BCU program se bo odprl po kliku tipke `Končaj`" openByDefault=true >}}
+{{< collapse summary="**Korak 9:** Z levo miškino tipko kliknite na tipko `Končaj`, opcionalno, če je potrditveno polje zraven `Odpri BCUninstaller` označeno, BCU program se bo odprl po kliku leve miškine tipke na tipko `Končaj`" openByDefault=true >}}
 
   {{< figure align=center src="/images/bcu/bcusl_-_namestitev_-_8_-_koncano_-_koncaj_btn.jpeg">}}
 
@@ -210,7 +216,7 @@ language: "Slovenski"
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 4:** V odpakirani mapi z levo miškino tipko odprite `BCUninstaller.exe` program" openByDefault=true >}}
+{{< collapse summary="**Korak 4:** V odpakirani mapi z levo miškino tipko odprite `BCUninstaller.exe` za zagon programa" openByDefault=true >}}
 
   `.exe` datotečna končnica je lahko prikazana ali ne je odvisno od vaših nastavitev Windows-a. 
 
@@ -232,7 +238,7 @@ Vsakič, ko se BCU odpre bo skeniral vaš sistem za programe v vašem sistemu in
 
 *(Kliknite/tapnite na posamezni korak ali trikotnik za skriti ali prikazati podrobnosti (slika, informacije, ...))*
 
-{{< collapse summary="**Korak 1:** Z levo miškino tipko kliknite na tipko `Nadaljuj`, opcionalno lahko spremenite jezik programa" openByDefault=true >}}
+{{< collapse summary="**Korak 1:** Z levo miškino tipko kliknite na tipko `Nadaljuj`, opcionalno lahko spremenite jezik programa s levo miškino tipko" openByDefault=true >}}
 
   Če želite spremeniti jezik programa z levo miškino tipko kliknite na tipko `Privzeto` in kliknite na željeni jezik z levo miškino tipko in nato kliknite na tipko `Uporabi` za potrditev izbire.
 
@@ -287,13 +293,13 @@ Vsakič, ko se BCU odpre bo skeniral vaš sistem za programe v vašem sistemu in
 
 {{< /collapse >}}
 
-## Odstranjevanje programa
+## Odstranjevanje programa s BCU
+
+Za izbris bom uporabil  `VLC media player`.
 
 *(Kliknite/tapnite na posamezni korak ali trikotnik za skriti ali prikazati podrobnosti (slika, informacije, ...))*
 
 {{< collapse summary="**Korak 1:** Z desno miškino tipko kliknite na program, ki želite odstraniti nato pa z levo miškino tipko kliknite na tipko `Odstrani`" openByDefault=true >}}
-
-  Za ta vodič uporabljam `VLC media player`.
 
   {{< figure align=center src="/images/bcu/bcusl_-_odstrani_program_-_1_-_vlc_-_odstrani_btn.jpeg" >}}
 
@@ -312,7 +318,7 @@ Vsakič, ko se BCU odpre bo skeniral vaš sistem za programe v vašem sistemu in
 
 {{< collapse summary="**Korak 3:** If BCU detects uninstaling program or program connected to it is running BCU will whow this step to stop the program othervise will jump to next step" openByDefault=true >}}
 
-  Z levo miškino tipko kliknite na program na seznamu in kliknite tipko `Uniči`. Ko je program zaprt z levo miškino tipko kliknite na tipko `Nadaljuj`.
+  Z levo miškino tipko kliknite na program na seznamu in kliknite tipko `Uniči`. V primeru, da je več programov na spisku lahko vse na enkrat zaprete s klikom leve miškine tipke na tipko `Uniči vse`. Ko je program zaprt z levo miškino tipko kliknite na tipko `Nadaljuj`.
 
   {{< figure align=center src="/images/bcu/bcusl_-_odstrani_program_-_3a_-_zapri_vlc_-_unici_btn.jpeg" >}}
 
@@ -330,7 +336,7 @@ Vsakič, ko se BCU odpre bo skeniral vaš sistem za programe v vašem sistemu in
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 6:** Tukaj prvo odstranite s uradnim odstranjevalcom (kot na sliki levo) dokler BCU okno (na sliki desno) čaka v ozadju za zaključek" openByDefault=true >}}
+{{< collapse summary="**Korak 6:** Tukaj prvo odstranite s uradnim odstranjevalcom (kot na sliki levo) dokler BCU okno (desno na sliki) čaka v ozadju za zaključek" openByDefault=true >}}
 
   {{< figure align=center src="/images/bcu/bcusl_-_odstrani_program_-_6_-_vlc_odstranjevalec_-_naprej_btn.jpeg" >}}
 
@@ -356,7 +362,7 @@ Vsakič, ko se BCU odpre bo skeniral vaš sistem za programe v vašem sistemu in
   Z levo miškino tipko kliknite tipko `Izbriši izbrano` ampak pred tem lahko naredite nekaj zadev:
 
   - Ostanki s označenm potrditvenim poljem bodo izbrisani mednem neoznačeni pa nebodo.
-  - Izberete lahko različne stopnje zaupanja, `Dobro` in `Zelo dobro` so v skoraj vseh primerih v redu za izbris, medtem ko pri `Vprašljivo` ali `Slabo` bodite previdni! Vsi rezultati nižje stopnje zaupanja od izbrane so prezrti.Možnost je, da ostankov sploh ne bo v vašem primeru.Če izberete `Slabo` boste dobili obvestilo, če jih resnično želite pokazati, ker je lahko nevarno!
+  - Izberete lahko različne stopnje zaupanja, `Dobro` in `Zelo dobro` so v skoraj vseh primerih v redu za izbris, medtem ko pri `Vprašljivo` ali `Slabo` bodite previdni! Vsi rezultati nižje stopnje zaupanja od izbrane so prezrti.Možnost je, da ostankov sploh ne bo v vašem primeru.Če izberete `Slabo` boste dobili obvestilo, če jih resnično želite pokazati, ker je lahko nevarno! Da potrdite z levo miškino tipko kliknite na tipko `Da`.
 
   {{< figure align=center src="/images/bcu/bcusl_-_odstrani_program_-_10c_-_ostanki_vlc_-_izbrisi_izbrano_btn_window.jpeg" title="Seznam ostankov" >}}
   {{< figure align=center src="/images/bcu/bcusl_-_odstrani_program_-_10a_-_ostanki_vlc_-_zaupanje_izbira_-_slabo_btn.jpeg" title="Nivoji zaupanja" >}}

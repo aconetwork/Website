@@ -26,9 +26,13 @@ language: "English"
 
 ## Install BCU with winget
 
+{{< notice info >}}
+  If you do not have WINGET or there is some other warning in the window you are installing BCU install it [manually](#install-bulk-crap-uninstaller-manually-with-previously-downloaded-setup-file "Click/tap to go to the section!").
+{{< /notice >}}
+
 *(Click on the individual step or triangle to hide or show the details (images, info, ...))*
 
-{{< collapse summary="**Step 1:** Right mouse button click on the `Start` menu button and then on the `Windows PowerShell` OR `Terminal` as Administrator" openByDefault=true >}}
+{{< collapse summary="**Step 1:** Right mouse button click on the `Start` menu button and then with left mouse button click on the `Windows PowerShell` OR `Terminal` as Administrator" openByDefault=true >}}
 
   {{< figure align=center src="/images/other/win10/Win10en_-_start_btn_start.jpeg" title="Windows 10 Start" >}}
   {{< figure align=center src="/images/other/win11/Win11en_-_start_btn_start.jpeg" title="Windows 11 Start" >}}
@@ -37,7 +41,7 @@ language: "English"
 
 {{< /collapse >}}
 
-{{< collapse summary="**Step 2:** In new window type in winget command and then press `Enter` key on the keyboard to install BCU" openByDefault=true >}}
+{{< collapse summary="**Step 2:** In new window type in winget command (look little lower) and then press `Enter` key on the keyboard to install BCU" openByDefault=true >}}
 
   Winget command:
 
@@ -56,7 +60,7 @@ language: "English"
 
 {{< /collapse >}}
 
-## Download Bulk Crap Uninstaller setup and portable version
+## Download BCU setup and portable version
 
 {{< notice tip >}}
   Setup file is intended to install the BCU but portable version not, just run it. Portable version you just download, unpack with archive program like [7zip](https://www.7-zip.org/ "Click/tap to open the site!") or integrated archive extractor included in Windows 10 and 11 (check [portable section](#portable-bcu-unpack-and-run "Click/tap to go to the section!")] to see how to extract and open it) and run it. 
@@ -123,10 +127,10 @@ language: "English"
 
   {{< figure align=center src="/images/bcu/bcu_-_file_setup_5.9_mouse_hover.jpeg" title="Setup for the installation" >}}
 
-  If Microsoft Defender SmartScreen notification window shows up, first left mouse button click on the `More info` and then `Run anyway`.
+  If Microsoft Defender SmartScreen notification window shows up, first left mouse button click on the `More info` and then click `Run anyway`.
 
-  {{< figure align=center src="/images/bcu/bcu_-_file_setup_-_win11en_smartscreen_-_more_info_btn.jpeg" title="More info" >}}
-  {{< figure align=center src="/images/bcu/bcu_-_file_setup_-_win11en_smartscreen_-_run_anyway_btn.jpeg" title="Run anyway" >}}
+  {{< figure align=center src="/images/bcu/bcu_-_file_setup_-_win11en_smartscreen_-_more_info_btn.jpeg" title="Button: More info" >}}
+  {{< figure align=center src="/images/bcu/bcu_-_file_setup_-_win11en_smartscreen_-_run_anyway_btn.jpeg" title="Button: Run anyway" >}}
 
 {{< /collapse >}}
 
@@ -145,6 +149,8 @@ language: "English"
 {{< /collapse >}}
 
 {{< collapse summary="**Step 4:** Left mouse button click on the `Next` button but optionally you can change the installation folder by left mouse button click on the `Browse` button" openByDefault=true >}}
+
+  If you clicked `Browse` button in new window with left mouse button click on the desired folder and then click button `OK`.
 
   {{< figure align=center src="/images/bcu/bcuen_-_setup_-_3_-_destination_-_next_btn.jpeg" >}}
 
@@ -178,7 +184,7 @@ language: "English"
 
 {{< /collapse >}}
 
-{{< collapse summary="**Step 9:** Left mouse button click on the `Finish` button and optionally if checkbox near the `Launch BCUninstaller` is selected BCU program will open after you click `Finish` button" openByDefault=true >}}
+{{< collapse summary="**Step 9:** Left mouse button click on the `Finish` button and optionally if checkbox near the `Launch BCUninstaller` is selected BCU program will open after you left mouse button click on the `Finish` button" openByDefault=true >}}
 
   {{< figure align=center src="/images/bcu/bcuen_-_setup_-_8_-_finished_-_finish_next_btn.jpeg">}}
 
@@ -196,7 +202,7 @@ language: "English"
 
 {{< /collapse >}}
 
-{{< collapse summary="**Step 2** To unpack it right mouse button click on the BCU archive file (in my case is `BCUninstaller_5.9.0_portable.zip`) and then left mouse button on `Extract All...`" openByDefault=true >}}
+{{< collapse summary="**Step 2** To unpack it right mouse button click on the BCU archive file (in my case is `BCUninstaller_5.9.0_portable.zip`) and then left mouse button click on `Extract All...`" openByDefault=true >}}
 
   You can upack with archive program like [7zip](https://www.7-zip.org/ "Click/tap to open the site!"), [WinRAR](https://www.win-rar.com/ "Click/tap to open the site!"), ... but for this tutorial I am using Windows 11 (also available in Windows 10) integrated archive extractor. 
 
@@ -212,7 +218,7 @@ language: "English"
 
 {{< /collapse >}}
 
-{{< collapse summary="**Step 4:** In the extracted folder left mouse button click on the `BCUninstaller.exe` program" openByDefault=true >}}
+{{< collapse summary="**Step 4:** In the extracted folder left mouse button click on the `BCUninstaller.exe` program to run it" openByDefault=true >}}
 
   `.exe` extension may be shown or not, it depends on your Windows settings. 
 
@@ -234,7 +240,7 @@ Everytime BCU is opened it will scan your system for the uninstallers to show th
 
 *(Click on the individual step or triangle to hide or show the details (images, info, ...))*
 
-{{< collapse summary="**Step 1:** Left mouse button click on the `Continue` button, optionally you can change the program language" openByDefault=true >}}
+{{< collapse summary="**Step 1:** Left mouse button click on the `Continue` button, optionally you can change the program language with left mouse button click" openByDefault=true >}}
 
   If you want to change the program language left mouse button click on the `Default` and change the program language where after selecting left mouse button click on the `Apply` button to confirm your selection.
 
@@ -248,7 +254,7 @@ Everytime BCU is opened it will scan your system for the uninstallers to show th
 
   - `Show uninstallers in groups` Uninstallers will be grouped by the first character of the uninstaller title.
   - `Select using checkboxes` If you want to uninstall multiple programs at once, but I prefer checked it off to do one at a time.
-  - `Highlight certified uninstallers` Higlight uninstallers certified by relevant authoroties.
+  - `Highlight certified uninstallers` Highlight uninstallers certified by relevant authorities.
 
   {{< figure align=center src="/images/bcu/bcuen_-_welcome_settings_-_2_-_list_view_-_continue_btn.jpeg" >}}
 
@@ -260,7 +266,7 @@ Everytime BCU is opened it will scan your system for the uninstallers to show th
 
 {{< /collapse >}}
 
-{{< collapse summary="**Step 4:** With left mouse button select your options and then left mouse button click on the `Continue` button" openByDefault=true >}}
+{{< collapse summary="**Step 4:** With left mouse button click select your options and then click on the `Continue` button" openByDefault=true >}}
 
   Left mouse button click on the checkboxes to select/deselect desired options:
 
@@ -271,13 +277,13 @@ Everytime BCU is opened it will scan your system for the uninstallers to show th
 
 {{< /collapse >}}
 
-{{< collapse summary="**Step 5:** With left mouse button select your options and then left mouse button click on the `Continue` button" openByDefault=true >}}
+{{< collapse summary="**Step 5:** With left mouse button click select your options and then left mouse button click on the `Continue` button" openByDefault=true >}}
 
   Left mouse button click on the checkboxes to select/deselect desired options:
 
   - `Automatically look for updates on aplication start` To check for BCU updates when it starts up.
   - `Automatically send anonymous usage statistics` If you allow the BCU to send usage statistics to it's owner.
-  - `Enable user ratings of aplications` Usable to know if program is on good or bad standing. I think if there is no rating for an program BCU will post it as one star.
+  - `Enable user ratings of aplications` Usable to know if program is on good or bad standing. I think if there is no rating for a program BCU will post it as one star.
 
   {{< figure align=center src="/images/bcu/bcuen_-_welcome_settings_-_5_-_network_access_-_continue_btn.jpeg" >}}
 
@@ -289,13 +295,13 @@ Everytime BCU is opened it will scan your system for the uninstallers to show th
 
 {{< /collapse >}}
 
-## Uninstalling a program
+## Uninstalling a program with BCU
+
+I am using `VLC media player` to deinstall.
 
 *(Click on the individual step or triangle to hide or show the details (images, info, ...))*
 
-{{< collapse summary="**Step 1:** Right mouse button on the program you want to uninstall and then left mouse button click on the `Uninstall` button" openByDefault=true >}}
-
-  I am using `VLC media player` for this tutorial.
+{{< collapse summary="**Step 1:** Right mouse button click on the program you want to uninstall and then left mouse button click on the `Uninstall` button" openByDefault=true >}}
 
   {{< figure align=center src="/images/bcu/bcuen_-_uninstall_progam_-_1_-_vlc_-_uninstall_btn.jpeg" >}}
 
@@ -312,9 +318,9 @@ Everytime BCU is opened it will scan your system for the uninstallers to show th
 
 {{< /collapse >}}
 
-{{< collapse summary="**Step 3:** If BCU detects uninstaling program or program connected to it is running BCU will whow this step to stop the program othervise will jump to next step" openByDefault=true >}}
+{{< collapse summary="**Step 3:** f BCU detects uninstalling program or program connected to it is running BCU will show this step to stop the program otherwise will jump to the next step" openByDefault=true >}}
 
-  With left mouse button click on the program to stop from the list and then click `Kill` button. When program is killed, left mouse button click on the `Continue` button.
+  With left mouse button click on the program to stop from the list and then click `Kill` button. In case there is more than one program on the list, you can close them all at once with left mouse button click on the `Kill all` button. When program is killed, left mouse button click on the `Continue` button.
 
   {{< figure align=center src="/images/bcu/bcuen_-_uninstall_progam_-_3a_-_close_vlc_-_kill_btn.jpeg" >}}
 
@@ -332,7 +338,7 @@ Everytime BCU is opened it will scan your system for the uninstallers to show th
 
 {{< /collapse >}}
 
-{{< collapse summary="**Step 6:** Uninstall program with official uninstaller (left) while BCU window waits in the background to be completed" openByDefault=true >}}
+{{< collapse summary="**Step 6:** Uninstall program with official uninstaller (left on picture) while BCU window waits in the background to be completed" openByDefault=true >}}
 
   {{< figure align=center src="/images/bcu/bcuen_-_uninstall_progam_-_6_-_vlc_uninstaller_start_-_ok_btn.jpeg" >}}
 
@@ -353,20 +359,20 @@ Everytime BCU is opened it will scan your system for the uninstallers to show th
 
 {{< /collapse >}}
 
-{{< collapse summary="**Step 9:** With left mouse button select the desired options and then click on the `Delete selected` button, you can also use confidence dropdown..." openByDefault=true >}}
+{{< collapse summary="**Step 9:** With left mouse button click select the desired options and then click on the `Delete selected` button, you can also use confidence dropdown..." openByDefault=true >}}
 
   You can just left mouse button click on the `Delete selected` button but you can do few stuff:
 
   - Checked checkbox means that leftover will be deleted, while unchecked will not.
-  - You can select different confidence levels, good and very good are in almost all cases okay to delete while `Questionable` or `Bad` be carefull about. All results bellow the selected confidence will be ignored. It may be that non of the leftovers are available. If you select `Bad` you will get an notification if you really want to show them because it can be dangerous!
+  - You can select different confidence levels, `Good` and `Very good` are in almost all cases okay to delete while `Questionable` or `Bad` be carefull about. All results bellow the selected confidence will be ignored. It may be that non of the leftovers are available. If you select `Bad` you will get an notification if you really want to show them because it can be dangerous! To confirm left mouse button click on the `Yes` button.
 
   {{< figure align=center src="/images/bcu/bcuen_-_uninstall_progam_-_10c_-_leftovers_vlc_-_delete_selected_btn.jpeg" title="List of the leftovers" >}}
-  {{< figure align=center src="/images/bcu/bcuen_-_uninstall_progam_-_10a_-_leftovers_vlc_-_confidence_-_bad_sel.jpeg" title="Confidence of the files" >}}
+  {{< figure align=center src="/images/bcu/bcuen_-_uninstall_progam_-_10a_-_leftovers_vlc_-_confidence_-_bad_sel.jpeg" title="Confidence levels" >}}
   {{< figure align=center src="/images/bcu/bcuen_-_uninstall_progam_-_10b_-_leftovers_vlc_-_confidence_-_bad_-_yes_btn.jpeg" title="Bad confidence level notification" >}}
 
 {{< /collapse >}}
 
-{{< collapse summary="**Step 10:** If there are registry leftovers BCU will ask you if you want to create a backup of those registry entries.Left mouse button click on the `Create` button, select the folder where to backup and then left mouse button on `Select Folder`" openByDefault=true >}}
+{{< collapse summary="**Step 10:** If there are registry leftovers BCU will ask you if you want to create a backup of those registry entries.Left mouse button click on the `Create` button, select the folder where to backup and then left mouse button click on `Select Folder`" openByDefault=true >}}
 
   I used Windows Desktop for registry leftovers backup in this tutorial.
 
