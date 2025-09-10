@@ -5,10 +5,10 @@ date: 2025-04-03T16:00:00+02:00
 url: /gchrome-preuzimanja-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
-  - kako
+  - Kako
 tags: 
   - Windows
-  - kako
+  - Kako
   - Google Chrome
 showtoc: false  # Tabela sadržaja: Sakriti (false) ili pokazati (true).
 draft: false   # Prikaz na javnoj stranici: Prikaz (false) ili sakriti (true).

@@ -4,10 +4,10 @@ date: 2022-06-18T18:00:00+02:00
 url: /foobar2000-mp3-glasnost-sl/
 # image: images/2022-thumbs/0617_foobar2000.jpg
 categories:
-    - kako
+    - Kako
 tags:
     - Windows
-    - kako
+    - Kako
     - foobar2000
 showtoc: true
 draft: false

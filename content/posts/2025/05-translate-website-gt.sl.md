@@ -5,7 +5,7 @@ date: 2025-05-30T00:01:00+02:00
 url: /prevod-strani-gt-sl/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
-  - kako
+  - Kako
 tags: 
   - Windows
   - Linux

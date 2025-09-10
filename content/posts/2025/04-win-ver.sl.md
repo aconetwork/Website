@@ -5,10 +5,10 @@ date: 2025-04-15T00:00:00+02:00
 url: /win-verzija-sl/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
-  - kako
+  - Kako
 tags: 
   - Windows
-  - kako
+  - Kako
 showtoc: false  # Seznam vsebine: Skriti (false) ali prikazati (true)
 draft: false  # Prikaz na javni strani: Prikaz (false) ali skriti (true)
 language: "Slovenski"

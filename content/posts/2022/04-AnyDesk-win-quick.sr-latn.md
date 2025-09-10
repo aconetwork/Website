@@ -4,7 +4,7 @@ date: 2022-04-09T18:00:00+02:00
 url: /AnyDesk-osnova-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
-  - kako
+  - Kako
 tags: 
   - Windows
   - AnyDesk

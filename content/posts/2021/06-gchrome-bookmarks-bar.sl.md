@@ -5,11 +5,11 @@ date: 2021-06-30T18:00:00+01:00
 url: /gchrome_vrstica_zaznamkov-sl/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
-  - kako
+  - Kako
 tags: 
   - Windows
   - Linux
-  - kako
+  - Kako
   - Google Chrome
 showtoc: false  # Seznam vsebine: Skriti (false) ali prikazati (true)
 draft: false  # Prikaz na javni strani: Prikaz (false) ali skriti (true)

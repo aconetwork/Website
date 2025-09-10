@@ -4,7 +4,7 @@ date: 2018-08-15T18:00:00+02:00
 url: /firefox-tekst-velikost-ikona-mape/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
-  - kako
+  - Kako
 tags: 
   - Windows
   - Mozilla Firefox

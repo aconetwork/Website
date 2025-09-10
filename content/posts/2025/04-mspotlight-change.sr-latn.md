@@ -5,7 +5,7 @@ date: 2025-04-22T00:00:00+02:00
 url: /mspotlight-promeni-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
-  - kako
+  - Kako
 tags: 
   - Windows
   - Microsoft Spotlight

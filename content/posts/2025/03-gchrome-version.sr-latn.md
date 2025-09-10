@@ -5,11 +5,11 @@ date: 2025-03-13T18:00:00+01:00
 url: /gchrome-verzija-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
-  - kako
+  - Kako
 tags: 
   - Windows
   - Linux
-  - kako
+  - Kako
   - Google Chrome
 showtoc: false  # Tabela sadržaja: Sakriti (false) ili pokazati (true).
 draft: false   # Prikaz na javnoj stranici: Prikaz (false) ili sakriti (true).

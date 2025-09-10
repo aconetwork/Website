@@ -5,10 +5,10 @@ date: 2025-03-27T12:01:33+01:00
 url: /gchrome-jezik-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
-  - kako
+  - Kako
 tags: 
   - Windows
-  - kako
+  - Kako
   - Google Chrome
 showtoc: false  # Tabela sadržaja: Sakriti (false) ili pokazati (true).
 draft: false   # Prikaz na javnoj stranici: Prikaz (false) ili sakriti (true).

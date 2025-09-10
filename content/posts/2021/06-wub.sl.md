@@ -4,7 +4,7 @@ date: 2021-06-12T18:00:00+02:00
 url: /wub-sl/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
-  - kako
+  - Kako
 tags: 
   - Windows
   - Windows Update Blocker

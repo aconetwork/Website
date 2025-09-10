@@ -5,7 +5,7 @@ date: 2025-04-10T22:22:03+02:00
 url: /Windows-partially-translated/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
-  - kako
+  - Kako
   - AST
   - AFT
   - ART

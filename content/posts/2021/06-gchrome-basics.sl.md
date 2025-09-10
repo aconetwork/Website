@@ -5,11 +5,11 @@ date: 2021-07-01T18:00:00+01:00
 url: /gchrome-sl/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
-  - kako
+  - Kako
 tags: 
   - Windows
   - Linux
-  - kako
+  - Kako
   - Google Chrome
 showtoc: true  # Seznam vsebine: Skriti (false) ali prikazati (true)
 draft: true  # Prikaz na javni strani: Prikaz (false) ali skriti (true)

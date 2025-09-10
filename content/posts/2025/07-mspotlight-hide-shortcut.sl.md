@@ -5,7 +5,7 @@ date: 2025-07-25T00:00:00+02:00
 url: /mspotlight-bljiznica-sl/
 # image: images/2024-thumbs/spotlight-reset.jpg
 categories: 
-  - kako
+  - Kako
 tags: 
   - Windows
   - Microsoft Spotlight

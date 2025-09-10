@@ -5,7 +5,7 @@ date: 2025-08-22T00:00:00+02:00
 url: /bcu-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
-  - kako
+  - Kako
 tags: 
   - Windows
   - Bulk Crap Uninstaller
