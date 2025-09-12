@@ -1,6 +1,6 @@
 ---
 title: "Podešavanje ažuriranja aplikacija"
-date: 2025-09-10T19:13:25+02:00
+date: 2025-09-12T00:00:00+02:00
 # publishDate: 2025-09-10T19:13:25+02:00
 url: /gplay-azuriranja-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
@@ -104,6 +104,10 @@ Danas je o podešavanjima ažuriranja aplikacija u Google Play prodavnici na And
   Ako želite da ažurirate sve programe od jedamput tapnite dugme `Ažuriraj sve` a za pojedinačne aplikacije tapnite dugme `Ažuriraj` u liniji aplikacije. 
 
   {{< figure align=center src="/images/Google_Play_Android/Hr_-_Trgovina_Play_-_Postavke_-_Preuzimanja.jpeg" >}}
+
+  U primeru, da imate onemogučena ažuriranja za barem jednu aplikaciju može vidite obaveštenje kao na donji sliki. Ja sam tapnuo dugme `Preskoči`, da ne proba ažurira aplikaciju.
+
+  {{< figure align=center src="/images/Google_Play_Android/Hr_-_Trgovina_Play_-_Postavke_-_Preuzimanja_-_Automatsko_azuriranje_onemoguceno.jpeg" >}}
 
 {{< /collapse >}}
 

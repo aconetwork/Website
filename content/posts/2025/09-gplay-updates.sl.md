@@ -105,9 +105,13 @@ store application
 
   {{< figure align=center src="/images/Google_Play_Android/Sl_-_Trgovina_Play_-_Nastavitve_-_Prenosi.jpeg" >}}
 
+  V primeru, da ima vsaj ena aplikacija onemogočene posodobitve lahko vidite obvestilo podobno kot sliki spodaj. V mojem primeru sem tapnil tipko `Preskoči`, da ne napesti posodobitev.
+
+  {{< figure align=center src="/images/Google_Play_Android/Sl_-_Trgovina_Play_-_Nastavitve_-_Prenosi_-_Samodejno_posodabljanje_app_izkl.jpeg" >}}
+
 {{< /collapse >}}
 
-*(Ta vodič je bil posnet na pametnem telefonu Xiaomi mi Note 10 Lite, MIUI 13.0.6, slovenski jezim sistema))*
+*(Ta vodič je bil posnet na pametnem telefonu Xiaomi mi Note 10 Lite, MIUI 13.0.6, slovenski jezik sistema)*
 
 ## Povezave
 

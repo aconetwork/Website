@@ -105,9 +105,13 @@ Today is about aplication updates settings in Google Play store settings on Andr
 
   {{< figure align=center src="/images/Google_Play_Android/En_-_Play_Store_-_Settings_-_Downloads.jpeg" >}}
 
+  In case that at least one app has disabled updates you can see notification like on the picture bellow. In my case I tapped the `Skip` button so the app wont be updated.
+
+  {{< figure align=center src="/images/Google_Play_Android/En_-_Play_Store_-_Settings_-_Downloads_-_Auto_update_disabled.jpeg" >}}
+
 {{< /collapse >}}
 
-*(This tutorial was recorded on the smartphone Xiaomi mi Note 10 Lite, MIUI 13.0.6, English system language))*
+*(This tutorial was recorded on the smartphone Xiaomi mi Note 10 Lite, MIUI 13.0.6, English system language)*
 
 ## Links
 

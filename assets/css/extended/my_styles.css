@@ -173,7 +173,7 @@
     text-align: center; 
     border: 6px solid var(--border);
     display: inline-block; 
-    margin: 6px 1px 6px 1px;
+    margin: 1px 1px 21px 1px;
 }
 
 .post-content figure figcaption {
