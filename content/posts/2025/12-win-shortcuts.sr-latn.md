@@ -10,7 +10,7 @@ tags:
   - kako
   - Windows
 showtoc: true  # Table of content: Hide (false) or show (true)
-draft: true  # Draft: Show (false) or hide (true)
+draft: false  # Draft
 language: "Srpski"
 ---
 
@@ -30,9 +30,9 @@ Za ovaj tutorijal sam upotrebio `Windows radnu površinu` za nove prečice, vi k
 
    Kliknite i držite levo dugme miša na dugmetu (pogledajte slike ispod) blizu adrese veb stranice, vucite ga na željenu lokaciju a onda ispustite dugme miša. Prečica je sada kreirana.
    
-   {{< figure src="/images/Brave/En_-_Brave_-_url_site_info_btn.jpeg" title="Brave" >}}
-   {{< figure src="/images/Google-Chrome/En_-_GChrome_-_url_site_info_btn.jpeg" title="Google Chrome" >}}
-   {{< figure src="/images/Mozilla-Firefox/En_-_MFirefox_-_url_lock_btn.jpeg" title="Mozilla Firefox" >}}
+   {{< figure src="/images/Brave/Brave_-_url_site_info_btn.jpeg" title="Brave" >}}
+   {{< figure src="/images/Google-Chrome/GChrome_-_url_site_info_btn.jpeg" title="Google Chrome" >}}
+   {{< figure src="/images/Mozilla-Firefox/MFirefox_-_url_lock_btn.jpeg" title="Mozilla Firefox" >}}
 
 {{< /collapse >}}
 
@@ -51,11 +51,9 @@ Prvo otvorite željenu fasciklu za prečicu.
 
 {{< collapse summary="**Korak 2:** Pronađite željeni element za prečicu" openByDefault=true >}}
 
-   {{< figure src="/images/other/win10/Win10en_-_start_-_desktop_drag_drop_shortcut.jpeg" title="U Windows 10" >}}
-
    `Windows 11` `Start meni` izgleda drugačije nego u `Windows 10` pa ako želite da vidite listu programa, kliknite levim tasterom miša na dugme `Sve >`.
 
-   {{< figure src="/images/other/win11/Win11sr_-_start_-_sve_btn.jpeg" >}}
+   {{< figure src="/images/other/win11/Win11sr_-_start_btn_-_sve_btn.jpeg" >}}
 
 {{< /collapse >}}
 
@@ -65,8 +63,8 @@ Prvo otvorite željenu fasciklu za prečicu.
 
    Da vidite spisak programa u `Windows 11` potrebno je, da kliknete levim dugmetom miša na dugme `Sve >`, dok se u Windows 10 lista pokaže odmah.
 
-   {{< figure src="/images/other/win10/Win10sr_-_start_-_element_povuci.jpeg" title="U Windows 10" >}}
-   {{< figure src="/images/other/win11/Win11sr_-_start_-_element_povuci.jpeg" title="U Windows 11" >}}
+   {{< figure src="/images/other/win10/Win10sr_-_start_btn_-_access_povuci.jpeg" title="U Windows 10" >}}
+   {{< figure src="/images/other/win11/Win11sr_-_start_btn_-_adobe_acrobat_povuci.jpeg" title="U Windows 11" >}}
 
 {{< /collapse >}}
 
@@ -76,13 +74,13 @@ Prvo otvorite željenu fasciklu za prečicu.
    
    - Levim dugmetom miša kliknite na `Zakači za Start` da dodate prečicu u zakačene programe Start menija.
 
-   {{< figure src="/images/other/win10/Win10sr_-_start_-_element_rmb_-_pin_start.jpeg" title="U Windows 10" >}}
-   {{< figure src="/images/other/win11/Win10sr_-_start_-_element_rmb_-_pin_start.jpeg" title="U Windows 11" >}}
+   {{< figure src="/images/other/win10/Win10sr_-_start_btn_-_access_rmb_-_zakaci_start.jpeg" title="U Windows 10" >}}
+   {{< figure src="/images/other/win11/Win11sr_-_start_btn_-_adobe_acrobat_rmb_-_zakaci_start.jpeg" title="U Windows 11" >}}
 
    - Sa strelicom miša idite preko `Više` i onda levim dugmetom miša kliknite na `Zakači na traku zadataka`, da napravite prečicu u traci zadataka.
 
-   {{< figure src="/images/other/win10/Win10sr_-_start_-_element_rmb_-_vise_-_zakaci_traka_zadataka.jpeg" title="U Windows 10" >}}
-   {{< figure src="/images/other/win11/Win10sr_-_start_-_element_rmb_-_vise_-_zakaci_traka_zadataka.jpeg" title="U Windows 11" >}}
+   {{< figure src="/images/other/win10/Win10sr_-_start_btn_-_element_rmb_-_vise_-_zakaci_traka_zadataka.jpeg" title="U Windows 10" >}}
+   {{< figure src="/images/other/win11/Win11sr_-_start_btn_-_adobe_acrobat_rmb_-_vise_-_zakaci_traka_zadataka.jpeg" title="U Windows 11" >}}
 
 {{< /collapse >}}
 
@@ -98,9 +96,9 @@ Prvo otvorite željenu fasciklu za prečicu a onda lokaciju elementa za koji že
    
    *Opcije dugmeta tastature kod vučenja:*
 
-   {{< figure src="/images/other/win10/Win10sr_-_fajl_vuci_precica_alt_key.jpeg" title="Levi Alt za prečicu" >}}
-   {{< figure src="/images/other/win10/Win10sr_-_fajl_vuci_precica_ctrl_key.jpeg" title="CTRL za kopirati" >}}
-   {{< figure src="/images/other/win10/Win10sr_-_fajl_vuci_precica_shift_key.jpeg" title="SHIFT da premestite" >}}
+   {{< figure src="/images/other/win10/Win10sr_-_chrome_vuci_precica_alt_key.jpeg" title="Levi Alt za prečicu" >}}
+   {{< figure src="/images/other/win10/Win10sr_-_chrome_proxy_vuci_precica_ctrl_key.jpeg" title="CTRL za kopirati" >}}
+   {{< figure src="/images/other/win10/Win10sr_-_chrome_proxy_vuci_precica_shift_key.jpeg" title="SHIFT da premestite" >}}
 
 {{< /collapse >}}
 
@@ -108,15 +106,16 @@ Prvo otvorite željenu fasciklu za prečicu a onda lokaciju elementa za koji že
 
    - Kliknite desnim dugmetom miša na željen elemenat, pređite na `Pošalji u`, a zatim kliknite levim dugmetom miša na `Radna površina (napravi prečicu)` ili bilo koju opciju želite.
    
-   {{< figure src="/images/other/win10/Win10sr_-_fajl_rmb_-_posalji_u_-_radna_povrsina_btn.jpeg" title="U Windows 10" >}}
+   {{< figure src="/images/other/win10/Win10sr_-_chrome_rmb_-_posalji_u_-_radna_povrsina_btn.jpeg" title="U Windows 10" >}}
 
-   - Kliknite desnim dugmetom miša na željen elemenat a zatim kliknite levim dugmetom miša na `Napravi prečicu`.
+   - Kliknite desnim dugmetom miša na željen elemenat a zatim kliknite levim dugmetom miša na `Kreiraj prečicu`. Ako je fascikla zaštitena če dobijete grešku i levim dugmetom miša kliknite dugme `Da` ako želite napraviti prečicu na radnu površinu ako želite prekinete postupak pa levim dugmetom miša kliknite na dugme `Ne`.
    
-   {{< figure src="/images/other/win10/Win10sr_-_fajl_rmb_-_napravi_precicu_btn.jpeg" title="U Windows 10" >}}
+   {{< figure src="/images/other/win10/Win10sr_-_chrome_rmb_-_kreiraj_precicu_btn.jpeg" title="U Windows 10" >}}
+   {{< figure src="/images/other/win10/Win10sr_-_chrome_rmb_-_napravi_precicu_btn_-_greska_da.jpeg" title="U Windows 10" title="Greška zaštitene fascikle" >}}
 
    **Da vidite `Pošalji u` ili `Napravi prečicu` u `Windows 11` prvo levim dugmetom miša kliknite na dugme `Prikaži još opcija`.**
 
-   {{< figure src="/images/other/win11/Win10sr_-_fajl_rmb_-_show_more_options_btn.jpeg" title="Prikaži još opcija" >}}
+   {{< figure src="/images/other/win11/Win11sr_-_chrome_rmb_-_prikazi_jos_opcija_btn.jpeg"  >}}
 
 {{< /collapse >}}
 
@@ -131,7 +130,6 @@ Prvo otvorite željenu fasciklu za prečicu a onda lokaciju elementa za koji že
 {{< collapse summary="**Korak 2:** Kliknite desnim dugmetom miša na prazan prostor željene fascikle, idite na `Nova` a onda kliknite levim dugmetom miša na dugme `Precica`" openByDefault=true >}}
 
    {{< figure src="/images/other/win10/Win10sr_-_radna_povrsina_rmb_-_nova_-_precica_btn.jpeg" title="U Windows 10" >}}
-   {{< figure src="/images/other/win11/Win11sr_-_radna_povrsina_rmb_-_nova_-_precica_btn.jpeg" title="U Windows 11" >}}
 
    Ako želite da kopirate i nalepite ili napišete lokaciju nastavite sa čitanjem ovog koraka ali ako želite ručno da izaberete elemenat, pređite na `Korak 3`.
    
@@ -145,7 +143,7 @@ Prvo otvorite željenu fasciklu za prečicu a onda lokaciju elementa za koji že
 
 {{< collapse summary="**Korak 3:** Sa levim dugmetom miša kliknite na dugme `Potraži`" openByDefault=true >}}
 
-   {{< figure src="/images/other/win10/Win10en_-_kreiranje_precice_-_lokacija_-_potrazi_btn.jpeg" >}}
+   {{< figure src="/images/other/win10/Win10sr_-_kreiranje_precice_-_lokacija_-_potrazi_btn.jpeg" >}}
 
 {{< /collapse >}}
 
@@ -179,13 +177,13 @@ Prvo otvorite željenu fasciklu za prečicu a onda lokaciju elementa za koji že
 
 {{< /collapse >}}
 
-## What I used for this tutorial
+## Šta sam upotrebio za ovaj tutorijal?
 
-- 64-bit Windows 10 22H2 and Windows 11 24H2 
-- Web browsers: ![](/images/Brave/logo_Brave_H20px.png) [Brave](https://brave.com/), ![](/images/Google-Chrome/logo_Google_Chrome_H20.png) [Google Chrome](https://www.google.com/chrome/ "Click/tap to open the web site!") and ![](/images/Mozilla-Firefox/logo_Mozilla_Firefox_H20px.png "Click/tap to open the web site!") [Mozilla Firefox](https://www.firefox.com/ "Click/tap to open the web site!"). More about them check the [tools](/tools "Click/tap to visit the page!") page.
+- 64-bita Windows 10 22H2 i Windows 11 24H2 
+- Veb pregledači: ![](/images/Brave/logo_Brave_H20px.png) [Brave](https://brave.com/), ![](/images/Google-Chrome/logo_Google_Chrome_H20.png) [Google Chrome](https://www.google.com/chrome/ "Kliknite/tapnite, da otvorite veb stranicu!") and ![](/images/Mozilla-Firefox/logo_Mozilla_Firefox_H20px.png "Kliknite/tapnite, da otvorite veb stranicu!") [Mozilla Firefox](https://www.firefox.com/ "Kliknite/tapnite, da otvorite veb stranicu!"). More about them check the [tools](/tools "Kliknite/tapnite, da otvorite stranicu!").
 
-## Video version
+## Video verzija
 
-*(07.12.2025, 18:00 / 06:00 PM, timezone: CEST / UTC+2 / GMT+1)*
+*(07.12.2025, 18:00 / 06:00 PM, timezone: CET / UTC+1 / GMT+1)*
 
 {{< youtube "vxg2CzgrNBY" >}}

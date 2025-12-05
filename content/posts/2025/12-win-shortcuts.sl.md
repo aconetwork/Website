@@ -10,7 +10,7 @@ tags:
   - Windows
   - kako
 showtoc: true  # Seznam vsebine: Skriti (false) ali prikazati (true)
-draft: true  # Prikaz na javni strani: Prikaz (false) ali skriti (true)
+draft: false  # Prikaz na javni strani: Prikaz (false) ali skriti (true)
 language: "Slovenski"
 ---
 
@@ -30,9 +30,9 @@ Za ta vodič sem za nove bližnjice uporabil `Windows Namizje`, vi pa uporabite 
 
    Kliknite in držite levo miškino tipko (preverite spodnje slike) v bližini naslova spletne strani, povlecite ga na želeno mesto in nato spustite miškino tipko. Zdaj je bližnjica ustvarjena.
    
-   {{< figure src="/images/Brave/En_-_Brave_-_url_site_info_btn.jpeg" title="Brave" >}}
-   {{< figure src="/images/Google-Chrome/En_-_GChrome_-_url_site_info_btn.jpeg" title="Google Chrome" >}}
-   {{< figure src="/images/Mozilla-Firefox/En_-_MFirefox_-_url_lock_btn.jpeg" title="Mozilla Firefox" >}}
+   {{< figure src="/images/Brave/Brave_-_url_site_info_btn.jpeg" title="Brave" >}}
+   {{< figure src="/images/Google-Chrome/GChrome_-_url_site_info_btn.jpeg" title="Google Chrome" >}}
+   {{< figure src="/images/Mozilla-Firefox/MFirefox_-_url_lock_btn.jpeg" title="Mozilla Firefox" >}}
 
 {{< /collapse >}}
 
@@ -53,7 +53,7 @@ Najprej odprite želeno mapo za bližnjico.
 
    V `Windows 11` `Start meni` izgleda drugače kot v `Windows 10` zato če želite videti seznam programov z levim gumbom miške kliknite na gumb `Vse >`.
 
-   {{< figure src="/images/other/win11/Win11sl_-_start_-_vse_btn.jpeg" >}}
+   {{< figure src="/images/other/win11/Win11sl_-_start_btn_-_vse_btn.jpeg" >}}
 
 {{< /collapse >}}
 
@@ -61,10 +61,7 @@ Najprej odprite želeno mapo za bližnjico.
    
    Kliknite in držite željen element s levo miškino tipko, povlecite ga na želeno mesto (pripete aplikacije v meniju Start, opravilna vrstica, namizje ali v drugo mapo) in nato spustite miškino tipko. Zdaj je bližnjica ustvarjena.
 
-   Če želite v sistemu `Windows 11` prikazati seznam programov, morate z levo miškino tipko klikniti na gumb `Vse >`, medtem ko se v sistemu Windows 10 seznam prikaže takoj.
-
-   {{< figure src="/images/other/win10/Win10sl_-_start_-_element_povleci.jpeg" title="V Windows 10" >}}
-   {{< figure src="/images/other/win11/Win11sl_-_start_-_element_povleci.jpeg" title="V Windows 11" >}}
+   {{< figure src="/images/other/win10/Win10sl_-_start_btn_-_access_povleci.jpeg" title="V Windows 10" >}}
 
 {{< /collapse >}}
 
@@ -74,13 +71,13 @@ Najprej odprite želeno mapo za bližnjico.
    
    - Z levo miškino tipko kliknite `Pripni na začetni zaslon`, da pripnete bližnjico v meniju Start.
 
-   {{< figure src="/images/other/win10/Win10sl_-_start_-_element_rmb_-_pripni_start.jpeg" title="V Windows 10" >}}
-   {{< figure src="/images/other/win11/Win11sl_-_start_-_element_rmb_-_pripni_start.jpeg" title="V Windows 11" >}}
+   {{< figure src="/images/other/win10/Win10sl_-_start_btn_-_access_rmb_-_pripni_start.jpeg" title="V Windows 10" >}}
+   {{< figure src="/images/other/win11/Win11sl_-_start_btn_-_adobe_acrobat_rmb_-_pripni_start.jpeg" title="V Windows 11" >}}
 
    - S miškinim kazalcem pojdite na `Več` in nato s levo miškino tipko kliknite na `Pripni v opravilno vrstico` da dodate bližnjico v opravilno vrstico.
 
-   {{< figure src="/images/other/win10/Win10sl_-_start_-_element_rmb_-_more_-_pripni_opravilna.jpeg" title="V Windows 10" >}}
-   {{< figure src="/images/other/win11/Win11sl_-_start_-_element_rmb_-_more_-_pripni_opravilna.jpeg" title="V Windows 11" >}}
+   {{< figure src="/images/other/win10/Win10sl_-_start_btn_-_access_rmb_-_more_-_pripni_opravilna.jpeg" title="V Windows 10" >}}
+   {{< figure src="/images/other/win11/Win11sl_-_start_btn_-_adobe_acrobat_rmb_-_vec_-_pripni_opravilna.jpeg" title="V Windows 11" >}}
 
 {{< /collapse >}}
 
@@ -96,25 +93,26 @@ Najprej odprite želeno mapo za bližnjico in nato lokacijo elementa, do katereg
    
    *Opcije tipk tipkovnice med vlečenjem:*
 
-   {{< figure src="/images/other/win10/Win10sl_-_fajl_vleka_bliznjica_alt_key.jpeg" title="Levi Alt za bljižnico" >}}
-   {{< figure src="/images/other/win10/Win10sl_-_fajl_vleka_bliznjica_ctrl_key.jpeg" title="CTRL za kopirati" >}}
-   {{< figure src="/images/other/win10/Win10sl_-_fajl_vleka_bliznjica_shift_key.jpeg" title="SHIFT za premakniti" >}}
+   {{< figure src="/images/other/win10/Win10sl_-_chrome_vleka_bliznjica_alt_key.jpeg" title="Levi Alt za bljižnico" >}}
+   {{< figure src="/images/other/win10/Win10sl_-_chrome_proxy_vleka_bliznjica_ctrl_key.jpeg" title="CTRL za kopirati" >}}
+   {{< figure src="/images/other/win10/Win10sl_-_chrome_proxy_vleka_bliznjica_shift_key.jpeg" title="SHIFT za premakniti" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Meni desne miškine tipke** metoda" openByDefault=true >}}
 
-   - Z desno miškino tipko kliknite na željen element, pojdite preko `Pošlji v` in nato z levo miškino tipko kliknite `Namizje (ustvari bližnjico)` ali katero koli možnost želite.
+   - Z desno miškino tipko kliknite na željen element, pojdite preko `Pošlji v` in nato z levo miškino tipko kliknite `Namizje (ustvari bližnjico)` ali katero koli možnost želite. 
    
-   {{< figure src="/images/other/win10/Win10sl_-_fajl_rmb_-_poslji_v_-_namizje_btn.jpeg" title="V Windows 10" >}}
+   {{< figure src="/images/other/win10/Win10sl_-_chrome_rmb_-_poslji_v_-_namizje_btn.jpeg" title="V Windows 10" >}}   
 
-   - Z desno miškino tipko kliknite na željen element in nato z levo miškino tipko kliknite `Ustvari bližnjico`.
+   - Z desno miškino tipko kliknite na željen element in nato z levo miškino tipko kliknite `Ustvari bližnjico`. Če je mapa zaščitena boste prejeli napako in s levo miškino tipko kliknite na tipko `Da` če želite izdelati bližnjico na namizje, če pa želite prekiniti postopek pa kliknite s levo miškino tipko tipko `Ne`.
    
-   {{< figure src="/images/other/win10/Win10sl_-_fajl_rmb_-_ustvari_bliznjico_btn.jpeg" title="V Windows 10" >}}
+   {{< figure src="/images/other/win10/Win10sl_-_chrome_rmb_-_ustvari_bliznjico_btn.jpeg" title="V Windows 10" >}}
+   {{< figure src="/images/other/win10/Win10sl_-_chrome_rmb_-_ustvari_bliznjico_btn_-_napaka_da.jpeg" title="Napaka zaščitene mape" >}}
 
    **Da vidite `Pošlji v` in `Ustvari bližnjico` v `Windows 11` najprej morete s levo miškino tipko klikniti na tipko `Pokaži več možnosti` button.**
 
-   {{< figure src="/images/other/win11/Win11sl_-_fajl_rmb_-_show_more_options_btn.jpeg" title="Show more options button" >}}
+   {{< figure src="/images/other/win11/Win11sl_-_chrome_rmb_-_pokazi_vec_moznosti_btn.jpeg" title="Show more options button" >}}
 
 {{< /collapse >}}
 
@@ -177,13 +175,13 @@ Najprej odprite želeno mapo za bližnjico in nato lokacijo elementa, do katereg
 
 {{< /collapse >}}
 
-## What I used for this tutorial
+## Kaj sem uporabil za ta vodič?
 
-- 64-bit Windows 10 22H2 and Windows 11 24H2 
-- Web browsers: ![](/images/Brave/logo_Brave_H20px.png) [Brave](https://brave.com/), ![](/images/Google-Chrome/logo_Google_Chrome_H20.png) [Google Chrome](https://www.google.com/chrome/ "Kliknite/tapnite, da odprete spletno stran!") and ![](/images/Mozilla-Firefox/logo_Mozilla_Firefox_H20px.png "Kliknite/tapnite, da odprete spletno stran!") [Mozilla Firefox](https://www.firefox.com/ "Kliknite/tapnite, da odprete spletno stran!"). More about them check the [tools](/tools "Kliknite/tapnite, da odprete stran!") page.
+- 64-bitni Windows 10 22H2 in Windows 11 24H2 
+- Spletni brskalniki: ![](/images/Brave/logo_Brave_H20px.png) [Brave](https://brave.com/), ![](/images/Google-Chrome/logo_Google_Chrome_H20.png) [Google Chrome](https://www.google.com/chrome/ "Kliknite/tapnite, da odprete spletno stran!") in ![](/images/Mozilla-Firefox/logo_Mozilla_Firefox_H20px.png "Kliknite/tapnite, da odprete spletno stran!") [Mozilla Firefox](https://www.firefox.com/ "Kliknite/tapnite, da odprete spletno stran!"). Več o njih poglejte v [Orodja](/sl/orodja/ "Kliknite/tapnite, da odprete stran!").
 
-## Video version
+## Video verzija
 
-*(06.12.2025, 18:00 / 06:00 PM, timezone: CEST / UTC+2 / GMT+1)*
+*(06.12.2025, 18:00 / 06:00 PM, vremenska zona: CET / UTC+1 / GMT+1)*
 
 {{< youtube "pDW58AhG0ok" >}}

@@ -30,9 +30,9 @@ For this tutorial I used `Windows Desktop` for the new shortcuts, you use what e
 
    Click and hold left mouse button on the button (check the images below) near the website address, drag it to the desired location and then release mouse button. Now shortcut is created.
    
-   {{< figure src="/images/Brave/Brave_en_-_url_site_info_btn.jpeg" title="Brave" >}}
-   {{< figure src="/images/Google-Chrome/En_-_GChrome_-_url_site_info_btn.jpeg" title="Google Chrome" >}}
-   {{< figure src="/images/Mozilla-Firefox/En_-_MFirefox_-_url_lock_btn.jpeg" title="Mozilla Firefox" >}}
+   {{< figure src="/images/Brave/Brave_-_url_site_info_btn.jpeg" title="Brave" >}}
+   {{< figure src="/images/Google-Chrome/GChrome_-_url_site_info_btn.jpeg" title="Google Chrome" >}}
+   {{< figure src="/images/Mozilla-Firefox/MFirefox_-_url_lock_btn.jpeg" title="Mozilla Firefox" >}}
 
 {{< /collapse >}}
 
@@ -61,9 +61,7 @@ First open the desired folder for the shortcut.
    
    Click and hold left mouse button on the the desired element, drag it to the desired location (Start menu pinned apps, taskbar, desktop or to some folder) and then release mouse button. Now shortcut is created.
 
-   In `Windows 11` to get a list of installed programs you need to left mouse button click on the `All >` button while in Windows 10 the list is shown right away.
-
-   {{< figure src="/images/other/win11/Win11en_-_start_btn_-_all_btn.jpeg" >}}
+   {{< figure src="/images/other/win10/Win10en_-_start_btn_-_excel_drag.jpeg" title="In Windows 10" >}}
    {{< figure src="/images/other/win11/Win11en_-_start_btn_-_adobe_acrobat_drag.jpeg" title="In Windows 11" >}}
 
 {{< /collapse >}}
@@ -108,9 +106,10 @@ First open the desired folder for the shortcut then the location of the element 
    
    {{< figure src="/images/other/win10/Win10en_-_file_manager_-_chrome_rmb_-_send_to_-_desktop_create_btn.jpeg" >}}
 
-   - Right mouse button click on the desired element and then left mouse button click on the `Create shortcut`.
+   - Right mouse button click on the desired element and then left mouse button click on the `Create shortcut`. If folder is protected you will see an error window and with left mouse button click `Yes` button if you want to create shortcut on the desktop instead but if you want to cancel the progress, left mouse button click on `No`.
    
    {{< figure src="/images/other/win10/Win10en_-_file_manager_-_chrome_rmb_-_create_shortcut_btn.jpeg" >}}
+   {{< figure src="/images/other/win10/Win10en_-_file_manager_-_chrome_rmb_-_create_shortcut_btn_-_error_yes.jpeg" title="Protected folder error" >}}
 
    **To see the `Send to` and `Create shortcut` in `Windows 11` first you need to left mouse button click on the `Show more options` button.**
 
@@ -177,13 +176,13 @@ First open the desired folder for the shortcut then the location of the element 
 
 {{< /collapse >}}
 
-## What I used for this tutorial
+## What I used for this tutorial?
 
 - 64-bit Windows 10 22H2 and Windows 11 24H2 
-- Web browsers: ![](/images/Brave/logo_Brave_H20px.png) [Brave](https://brave.com/), ![](/images/Google-Chrome/logo_Google_Chrome_H20.png) [Google Chrome](https://www.google.com/chrome/ "Click/tap to open the web site!") and ![](/images/Mozilla-Firefox/logo_Mozilla_Firefox_H20px.png "Click/tap to open the web site!") [Mozilla Firefox](https://www.firefox.com/ "Click/tap to open the web site!"). More about them check the [tools](/tools "Click/tap to visit the page!") page.
+- Web browsers: ![](/images/Brave/logo_Brave_H20px.png) [Brave](https://brave.com/), ![](/images/Google-Chrome/logo_Google_Chrome_H20.png) [Google Chrome](https://www.google.com/chrome/ "Click/tap to open the web site!") and ![](/images/Mozilla-Firefox/logo_Mozilla_Firefox_H20px.png "Click/tap to open the web site!") [Mozilla Firefox](https://www.firefox.com/ "Click/tap to open the web site!"). More about them check the [tools](/tools "Click/tap to visit the page!")
 
 ## Video version
 
-*(05.12.2025, 18:00 / 06:00 PM, timezone: CEST / UTC+2 / GMT+1)*
+*(05.12.2025, 18:00 / 06:00 PM, timezone: CET / UTC+1 / GMT+1)*
 
 {{< youtube "7tF9hKD6sGs" >}}
