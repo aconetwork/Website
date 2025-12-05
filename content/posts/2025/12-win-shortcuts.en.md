@@ -184,6 +184,6 @@ First open the desired folder for the shortcut then the location of the element 
 
 ## Video version
 
-*(..2025, 18:00 / 06:00 PM, timezone: CEST / UTC+2 / GMT+2)*
+*(05.12.2025, 18:00 / 06:00 PM, timezone: CEST / UTC+2 / GMT+1)*
 
-{{< youtube "O1DA0HpFK-4" >}}
+{{< youtube "7tF9hKD6sGs" >}}

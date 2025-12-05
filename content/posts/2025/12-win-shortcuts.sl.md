@@ -184,6 +184,6 @@ Najprej odprite želeno mapo za bližnjico in nato lokacijo elementa, do katereg
 
 ## Video version
 
-*(06.12.2025, 18:00 / 06:00 PM, timezone: CEST / UTC+2 / GMT+2)*
+*(06.12.2025, 18:00 / 06:00 PM, timezone: CEST / UTC+2 / GMT+1)*
 
 {{< youtube "pDW58AhG0ok" >}}
