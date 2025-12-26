@@ -29,7 +29,7 @@ language: "English"
 
 {{< collapse summary="**Step 1:** TEXTHERE" openByDefault=true >}}
 
-   
+  
 
 {{< /collapse >}}
 
@@ -38,7 +38,8 @@ language: "English"
 []( "Click/tap to open the site!")
 ![](/images/social-logos/X.png)
 
-{{< figure align=center src="/images/Brave/Brave_sl_-_shrani_povezavo_kao_reg_fajl.jpeg" >}}
+{{< figure align=center src="/images/Brave/PICTURE.jpeg" title="" >}}
+{{< figure align=center src="/images/Brave/PICTURE.jpeg">}}
 
 ## Video version
 
