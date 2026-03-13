@@ -95,14 +95,18 @@ languages:
           name: "Tools"
           url: tools/
           weight: 40
+        - identifier: cooking
+          name: "Cooking"
+          url: cooking/
+          weight: 50
         - identifier: aboutme
           name: "About me"
           url: aboutme/
-          weight: 50
+          weight: 60
         - identifier: rss
           name: "RSS"
           url: "https://aconetwork.net/index.xml"
-          weight: 60
+          weight: 70
 
         # - name: WiKi
           #  url: https://github.com/adityatelange/hugo-PaperMod/wiki/
@@ -164,14 +168,18 @@ languages:
           name: "Orodja"
           url: orodja/
           weight: 40
+        - identifier: cooking
+          name: "Kuhanje"
+          url: kuhanje-sl/
+          weight: 50
         - identifier: aboutme
           name: "O meni"
           url: omeni-sl/
-          weight: 50
+          weight: 60
         - identifier: rss
           name: "RSS"
           url: "https://aconetwork.net/index.xml"
-          weight: 60
+          weight: 70
     params:
       Description: "Stran s vodiči, videi, informacijami in več."
       profileMode:
@@ -233,14 +241,18 @@ languages:
           name: "Alati"
           url: alati/
           weight: 40
+        - identifier: cooking
+          name: "Kuvanje"
+          url: kuvanje-sr/
+          weight: 50
         - identifier: aboutme
           name: "O meni"
           url: omeni-sr/
-          weight: 50
+          weight: 60
         - identifier: rss
           name: "RSS"
           url: "https://aconetwork.net/index.xml"
-          weight: 60
+          weight: 70
     params:
       Description: "Stranica sa tutorijalima, videjima, informacijama i više."
       profileMode:

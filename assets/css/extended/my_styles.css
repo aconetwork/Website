@@ -206,7 +206,10 @@
     font-weight: normal;
 }*/
 
-
+/* Bold numbers in the list */
+.post-content ol li::marker {
+  font-weight: bold;
+}
 
 
 

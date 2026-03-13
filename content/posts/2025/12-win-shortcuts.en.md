@@ -179,7 +179,7 @@ First open the desired folder for the shortcut then the location of the element 
 ## What I used for this tutorial?
 
 - 64-bit Windows 10 22H2 and Windows 11 24H2 
-- Web browsers: ![](/images/Brave/logo_Brave_H20px.png) [Brave](https://brave.com/), ![](/images/Google-Chrome/logo_Google_Chrome_H20.png) [Google Chrome](https://www.google.com/chrome/ "Click/tap to open the web site!") and ![](/images/Mozilla-Firefox/logo_Mozilla_Firefox_H20px.png "Click/tap to open the web site!") [Mozilla Firefox](https://www.firefox.com/ "Click/tap to open the web site!"). More about them check the [tools](/tools "Click/tap to visit the page!")
+- Web browsers: ![](/images/Brave/logo_Brave_H20px.png) [Brave](https://brave.com/), ![](/images/Google-Chrome/logo_Google_Chrome_H20.png) [Google Chrome](https://www.google.com/chrome/ "Click/tap to open the web site!") and ![](/images/Mozilla-Firefox/logo_Mozilla_Firefox_H20px.png "Click/tap to open the web site!") [Mozilla Firefox](https://www.firefox.com/ "Click/tap to open the web site!"). More about them check the [tools](/tools "Click/tap to visit the page!").
 
 ## Video version
 
