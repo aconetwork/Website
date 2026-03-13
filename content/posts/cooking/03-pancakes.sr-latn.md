@@ -9,7 +9,7 @@ categories:
 tags: 
   - Recept
 showtoc: false  # Tabela sadržaja: Sakriti (false) ili pokazati (true).
-draft: true   # Prikaz na javnoj stranici: Prikaz (false) ili sakriti (true).
+draft: false   # Prikaz na javnoj stranici: Prikaz (false) ili sakriti (true).
 language: "Srpski"
 ---
 
