@@ -11,7 +11,7 @@ Ovde je sve o kuvanju iz mog potpuno početnog iskustva.
 
 {{< collapse summary="**Jedi**" openByDefault=true >}}
 
-  - [Chili Con Carne](/Chili-con-carne-sr/ "Kliknite/tapnite, da otvorite recept!")
+  - [Chili Con Carne](/chili-con-carne-sr/ "Kliknite/tapnite, da otvorite recept!")
 
 {{< /collapse >}}
 

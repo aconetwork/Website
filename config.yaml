@@ -97,7 +97,7 @@ languages:
           weight: 40
         - identifier: cooking
           name: "Cooking"
-          url: cooking/
+          url: cooking-en/
           weight: 50
         - identifier: aboutme
           name: "About me"

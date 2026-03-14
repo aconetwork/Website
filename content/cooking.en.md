@@ -11,7 +11,7 @@ Here is all about cooking from my very begginer experience.
 
 {{< collapse summary="**Dishes**" openByDefault=true >}}
 
-  - [Chili Con Carne](/Chili-con-carne-en/ "Click/tap to open the recipe!")
+  - [Chili Con Carne](/chili-con-carne-en/ "Click/tap to open the recipe!")
 
 {{< /collapse >}}
 
