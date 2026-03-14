@@ -1,7 +1,7 @@
 ---
 title: "O meni"
 layout: "single"
-url: omeni-sl/
+url: omeni/
 summary: "o meni"
 ---
 

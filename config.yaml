@@ -97,7 +97,7 @@ languages:
           weight: 40
         - identifier: cooking
           name: "Cooking"
-          url: cooking-en/
+          url: cooking/
           weight: 50
         - identifier: aboutme
           name: "About me"
@@ -170,11 +170,11 @@ languages:
           weight: 40
         - identifier: cooking
           name: "Kuhanje"
-          url: kuhanje-sl/
+          url: kuhanje/
           weight: 50
         - identifier: aboutme
           name: "O meni"
-          url: omeni-sl/
+          url: omeni/
           weight: 60
         - identifier: rss
           name: "RSS"
@@ -208,7 +208,7 @@ languages:
           - name: Vodiči
             url: tags/
           - name: O meni
-            url: omeni-sl/
+            url: omeni/
 
   sr-latn:
     languageName: "Srpski"
@@ -243,11 +243,11 @@ languages:
           weight: 40
         - identifier: cooking
           name: "Kuvanje"
-          url: kuvanje-sr/
+          url: kuvanje/
           weight: 50
         - identifier: aboutme
           name: "O meni"
-          url: omeni-sr/
+          url: omeni/
           weight: 60
         - identifier: rss
           name: "RSS"
@@ -280,7 +280,7 @@ languages:
           - name: Tutorijali
             url: tags/
           - name: O meni
-            url: omeni-sr/
+            url: omeni/
 outputs:
     home:
       - HTML

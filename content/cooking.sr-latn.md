@@ -1,7 +1,7 @@
 ---
 title: "Kuvanje"
 layout: "single"
-url: kuvanje-sr/
+url: kuvanje/
 summary: "kuvanje"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Recepti, ..."
 layout: "single"
-url: kuhanje-sl/
+url: kuhanje/
 summary: "kuhanje"
 ---
 

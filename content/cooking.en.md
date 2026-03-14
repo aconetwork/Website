@@ -1,7 +1,7 @@
 ---
 title: "Cooking stuff"
 layout: "single"
-url: cooking-en/
+url: cooking/
 summary: "cooking"
 ---
 
