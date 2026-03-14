@@ -9,7 +9,7 @@ Ovde je sve o kuvanju iz mog potpuno početnog iskustva.
 
 ## Recepti
 
-{{< collapse summary="**Jedi**" openByDefault=true >}}
+{{< collapse summary="**Jela**" openByDefault=true >}}
 
   - [Chili Con Carne](/chili-con-carne-sr/ "Kliknite/tapnite, da otvorite recept!")
 
