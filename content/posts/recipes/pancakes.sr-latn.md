@@ -13,9 +13,15 @@ draft: false   # Prikaz na javnoj stranici: Prikaz (false) ili sakriti (true).
 language: "Srpski"
 ---
 
-Palačinke me podsećaju na detinjstvo, tanke sa marmeladom, šečerom ili viki kremom. Vi možete da stavite šta god želite u njih. Od sastojka dole sam dobio oko 14 palačinka a vi priredite količinu sastojka koliko vi želite. Sledite pripremu dole sasvim isto kao u ovom receptu za najbolji rezultat. Mineralna voda pomaže da su palačinke prozračne i imaju blagu poroznu strukturu.
+{{< recipe-header >}}
 
-## Sastojci
+  {{< figure align=center src="/images/Recipes/Pancakes_rolled.jpeg" float=left >}}
+
+  Palačinke me podsećaju na detinjstvo, tanke sa marmeladom, šečerom ili viki kremom. Vi možete da stavite šta god želite u njih. Od sastojka dole sam dobio oko 14 palačinka a vi priredite količinu sastojka koliko vi želite. Sledite pripremu dole sasvim isto kao u ovom receptu za najbolji rezultat. Mineralna voda pomaže da su palačinke prozračne i imaju blagu poroznu strukturu.
+
+{{< /recipe-header >}}
+
+## Sastojci (za oko 14 palačinka)
 
 - 4 jaja
 - 400 g glatkog brašna

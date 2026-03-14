@@ -5,13 +5,12 @@ date: {{ .Date }}
 url: /{{ .Name }}/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
-  - Kako
+  - kako
   - AST
   - AFT
   - ART
   - WIT
-  - Zdravje
-  - Recept
+  - zdravje
 tags: 
   - Windows
   - Linux
@@ -19,7 +18,6 @@ tags:
   - Android
   - Kaj je to
   - Strojna oprema
-  - Recept
 showtoc: false  # Seznam vsebine: Skriti (false) ali prikazati (true)
 draft: true  # Prikaz na javni strani: Prikaz (false) ali skriti (true)
 language: "Slovenski"
@@ -31,25 +29,16 @@ language: "Slovenski"
 
 {{< collapse summary="**Korak 1:** TEXTHERE" openByDefault=true >}}
 
-  NOTRANJI PODATKI
+   
 
 {{< /collapse >}}
-
-{{< recipe-header >}}
-
-  {{< figure align=center src="/images/Recipes/Pancakes_rolled.jpeg" float=left >}}
-
-  NOTRANJI PODATKI
-
-{{< /recipe-header >}}
 
 *(Ta vodič je bil narejen na 64-bitnem Windows 11 24H2)*
 
 []( "Kliknite/tapnite, da odprete spletno stran!")
 ![](/images/social-logos/X.png)
 
-{{< figure align=center src="/images/Brave/PICTURE.jpeg" title="" float=left >}}
-{{< figure align=center src="/images/Brave/PICTURE.jpeg">}}
+{{< figure align=center src="/images/Brave/Brave_sl_-_shrani_povezavo_kao_reg_fajl.jpeg" >}}
 
 ## Video verzija
 

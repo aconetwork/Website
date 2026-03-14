@@ -9,8 +9,14 @@ Tukaj je vse o kuhanju iz mojih povsem začetniških izkušenj.
 
 ## Recepti
 
+{{< collapse summary="**Jedi**" openByDefault=true >}}
+
+  - [Chili Con Carne](/Chili-con-carne-sl/ "Kliknite/tapnite, da odprete recept!")
+
+{{< /collapse >}}
+
 {{< collapse summary="**Sladice**" openByDefault=true >}}
 
-  - [Preproste lahke tanke palačinke](/palacinke-sl/ "Kliknite/tapnite, da odprete recept!").
+  - [Preproste lahke tanke palačinke](/palacinke-sl/ "Kliknite/tapnite, da odprete recept!")
 
 {{< /collapse >}}

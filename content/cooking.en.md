@@ -1,13 +1,19 @@
 ---
 title: "Cooking stuff"
 layout: "single"
-url: cooking/
+url: cooking-en/
 summary: "cooking"
 ---
 
 Here is all about cooking from my very begginer experience.
 
 ## Recipies
+
+{{< collapse summary="**Dishes**" openByDefault=true >}}
+
+  - [Chili Con Carne](/Chili-con-carne-en/ "Click/tap to open the recipe!")
+
+{{< /collapse >}}
 
 {{< collapse summary="**Sweets**" openByDefault=true >}}
 

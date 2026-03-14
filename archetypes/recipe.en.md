@@ -10,8 +10,7 @@ categories:
   - AFT
   - ART
   - WIT
-  - Health
-  - Recipe
+  - health
 tags: 
   - Windows
   - Linux
@@ -19,7 +18,6 @@ tags:
   - Android
   - What is that
   - Hardware
-  - Recipe
 showtoc: false  # Table of content: Hide (false) or show (true)
 draft: true  # Draft: Show (false) or hide (true)
 language: "English"
@@ -31,24 +29,16 @@ language: "English"
 
 {{< collapse summary="**Step 1:** TEXTHERE" openByDefault=true >}}
 
-  INNER DATA
+  
 
 {{< /collapse >}}
-
-{{< recipe-header >}}
-
-  {{< figure align=center src="/images/Recipes/Pancakes_rolled.jpeg" float=left >}}
-
-  INNER DATA
-
-{{< /recipe-header >}}
 
 *(This tutorial was made with Windows 11 24H2 64-bit)*
 
 []( "Click/tap to open the site!")
 ![](/images/social-logos/X.png)
 
-{{< figure align=center src="/images/Brave/PICTURE.jpeg" title="" float=left >}}
+{{< figure align=center src="/images/Brave/PICTURE.jpeg" title="" >}}
 {{< figure align=center src="/images/Brave/PICTURE.jpeg">}}
 
 ## Video version

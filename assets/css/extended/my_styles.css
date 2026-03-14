@@ -188,6 +188,16 @@
   margin: 0 !important;
 }
 
+.post-content figure.float-right{
+    float: right;
+    margin-left: 25px;
+}
+
+.post-content figure.float-left{
+    float: left;
+    margin-right: 25px;
+}
+
 /*
 .post-content figure.align-center {
     text-align: center;
@@ -211,5 +221,8 @@
   font-weight: bold;
 }
 
-
-
+/* Box for recipe with image and text */
+.post-content div.recipe-header {
+    display: inline-block;
+    width: 100%;
+}

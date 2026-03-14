@@ -1,6 +1,8 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
-<figure{{ if or (.Get "class") (eq (.Get "align") "center") }} class="
+<figure{{ if or (.Get "class") (eq (.Get "align") "center") (eq (.Get "float") "right") (eq (.Get "float") "left") }} class="
            {{- if eq (.Get "align") "center" }}align-center {{ end }}
+           {{- if eq (.Get "float") "left" }}float-left {{ end }}
+           {{- if eq (.Get "float") "right" }}float-right {{ end }}
            {{- with .Get "class" }}{{ . }}{{- end }}"
 {{- end -}}>
     {{- if .Get "link" -}}

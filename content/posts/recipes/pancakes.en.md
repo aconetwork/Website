@@ -1,5 +1,5 @@
 ---
-title: "Pancakes recipe"
+title: "Pancakes - recipe"
 date: 2026-03-13T18:38:16+01:00
 # publishDate: 2026-03-13T18:38:16+01:00
 url: /pancakes-en/
@@ -13,9 +13,15 @@ draft: false  # Draft: Show (false) or hide (true)
 language: "English"
 ---
 
-Pancakes remind me of my childhood—thin, with marmalade, sugar, or Viki cream (chocolate hazelnut spread). You can fill them with whatever you like. From the ingredients below, I got about 14 pancakes; you can adjust the quantities as you wish. Follow the preparation steps exactly as written for the best result. Mineral water helps the pancakes stay airy and gives them a slightly porous structure.
+{{< recipe-header >}}
 
-## Ingredients
+  {{< figure align=center src="/images/Recipes/Pancakes_rolled.jpeg" float=left >}}
+
+  Pancakes remind me of my childhood—thin, with marmalade, sugar, or Viki cream (chocolate hazelnut spread). You can fill them with whatever you like. From the ingredients below, I got about 14 pancakes, you can adjust the quantities as you wish. Follow the preparation steps exactly as written for the best result. Mineral water helps the pancakes stay airy and gives them a slightly porous structure.
+
+{{< /recipe-header >}}
+
+## Ingredients (for about 14 pancakes)
 
 - 4 eggs
 - 400 g all-purpose flour

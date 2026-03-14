@@ -5,17 +5,23 @@ date: 2026-03-13T18:45:06+01:00
 url: /palacinke-sl/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
-  - recept
+  - Recept
 tags: 
-  - recept
+  - Recept
 showtoc: false  # Seznam vsebine: Skriti (false) ali prikazati (true)
 draft: false  # Prikaz na javni strani: Prikaz (false) ali skriti (true)
 language: "Slovenski"
 ---
 
-Palačinke me spominjajo na otroštvo, tanke z marmelado, sladkorjem ali viki kremo. Vanje lahko date karkoli želite. Iz spodnjih sestavin sem dobil okrog 14 palačink vi pa prilagodite količino sestavin svojim željam. Za najboljši rezultat natančno sledite spodnjemu postopku priprave. Mineralna voda pomaga, da so palačinke rahle in imajo rahlo porozno strukturo.
+{{< recipe-header >}}
 
-## Sestavine
+  {{< figure align=center src="/images/Recipes/Pancakes_rolled.jpeg" float=left >}}
+
+  Palačinke me spominjajo na otroštvo, tanke z marmelado, sladkorjem ali viki kremo. Vanje lahko date karkoli želite. Iz spodnjih sestavin sem dobil okrog 14 palačink vi pa prilagodite količino sestavin svojim željam. Za najboljši rezultat natančno sledite spodnjemu postopku priprave. Mineralna voda pomaga, da so palačinke rahle in imajo rahlo porozno strukturo.
+
+{{< /recipe-header >}}
+
+## Sestavine (za okrog 14 palačink)
 
 * 4 jajca
 * 400 g gladke moke
