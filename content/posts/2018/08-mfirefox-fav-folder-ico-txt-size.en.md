@@ -4,7 +4,7 @@ date: 2018-08-14T18:00:00+02:00
 url: /firefox-txt-size-folder-ico/
 # image: images/2024-thumbs/08-mfirefox-fav-folder-ico-txt-size.jpg
 categories: 
-  - how to
+  - How to
 tags: 
   - Windows
   - Mozilla Firefox

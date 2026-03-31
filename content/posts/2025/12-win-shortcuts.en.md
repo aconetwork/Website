@@ -5,9 +5,9 @@ date: 2025-12-05T00:00:00+01:00
 url: /win-shortcuts-en/
 # image: images/2024-thumbs/09-gplay.jpg
 categories: 
-  - how to
+  - How to
 tags: 
-  - how to
+  - How to
   - Windows
 showtoc: true  # Table of content: Hide (false) or show (true)
 draft: false  # Draft: Show (false) or hide (true)

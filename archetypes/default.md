@@ -4,7 +4,7 @@ date: {{ .Date }}
 url: /{{ .Name }}/
 # image: images/2024-thumbs/{{ .Name }}.jpg
 categories: 
-  - how to
+  - How to
   - AST
   - AFT
   - ART

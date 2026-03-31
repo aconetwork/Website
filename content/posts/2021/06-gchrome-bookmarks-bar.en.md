@@ -5,11 +5,11 @@ date: 2021-06-29T18:00:00+01:00
 url: /gchrome-bookmarks-bar-en/
 # image: images/2024-thumbs/03-gchrome-basics.jpg
 categories: 
-  - how to
+  - How to
 tags: 
   - Windows
   - Linux
-  - how to
+  - How to
   - Google Chrome
 showtoc: false
 draft: false  # Draft: Show (false) or hide (true)

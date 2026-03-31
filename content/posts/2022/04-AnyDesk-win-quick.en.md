@@ -4,7 +4,7 @@ date: 2022-04-08T18:00:00+02:00
 url: /AnyDesk-basic/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
-  - how to
+  - How to
 tags: 
   - Windows
   - AnyDesk

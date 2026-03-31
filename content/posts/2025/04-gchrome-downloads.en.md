@@ -5,10 +5,10 @@ date: 2025-04-01T16:00:00+02:00
 url: /gchrome-downloads-en/
 # image: images/2024-thumbs/03-gchrome-basics.jpg
 categories: 
-  - how to
+  - How to
 tags: 
   - Windows
-  - how to
+  - How to
   - Google Chrome
 showtoc: false
 draft: false

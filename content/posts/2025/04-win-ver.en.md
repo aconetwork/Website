@@ -5,9 +5,9 @@ date: 2025-04-15T00:00:00+02:00
 url: /win-version-en/
 # image: images/2024-thumbs/04-win-ver.jpg
 categories: 
-  - how to
+  - How to
 tags: 
-  - how to
+  - How to
   - Windows
 showtoc: false  # Table of content: Hide (false) or show (true)
 draft: false  # Draft: Show (false) or hide (true)

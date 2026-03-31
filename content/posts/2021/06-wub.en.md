@@ -4,7 +4,7 @@ date: 2021-06-11T18:00:00+02:00
 url: /wub-en/
 # image: images/2024-thumbs/06-disable-win-updates-wub.jpg
 categories: 
-  - how to
+  - How to
 tags: 
   - Windows
   - Windows Update Blocker

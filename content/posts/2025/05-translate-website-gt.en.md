@@ -5,7 +5,7 @@ date: 2025-05-30T00:01:00+02:00
 url: /translate-site-gt-en/
 # image: images/2024-thumbs/translate-website.jpg
 categories: 
-  - how to
+  - How to
 tags: 
   - Windows
   - Linux

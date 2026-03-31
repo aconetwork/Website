@@ -4,11 +4,11 @@ date: 2025-03-18T14:00:00+00:00
 url: /gchrome-home-en/
 # image: images/2024-thumbs/03-gchrome-basics.jpg
 categories: 
-  - how to
+  - How to
 tags: 
   - Windows
   - Linux
-  - how to
+  - How to
   - Google Chrome
 showtoc: false
 draft: false  # Draft: Show (false) or hide (true)

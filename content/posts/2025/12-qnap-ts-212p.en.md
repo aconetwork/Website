@@ -5,9 +5,9 @@ date: 2025-12-26T00:00:00+01:00
 url: /qnap-ts-212p-en/
 # image: images/2024-thumbs/12-qnap-ts-212p.jpg
 categories: 
-  - how to
+  - How to
 tags: 
-  - how to
+  - How to
   - Hardware
 showtoc: true  # Table of content: Hide (false) or show (true)
 draft: false  # Draft: Show (false) or hide (true)

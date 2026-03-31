@@ -5,7 +5,7 @@ date: 2025-08-22T00:00:00+02:00
 url: /bcu-en/
 # image: images/2024-thumbs/08-bcu-en.jpg
 categories: 
-  - how to
+  - How to
 tags: 
   - Windows
   - Bulk Crap Uninstaller

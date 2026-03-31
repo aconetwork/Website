@@ -4,10 +4,10 @@ date: 2022-06-17T18:00:00+02:00
 url: /foobar2000-install-en/
 # image: images/2022-thumbs/0617_foobar2000.jpg
 categories:
-    - how to
+    - How to
 tags:
     - Windows
-    - how to
+    - How to
     - foobar2000
 showtoc: true
 draft: false

@@ -5,7 +5,7 @@ date: 2025-07-25T00:00:00+02:00
 url: /mspotlight-shortcut-en/
 # image: images/2024-thumbs/spotlight-reset.jpg
 categories: 
-  - how to
+  - How to
 tags: 
   - Windows
   - Microsoft Spotlight

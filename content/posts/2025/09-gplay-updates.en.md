@@ -5,9 +5,9 @@ date: 2025-09-12T00:00:00+02:00
 url: /gplay-updates-en/
 # image: images/2024-thumbs/09-gplay.jpg
 categories: 
-  - how to
+  - How to
 tags: 
-  - how to
+  - How to
   - Android
 showtoc: true  # Table of content: Hide (false) or show (true)
 draft: false  # Draft: Show (false) or hide (true)

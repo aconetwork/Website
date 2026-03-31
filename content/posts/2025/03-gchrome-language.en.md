@@ -4,10 +4,10 @@ date: 2025-03-25T14:00:00+01:00
 url: /gchrome-language-en/
 # image: images/2024-thumbs/03-gchrome-basics.jpg
 categories: 
-  - how to
+  - How to
 tags: 
   - Windows
-  - how to
+  - How to
   - Google Chrome
 showtoc: false
 draft: false
