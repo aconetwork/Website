@@ -61,3 +61,9 @@ New sidebar in Firefox is annoying it keeps appearing by it self so let's disabl
   {{< figure align=center src="/images/Mozilla-Firefox/mfirefox_-_about_config_-_sidebar.revamp_-_false_-_button_Toggle.en.jpeg" title="false">}}
 
 {{< /collapse >}}
+
+## Video version
+
+*(Tuesday, 31.March.2026, 18:00 / 06:00 PM, timezone: CEST / UTC+2 / GMT+2)*
+
+{{< youtube "85hDeOf3x74" >}}

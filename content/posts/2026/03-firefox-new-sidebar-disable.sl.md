@@ -61,3 +61,9 @@ Nova stranska vrstica v Firefox-u je moteča saj se v mojem primeru pojavlja sam
   {{< figure align=center src="/images/Mozilla-Firefox/mfirefox_-_about_config_-_sidebar.revamp_-_false_-_tipka_preklopi.sl.jpeg" title="false">}}
 
 {{< /collapse >}}
+
+## Video verzija
+
+*(Sreda, 01.april.2026, 18:00 / 06:00 PM, časovni pas: CEST / UTC+2 / GMT+2)*
+
+{{< youtube "zS0SAoiCHRQ" >}}

@@ -61,3 +61,9 @@ Nova bočna traka u Firefox-u je dosadna; stalno se sama pojavljuje, pa je hajde
   {{< figure align=center src="/images/Mozilla-Firefox/mfirefox_-_about_config_-_sidebar.revamp_-_false_-_button_Toggle.en.jpeg" title="false">}}
 
 {{< /collapse >}}
+
+## Video verzija
+
+*(Četvrtak, 02.april.2026, 18:00 / 06:00 PM, vremenska zona: CEST / UTC+2 / GMT+2)*
+
+{{< youtube "h_uCyxVRivM" >}}
