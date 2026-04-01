@@ -53,7 +53,7 @@ Nova bočna traka u Firefox-u je dosadna; stalno se sama pojavljuje, pa je hajde
 
 {{< /collapse >}}
 
-{{< collapse summary="**Korak 4:** Korak levim dugmetom miša kliknite na dugme `Toggle` na kraju reda `sidebar.revamp` da biste uključili ili isključili novu bočnu traku" openByDefault=true >}}
+{{< collapse summary="**Korak 4:** Korak levim dugmetom miša kliknite na dugme `Uključi/izključi` na kraju reda `sidebar.revamp` da biste uključili ili isključili novu bočnu traku" openByDefault=true >}}
 
   `true` znači uključeno, a `false` znači isključeno za novu bočnu traku.
 
