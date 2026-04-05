@@ -16,7 +16,7 @@ language: "Srpski"
 
 Microsoft Spotlight je alat koji menja pozadinu vaše Windows radne površine preuzimanjem slika sa interneta. U ovom tutorijalu naučiću vas kako da promenite na vašu opciju pozadine. Prečicu `Saznajte više o ovoj slici` na radnoj površini postoji samo uz odabrani mogučnosti `Windows interesovanja`.
 
-  {{< figure align=center src="/images/other/win10/Winsr_-_radna_povrsina_saznajte_vise_o_slici.jpeg" >}}
+  {{< figure align=center src="/images/other/win10/Win10sr_-_radna_povrsina_saznajte_vise_o_slici.jpeg" >}}
 
 ## Windows 10
 
@@ -24,19 +24,19 @@ Microsoft Spotlight je alat koji menja pozadinu vaše Windows radne površine pr
 
 {{< collapse summary="**Korak 1:** Desnim dugmetom miša kliknite na praznu površinu Windows radne površine a zatim levim dugmetom miša kliknite na `Prilagodi`" openByDefault=true >}}
 
-  {{< figure align=center src="/images/other/win10/Winsr_-_radna_povrsina_-_prilagodi.jpeg" >}}
+  {{< figure align=center src="/images/other/win10/Win10sr_-_radna_povrsina_-_prilagodi.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 2:** U `Pozadina` levog menija levim dugmetom miša kliknite na `Windows interesovanja`" openByDefault=true >}}
 
-  {{< figure align=center src="/images/other/win10/Winsr_-_postavke_-_pozadina_-_interesovanja_odabir.jpeg" >}}
+  {{< figure align=center src="/images/other/win10/Win10sr_-_postavke_-_pozadina_-_interesovanja_odabir.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Korak 3:** Sada odaberite željenu opciju pozadine i podesite je" openByDefault=true >}}
 
-  {{< figure align=center src="/images/other/win10/Winsr_-_postavke_-_pozadina_-_interesovanja_odabir_-_mogucnosti_pozadine.jpeg" >}}
+  {{< figure align=center src="/images/other/win10/Win10sr_-_postavke_-_pozadina_-_interesovanja_odabir_-_mogucnosti_pozadine.jpeg" >}}
 
 {{< /collapse >}}
 

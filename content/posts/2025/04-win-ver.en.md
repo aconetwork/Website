@@ -26,19 +26,19 @@ Today is all about finding your Windows operating system version! This tutorial 
 
 {{< collapse summary="**Step 2:** On the keyboard type `winver`" openByDefault=true >}}
 
-   {{< figure align=center src="/images/other/win11/Winen_start_search_winver.jpeg" >}}
+   {{< figure align=center src="/images/other/win11/Win11en_start_search_winver.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Step 3:** Left mouse button click on the `winver` result under the `Best match`" openByDefault=true >}}
 
-   {{< figure align=center src="/images/other/win11/Winen_start_search_winver_result.jpeg" >}}
+   {{< figure align=center src="/images/other/win11/Win11en_start_search_winver_result.jpeg" >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Step 4:** Now check your version, enjoy" openByDefault=true >}}
 
-   {{< figure align=center src="/images/other/win11/Winen_about_window.jpeg" >}}
+   {{< figure align=center src="/images/other/win11/Win11en_about_window.jpeg" >}}
 
 {{< /collapse >}}
 
