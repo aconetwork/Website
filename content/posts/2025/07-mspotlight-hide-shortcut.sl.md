@@ -119,7 +119,7 @@ Da se to naredi pravilno naredite **TOČNO** tako kot jaz sicer lahko poškoduje
   
   2. z levo miškino tipko kliknite puščice na levi strani ključev da razširite ključe, dokler ne prispete `NewStartPanel`.
 
-     {{< figure align=center src="/images/other/win10/Win_-_registry_editor_-_expand_NewStartPanel.jpeg" >}}
+     {{< figure align=center src="/images/other/win10/Win10_-_registry_editor_-_expand_NewStartPanel.jpeg" >}}
 
 {{< /collapse >}}
 

@@ -21,7 +21,7 @@ Danas tražimo verziju operativnog sistema Windows! Ovaj tutorijal radi na Windo
 
 {{< collapse summary="**Korak 1:** Sa levim dugmetom miša kliknite na dugme menija `Start`" openByDefault=true >}}
 
-   {{< figure align=center src="/images/other/win11/Win_start_btn.jpeg" >}}
+   {{< figure align=center src="/images/other/win11/Win11_start_btn.jpeg" >}}
 
 {{< /collapse >}}
 

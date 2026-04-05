@@ -117,7 +117,7 @@ Da ovo uradite ispravno, uradite sve **ISTO** kao ja inače možete oštetiti sv
   
   2. Sa levim dugmetom miša kliknite strelice sa leve strane ključeva, dok ne otvorite `NewStartPanel`.
 
-     {{< figure align=center src="/images/other/win10/Win_-_registry_editor_-_expand_NewStartPanel.jpeg" >}}
+     {{< figure align=center src="/images/other/win10/Win10_-_registry_editor_-_expand_NewStartPanel.jpeg" >}}
 
 {{< /collapse >}}
 

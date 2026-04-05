@@ -20,7 +20,7 @@ Today is all about finding your Windows operating system version! This tutorial 
 
 {{< collapse summary="**Step 1:** Left mouse button click on the `Start` menu button" openByDefault=true >}}
 
-   {{< figure align=center src="/images/other/win11/Win_start_btn.jpeg" >}}
+   {{< figure align=center src="/images/other/win11/Win11_start_btn.jpeg" >}}
 
 {{< /collapse >}}
 

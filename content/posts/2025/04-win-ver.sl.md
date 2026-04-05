@@ -20,7 +20,7 @@ Danes poiščemo vašo verzijo operacijskega sistema Windows! Ta vodič deluje e
 
 {{< collapse summary="**Korak 1:** Z levo miškino tipko kliknemo na tipko menija `Start`" openByDefault=true >}}
 
-   {{< figure align=center src="/images/other/win11/Win_start_btn.jpeg" >}}
+   {{< figure align=center src="/images/other/win11/Win11_start_btn.jpeg" >}}
 
 {{< /collapse >}}
 

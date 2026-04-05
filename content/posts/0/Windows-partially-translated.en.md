@@ -31,7 +31,7 @@ using elevated powershell prompt.
 
 **Install the desired language**
 
-   Install-Language "sr-Latn-RS"
+   Install-Language sr-Latn-RS
 
 **Display user-preferred language override list:**
 
@@ -47,6 +47,12 @@ OR
 
    Set-WinUILanguageOverride -Language sr-latn-RS
 
-   Set-WinUserLanguageList -LanguageList (New-WinUserLanguageList -Language "sr-Latn-RS") -Force
+**Forcibly change user language:**
+
+   Set-WinUserLanguageList -LanguageList (New-WinUserLanguageList -Language sr-Latn-RS) -Force
 
    Language codes: https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/available-language-packs-for-windows?view=windows-11
+
+Restart the computer after settup.
+
+If Windows is partially translated remove old language and restart computer. After that in my case Windows settings and start menu did not open but I opened Terminal and reinstalled old language. When it is done, restart your computer and your system should be translated.

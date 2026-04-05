@@ -117,7 +117,7 @@ To do this correctly do **EXACTLY** as I do otherwise you can damage to your Win
   
   2. With left mouse button click arrows on the left side of the keys to expand the keys until you are inside `NewStartPanel`.
 
-     {{< figure align=center src="/images/other/win10/Win_-_registry_editor_-_expand_NewStartPanel.jpeg" >}}
+     {{< figure align=center src="/images/other/win10/Win10_-_registry_editor_-_expand_NewStartPanel.jpeg" >}}
 
 {{< /collapse >}}
 
