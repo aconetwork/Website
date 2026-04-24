@@ -14,6 +14,8 @@ Tukaj je vse o kuhanju iz mojih povsem začetniških izkušenj.
   - [Chili Con Carne](/chili-con-carne-sl/ "Kliknite/tapnite, da odprete recept!")
   - [Piščanćje prsi v smetanovi omaki](/piscancje-prsi-smetanova-omaka-sl/ "Kliknite/tapnite, da odprete recept!")
   - [Rižota z grahom](/rizota-grah-sl/ "Kliknite/tapnite, da odprete recept!")
+  - [Fižolova mineštra](/fizolova-minestra-sl/ "Kliknite/tapnite, da odprete recept!")
+  - [Goveji golaž](/goveji-golaz-sl/ "Kliknite/tapnite, da odprete recept!")
 
 {{< /collapse >}}
 

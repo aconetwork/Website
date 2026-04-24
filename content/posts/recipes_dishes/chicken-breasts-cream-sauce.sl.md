@@ -33,7 +33,7 @@ language: "Slovenski"
 - 2 žlici grobo ali finu mlete rdeče paprike (po okusu).
 - Bazilika (po okusu).
 
-## Procedura
+## Postopek
 
 1. Čebulo olupimo ter jo na drobno sesekljamo.
 2. Piščančje meso narežemo na male grižljaj velike kose.

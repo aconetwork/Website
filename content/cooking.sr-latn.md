@@ -14,6 +14,8 @@ Ovde je sve o kuvanju iz mog potpuno početnog iskustva.
   - [Chili Con Carne](/chili-con-carne-sr/ "Kliknite/tapnite, da otvorite recept!")
   - [Pileče grudi u sosu od pavlake](/pilece-grudi-pavlaka-sos-sr/ "Kliknite/tapnite, da otvorite recept!")
   - [Rižota sa graškom](/rizota-grasak-sr/ "Kliknite/tapnite, da otvorite recept!")
+  - [Čorba od pasulja](/pasulj-corba-sr/ "Kliknite/tapnite, da otvorite recept!")
+  - [Goveđi gulaš](/govedzi-gulas-sr/ "Kliknite/tapnite, da otvorite recept!")
 
 {{< /collapse >}}
 

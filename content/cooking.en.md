@@ -14,6 +14,8 @@ Here is all about cooking from my very begginer experience.
   - [Chili Con Carne](/chili-con-carne-en/ "Click/tap to open the recipe!")
   - [Chicken breasts in cream sauce](/chicken-breasts-cream-sauce-en/ "Click/tap to open the recipe!")
   - [Risotto with peas](/risotto-peas-en/ "Click/tap to open the recipe!")
+  - [Bean Minestrone](/bean-minestrone-en/ "Click/tap to open the recipe!")
+  - [Beef Goulash](/beef-goulash-en/ "Click/tap to open the recipe!")
 
 {{< /collapse >}}
 

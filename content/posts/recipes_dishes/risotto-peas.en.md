@@ -32,7 +32,7 @@ language: "English"
 - Ground pepper (to taste).
 - Salt (to taste).
 
-## Procedure
+## Process
 
 1. Peel the onion and chop it finely.
 2. Wash the rice in cold water and pour out the water or wash it under water in a kitchen colander.

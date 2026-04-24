@@ -33,7 +33,7 @@ language: "English"
 - 2 tablespoons of coarse or fine ground red pepper (to taste).
 - Basil (to taste).
 
-## Procedure
+## Process
 
 1. Peel the onion and finely chop it.
 2. Cut the chicken meat into small bite-sized pieces.
