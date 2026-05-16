@@ -1,11 +1,12 @@
 ---
-title: "Fižolova mineštra recept"
+title: "Fižolova mineštra"
 date: 2026-04-24T20:27:13+02:00
 # publishDate: 2026-04-13T21:13:21+02:00
 url: /fizolova-minestra-sl/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
   - Recept
+  - Recept-jed
 tags: 
   - Recept
 showtoc: false  # Seznam vsebine: Skriti (false) ali prikazati (true)
@@ -23,7 +24,7 @@ language: "Slovenski"
 
 {{< /recipe-header >}}
 
-## Sestavine (za 2 osebi in 3 serviranja)
+## Sestavine (za 6 porcij)
 
 - 400g belega fižola iz pločevinke.
 - Zvrhana žlica moke.

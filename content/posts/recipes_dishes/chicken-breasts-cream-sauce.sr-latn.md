@@ -1,11 +1,12 @@
 ---
-title: "Pileče grudi u sosu od pavlake - recept"
+title: "Pileče grudi u sosu od pavlake"
 date: 2026-03-29T16:32:21+02:00
 # publishDate: 2026-03-29T16:32:21+02:00
 url: /pilece-grudi-pavlaka-sos-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
   - Recept
+  - Recept-jelo
 tags: 
   - Recept
 showtoc: false  # Tabela sadržaja: Sakriti (false) ili pokazati (true).
@@ -21,7 +22,7 @@ language: "Srpski"
 
 {{< /recipe-header >}}
 
-## Sastojci za 4 porcije
+## Sastojci (4 porcije)
 
 - 1,5 kašike suncokretovog ili maslinovog ulja.
 - Mali crni luk.

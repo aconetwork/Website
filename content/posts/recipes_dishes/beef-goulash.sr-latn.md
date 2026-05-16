@@ -1,11 +1,12 @@
 ---
-title: "Goveđi gulaš recept"
+title: "Goveđi gulaš"
 date: 2026-04-24T20:51:38+02:00
 # publishDate: 2026-04-24T20:51:38+02:00
 url: /govedzi-gulas-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
   - Recept
+  - Recept-jelo
 tags: 
   - Recept
 showtoc: false  # Tabela sadržaja: Sakriti (false) ili pokazati (true).
@@ -23,7 +24,7 @@ language: "Srpski"
 
 {{< /recipe-header >}}
 
-## Sastojci (za 2 osobe i 3 porcije)
+## Sastojci (za 6 porcija)
 
 - 1kg goveđeg mesa od plećke isečenog na zalogaj velike kocke ili po želji.
 - 5 srednje velikog crnog luka.

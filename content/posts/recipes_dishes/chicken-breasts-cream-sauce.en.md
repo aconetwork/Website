@@ -1,11 +1,12 @@
 ---
-title: "Chicken breasts in cream sauce - recipe"
+title: "Chicken breasts in cream sauce"
 date: 2026-03-29T16:35:07+02:00
 # publishDate: 2026-03-29T16:35:07+02:00
 url: /chicken-breasts-cream-sauce-en/
 # image: images/2024-thumbs/chicken-breasts-cream-sauce.jpg
 categories: 
   - Recipe
+  - Recipe-dish
 tags: 
   - Recipe
 showtoc: false  # Table of content: Hide (false) or show (true)
@@ -21,7 +22,7 @@ language: "English"
 
 {{< /recipe-header >}}
 
-## Ingredients for 4 servings
+## Ingredients (for 4 servings)
 
 - 1.5 tablespoons of sunflower or olive oil.
 - Small onion.

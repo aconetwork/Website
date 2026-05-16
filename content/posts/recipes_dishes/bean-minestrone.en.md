@@ -1,11 +1,12 @@
 ---
-title: "Bean Minestrone recipe"
+title: "Bean Minestrone"
 date: 2026-04-24T20:27:13+02:00
 # publishDate: 2026-04-13T22:27:29+02:00
 url: /bean-minestrone-en/
 # image: images/2024-thumbs/bean-minestrone.jpg
 categories: 
   - Recipe
+  - Recipe-dish
 tags: 
   - Recipe
 showtoc: false  # Table of content: Hide (false) or show (true)
@@ -23,7 +24,7 @@ language: "English"
 
 {{< /recipe-header >}}
 
-## Ingredients (for 2 people and 3 servings)
+## Ingredients (for 6 servings)
 
 - 400g canned white beans.
 - Heaping tablespoon of flour.

@@ -1,11 +1,12 @@
 ---
-title: "Pancakes - recipe"
+title: "Pancakes"
 date: 2026-03-13T18:38:16+01:00
 # publishDate: 2026-03-13T18:38:16+01:00
 url: /pancakes-en/
 # image: images/2024-thumbs/03-palacinke.jpg
 categories: 
   - Recipe
+  - Recipe-sweet
 tags: 
   - Recipe
 showtoc: false  # Table of content: Hide (false) or show (true)

@@ -1,11 +1,12 @@
 ---
-title: "Piščanćje prsi v smetanovi omaki - recept"
+title: "Piščanćje prsi v smetanovi omaki"
 date: 2026-03-29T15:57:54+02:00
 # publishDate: 2026-03-29T15:57:54+02:00
 url: /piscancje-prsi-smetanova-omaka-sl/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
   - Recept
+  - Recept-jed
 tags: 
   - Recept
 showtoc: false  # Seznam vsebine: Skriti (false) ali prikazati (true)
@@ -21,7 +22,7 @@ language: "Slovenski"
 
 {{< /recipe-header >}}
 
-## Sestavine za 4 porcije
+## Sestavine (za 4 porcije)
 
 - 1.5 žlice sončničnega ali olivnega olja.
 - Majhna čebula.

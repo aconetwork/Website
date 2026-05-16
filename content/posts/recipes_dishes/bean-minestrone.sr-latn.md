@@ -1,11 +1,12 @@
 ---
-title: "Čorba od pasulja recept"
+title: "Čorba od pasulja"
 date: 2026-04-24T20:27:13+02:00
 # publishDate: 2026-04-13T22:27:13+02:00
 url: /pasulj-corba-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
   - Recept
+  - Recept-jelo
 tags: 
   - Recept
 showtoc: false  # Tabela sadržaja: Sakriti (false) ili pokazati (true).
@@ -23,7 +24,7 @@ language: "Srpski"
 
 {{< /recipe-header >}}
 
-## Sastojci (za 2 osobe i 3 porcije)
+## Sastojci (za 6 porcija)
 
 - 400g belog pasulja iz konzerve.
 - Puna kašika brašna.

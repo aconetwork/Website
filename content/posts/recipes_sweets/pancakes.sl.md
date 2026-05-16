@@ -1,11 +1,12 @@
 ---
-title: "Palačinke - recept"
+title: "Palačinke"
 date: 2026-03-13T18:45:06+01:00
 # publishDate: 2026-03-13T18:45:06+01:00
 url: /palacinke-sl/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
   - Recept
+  - Recept-sladica
 tags: 
   - Recept
 showtoc: false  # Seznam vsebine: Skriti (false) ali prikazati (true)

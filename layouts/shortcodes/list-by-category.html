@@ -1,0 +1,7 @@
+{{- if .Get 0 -}}
+<ul>
+{{ range where site.RegularPages.ByTitle "Params.categories" "intersect" (slice ( .Get 0 ) ) }}
+<li><a href="{{ .RelPermalink }}" title="Click/tap to open the recipe!">{{ .Title }}</a></li>
+{{ end }}
+</ul>
+{{- end }}

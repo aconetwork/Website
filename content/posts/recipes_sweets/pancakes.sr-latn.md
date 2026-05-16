@@ -1,11 +1,12 @@
 ---
-title: "Palačinke - recept"
+title: "Palačinke"
 date: 2026-03-13T18:45:26+01:00
 # publishDate: 2026-03-13T18:45:26+01:00
 url: /palacinke-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
-  - Recept
+  - Recept 
+  - Recept-slatkis
 tags: 
   - Recept
 showtoc: false  # Tabela sadržaja: Sakriti (false) ili pokazati (true).

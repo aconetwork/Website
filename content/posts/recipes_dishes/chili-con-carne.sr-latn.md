@@ -1,11 +1,12 @@
 ---
-title: "Chili Con Carne - recept"
+title: "Chili Con Carne"
 date: 2026-03-14T20:48:01+01:00
 # publishDate: 2026-03-14T20:48:01+01:00
 url: /chili-con-carne-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
   - Recept
+  - Recept-jelo
 tags: 
   - Recept
 showtoc: false  # Tabela sadržaja: Sakriti (false) ili pokazati (true).
@@ -21,7 +22,7 @@ language: "Srpski"
 
 {{< /recipe-header >}}
 
-## Sastojci (2 osobe za 3 obroka)
+## Sastojci (za 6 porcija2 osobe za 3 obroka)
 
 - 2–3 crna luka
 - 3 čena belog luka

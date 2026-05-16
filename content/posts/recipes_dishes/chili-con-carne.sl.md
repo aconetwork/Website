@@ -1,11 +1,12 @@
 ---
-title: "Chili Con Carne - recept"
+title: "Chili Con Carne"
 date: 2026-03-14T19:42:19+01:00
 # publishDate: 2026-03-14T19:42:19+01:00
 url: /chili-con-carne-sl/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
   - Recept
+  - Recept-jed
 tags: 
   - Recept
 showtoc: false  # Seznam vsebine: Skriti (false) ali prikazati (true)
@@ -21,7 +22,7 @@ language: "Slovenski"
 
 {{< /recipe-header >}}
 
-## Sestavine (2 osebi za 3 obroke)
+## Sestavine (za 6 porcij)
 
 -	2–3 čebule
 -	3 stroki česna

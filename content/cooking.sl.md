@@ -11,17 +11,18 @@ Tukaj je vse o kuhanju iz mojih povsem začetniških izkušenj.
 
 {{< collapse summary="**Jedi**" openByDefault=true >}}
 
-  - [Chili Con Carne](/chili-con-carne-sl/ "Kliknite/tapnite, da odprete recept!")
-  - [Piščanćje prsi v smetanovi omaki](/piscancje-prsi-smetanova-omaka-sl/ "Kliknite/tapnite, da odprete recept!")
-  - [Rižota z grahom](/rizota-grah-sl/ "Kliknite/tapnite, da odprete recept!")
-  - [Fižolova mineštra](/fizolova-minestra-sl/ "Kliknite/tapnite, da odprete recept!")
-  - [Goveji golaž](/goveji-golaz-sl/ "Kliknite/tapnite, da odprete recept!")
+  {{< list-by-category Recept-jed >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Sladice**" openByDefault=true >}}
 
-  - [Preproste lahke tanke palačinke](/palacinke-sl/ "Kliknite/tapnite, da odprete recept!")
-  - [Kroglice s kokosom in keksom](/kokos-kroglice-sl/ "Kliknite/tapnite, da odprete recept!")
+  {{< list-by-category Recept-sladica >}}
+
+{{< /collapse >}}
+
+{{< collapse summary="**Omake**" openByDefault=true >}}
+
+  {{< list-by-category Recept-omaka >}}
 
 {{< /collapse >}}

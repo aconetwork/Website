@@ -1,11 +1,12 @@
 ---
-title: "Chili Con Carne - recipe"
+title: "Chili Con Carne"
 date: 2026-03-14T21:17:13+01:00
 # publishDate: 2026-03-14T21:17:13+01:00
 url: /chili-con-carne-en/
 # image: images/2024-thumbs/Chili-con-carne.jpg
 categories:
   - Recipe
+  - Recipe-dish
 tags:
   - Recipe
 showtoc: false  # Table of content: Hide (false) or show (true)
@@ -21,7 +22,7 @@ language: "English"
 
 {{< /recipe-header >}}
 
-## Ingredients (2 people for 3 servings)
+## Ingredients (for 6 servings)
 
 - 2–3 onions
 - 3 cloves of garlic

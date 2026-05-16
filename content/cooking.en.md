@@ -7,21 +7,22 @@ summary: "cooking"
 
 Here is all about cooking from my very begginer experience.
 
-## Recipies
+## Recipes
 
 {{< collapse summary="**Dishes**" openByDefault=true >}}
 
-  - [Chili Con Carne](/chili-con-carne-en/ "Click/tap to open the recipe!")
-  - [Chicken breasts in cream sauce](/chicken-breasts-cream-sauce-en/ "Click/tap to open the recipe!")
-  - [Risotto with peas](/risotto-peas-en/ "Click/tap to open the recipe!")
-  - [Bean Minestrone](/bean-minestrone-en/ "Click/tap to open the recipe!")
-  - [Beef Goulash](/beef-goulash-en/ "Click/tap to open the recipe!")
+  {{< list-by-category Recipe-dish >}}
 
 {{< /collapse >}}
 
 {{< collapse summary="**Sweets**" openByDefault=true >}}
 
-  - [Simple light thin pancakes](/pancakes-en/ "Click/tap to open the recipe!")
-  - [Coconut and biscuit balls](/coconut-balls-en/ "Click/tap to open the recipe!")
+  {{< list-by-category Recipe-sweet >}}
+
+{{< /collapse >}}
+
+{{< collapse summary="**Sauces**" openByDefault=true >}}
+
+  {{< list-by-category Recipe-sauce >}}
 
 {{< /collapse >}}

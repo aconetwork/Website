@@ -1,11 +1,12 @@
 ---
-title: "Goveji golaž recept"
+title: "Goveji golaž"
 date: 2026-04-24T21:38:49+02:00
 # publishDate: 2026-04-24T21:38:49+02:00
 url: /goveji-golaz-sl/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
   - Recept
+  - Recept-jed
 tags: 
   - Recept
 showtoc: false  # Seznam vsebine: Skriti (false) ali prikazati (true)
@@ -23,7 +24,7 @@ language: "Slovenski"
 
 {{< /recipe-header >}}
 
-## Sestavine (za 2 osebi in 3 porcije)
+## Sestavine (za 6 porcij)
 
 - 1kg govejih pleč, narezano na grižljaj velike kocke oz. po želji.
 - 5 srednje velikih čebul.

@@ -1,11 +1,12 @@
 ---
-title: "Risotto with peas - recipe"
+title: "Risotto with peas"
 date: 2026-03-29T15:43:01+02:00
 # publishDate: 2026-03-29T15:43:01+02:00
 url: /s/
 # image: images/2024-thumbs/risotto-peas.jpg
 categories: 
   - Recipe
+  - Recipe-dish
 tags: 
   - Recipe
 showtoc: false  # Table of content: Hide (false) or show (true)
@@ -21,7 +22,7 @@ language: "English"
 
 {{< /recipe-header >}}
 
-## Ingredients for 4 portions
+## Ingredients (for 4 portions)
 
 - 1.5 tablespoons of sunflower or olive oil.
 - A small piece of butter (10-15g).

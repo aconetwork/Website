@@ -1,11 +1,12 @@
 ---
-title: "Rižota sa graškom - recept"
+title: "Rižota sa graškom"
 date: 2026-03-29T14:40:13+02:00
 # publishDate: 2026-03-29T14:40:13+02:00
 url: /rizota-grasak-sr/
 # image: images/2024-thumbs/20220408-AnyDesk-quick.jpg
 categories: 
   - Recept
+  - Recept-jelo
 tags: 
   - Recept
 showtoc: false  # Tabela sadržaja: Sakriti (false) ili pokazati (true).
@@ -21,7 +22,7 @@ language: "Srpski"
 
 {{< /recipe-header >}}
 
-## Sastojci za 4 porcije
+## Sastojci (za 4 porcije)
 
 - 1,5 kašika suncokretovog ili maslinovog ulja.
 - Mali komad putera (10-15 g).

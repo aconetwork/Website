@@ -1,11 +1,12 @@
 ---
-title: "Beef Goulash recipe"
+title: "Beef Goulash"
 date: 2026-04-24T22:04:28+02:00
 # publishDate: 2026-04-24T22:04:28+02:00
 url: /beef-goulash-en/
 # image: images/2024-thumbs/beef-goulash.jpg
 categories: 
   - Recipe
+  - Recipe-dish
 tags: 
   - Recipe
 showtoc: false  # Table of content: Hide (false) or show (true)
@@ -23,7 +24,7 @@ language: "English"
 
 {{< /recipe-header >}}
 
-## Ingredients (for 2 people and 3 servings)
+## Ingredients (for 6 servings)
 
 - 1kg of beef shoulder, cut into bite-sized cubes or as desired.
 - 5 medium onions.

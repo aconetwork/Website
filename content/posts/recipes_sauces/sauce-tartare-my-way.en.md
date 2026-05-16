@@ -1,34 +1,46 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-# publishDate: {{ .Date }}
-url: /{{ .Name }}/
-# image: images/2024-thumbs/{{ .Name }}.jpg
+title: "Sauce Tartare My Way "
+date: 2026-05-15T23:48:11+02:00
+# publishDate: 2026-05-15T23:48:11+02:00
+url: /sauce-tartare-my-way-en/
+# image: images/2024-thumbs/sauce-tartare-my-way-.jpg
 categories: 
-  - How to
-  - AST
-  - AFT
-  - ART
-  - WIT
-  - Health
   - Recipe
-  - Recipe-dish
-  - Recipe-sweet
   - Recipe-sauce
 tags: 
-  - Windows
-  - Linux
-  - Ubuntu
-  - Android
-  - What is that
-  - Hardware
   - Recipe
 showtoc: false  # Table of content: Hide (false) or show (true)
-draft: true  # Draft: Show (false) or hide (true)
+draft: false  # Draft: Show (false) or hide (true)
 language: "English"
 ---
 
+{{< recipe-header >}}
 
+  <!--{{< figure align=center src="/images/Recipes/Pancakes_rolled.jpeg" float=left >}}-->
+
+  When I want a dip for lunch, this dip is often on the menu.
+
+{{< /recipe-header >}}
+
+## Ingredients (for 4 portions)
+
+- 3 heaped tablespoons mayonnaise.
+- 180g of sour cream.
+- 1 heaped teaspoon oregano.
+- 1 heaped tablespoon tomato paste (in a tube).
+- 3 pickled cucumbers.
+- 2 tablespoons pickled cucumber liquid.
+- 3 parsley sprigs.
+- 1-2 heaped teaspoons pepper.
+- A pinch of salt.
+
+## Process
+
+1. Cut the pickled cucumbers into small cubes and chop the parsley.
+2. Place all ingredients in a bowl and mix well.
+3. Serve with the meal and what is left cover it and refrigerate it.
+
+Bon appétit :).
 
 <!--*(Click on the individual step or triangle to hide or show the details (images, info, ...))*
 
@@ -55,7 +67,7 @@ language: "English"
 
 {{< /recipe-header >}}
 
-## Ingredients (for 2 people and 3 servings)
+## Ingredients (for 3 servings)
 
 - 
 
