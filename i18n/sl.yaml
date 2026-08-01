@@ -92,6 +92,9 @@
 - id: search_btn_title
   translation: "Iskanje"
 
+- id: theme_toggle_title
+  translation: "Spremenite temo (svetlo / temno)"
+
 # ----- Začetek. Obvestilo Short code prevod -----
 - id: warning
   translation: "Opozorilo"

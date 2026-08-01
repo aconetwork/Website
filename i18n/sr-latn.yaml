@@ -92,6 +92,9 @@
 - id: search_btn_title
   translation: "Traženje"
 
+- id: theme_toggle_title
+  translation: "Promenite temu (svetlo / tamno)"
+
 # ----- Početak. Obaveštenje Short code prevod -----
 - id: warning
   translation: "Upozorenje"

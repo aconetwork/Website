@@ -92,6 +92,9 @@
 - id: search_btn_title
   translation: "Searching"
 
+- id: theme_toggle_title
+  translation: "Change theme (lite / dark) "
+
 # ----- Begin. Notice Short code translation -----
 - id: warning
   translation: "Warning"
