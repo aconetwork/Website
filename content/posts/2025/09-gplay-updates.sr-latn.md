@@ -19,7 +19,7 @@ Danas je o podešavanjima ažuriranja aplikacija u Google Play prodavnici na And
 ## Podešavanja automatskih ažuriranja aplikacija
 
 {{< notice warning >}}
-  Ako ažurirate vaše aplikacije preko mobilnog interneta, budite sigurni, da ste kupili internet jer inače može račun da bude visok!
+  Ako ažurirate vaše aplikacije preko mobilnog interneta, **budite sigurni**, da ste kupili internet jer inače može račun da bude visok!
 {{< /notice >}}
 
 *(Kliknite/tapnite na pojedinačni korak ili trougao da bi sakrili ili prikazali detalje (slike, informacije, ...))*

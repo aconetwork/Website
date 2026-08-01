@@ -19,7 +19,7 @@ Danes je o nastavitvah posodobitev aplikacij v Google Play trgovini na Android n
 ## Nastavitve samodejnih posodobitev aplikacij
 
 {{< notice warning >}}
-  Če posodabljate svoje aplikacije prek mobilnega interneta, bodite prepričani, da ste kupili internet, ker je drugivise lahko drago!
+  Če posodabljate svoje aplikacije prek mobilnega interneta, **bodite prepričani**, da ste kupili internet, ker je drugivise lahko drago!
 {{< /notice >}}
 
 *(Kliknite/tapnite na posamezni korak ali trikotnik za skriti ali prikazati podrobnosti (slika, informacije, ...))*

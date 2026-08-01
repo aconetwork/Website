@@ -19,7 +19,7 @@ Today is about aplication updates settings in Google Play store settings on Andr
 ## Automatic aplications updates settings
 
 {{< notice warning >}}
-  If you are updating your applications over the mobile internet BE SURE that you bought the internet because othervise it can be expensive!
+  If you are updating your applications over the mobile internet **BE SURE** that you bought the internet because othervise it can be expensive!
 {{< /notice >}}
 
 *(Click on the individual step or triangle to hide or show the details (images, info, ...))*

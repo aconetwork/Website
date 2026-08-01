@@ -30,7 +30,7 @@ language: "Srpski"
 
 
 
-<!--*(Kliknite na pojedinačni korak ili trougao da bi sakrili ili prikazali detalje (slike, informacije, ...))*
+<!--*(Kliknite na pojedinačni korak ili trougao da sakrijete ili pokažete detalje (slike, informacije, ...))*
 
 {{< collapse summary="**Korak 1:** TEKST_OVDE" openByDefault=true >}}
 

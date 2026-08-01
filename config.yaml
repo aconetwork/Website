@@ -13,6 +13,7 @@ markup:
 params:
   ShowFullTextinRSS: false
   Description: "Website for tutorials, videos, info and more."
+  ShowCodeCopyButtons: true
 
   homeInfoParams:
     Title: "Hello stranger 👋"
