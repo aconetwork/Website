@@ -84,10 +84,10 @@ languages:
           name: "Guides"
           url: tags/
           weight: 20
-        - identifier: search
-          name: "Search"
-          url: search/
-          weight: 30
+        #- identifier: search
+        #  name: "Search"
+        #  url: search/
+        #  weight: 30
         # - identifier: archives
         #   name: "Archives"
         #   url: archives/
@@ -157,10 +157,10 @@ languages:
           name: "Vodiči"
           url: tags/
           weight: 20
-        - identifier: search
-          name: "Iskanje"
-          url: search/
-          weight: 30
+        #- identifier: search
+        #  name: "Iskanje"
+        #  url: search/
+        #  weight: 30
         #- identifier: archives
         #  name: "Arhiv"
         #  url: archives/
@@ -230,10 +230,10 @@ languages:
           name: "Tutorijali"
           url: tags/
           weight: 20
-        - identifier: search
-          name: "Traženje"
-          url: search/
-          weight: 30
+        #- identifier: search
+        #  name: "Traženje"
+        #  url: search/
+        #  weight: 30
         #- identifier: archives
         #  name: "Arhiva"
         #  url: archives/

@@ -89,6 +89,9 @@
 - id: series_wit_title
   translation: "What Is That"
 
+- id: search_btn_title
+  translation: "Searching"
+
 # ----- Begin. Notice Short code translation -----
 - id: warning
   translation: "Warning"

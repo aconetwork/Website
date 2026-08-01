@@ -89,6 +89,9 @@
 - id: series_wit_title
   translation: "What Is That"
 
+- id: search_btn_title
+  translation: "Iskanje"
+
 # ----- Začetek. Obvestilo Short code prevod -----
 - id: warning
   translation: "Opozorilo"
