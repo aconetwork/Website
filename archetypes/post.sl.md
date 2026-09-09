@@ -72,6 +72,7 @@ Dober tek :).
 
 ## Video verzija
 
+*(..2025, 18:00 / 06:00 PM, časovni pas: CET / UTC+1 / GMT+1)*
 *(..2025, 18:00 / 06:00 PM, časovni pas: CEST / UTC+2 / GMT+2)*
 
 {{< youtube "O1DA0HpFK-4" >}}

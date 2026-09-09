@@ -7,6 +7,7 @@ categories:
   - AST
   - health
 tags: 
+  - AST
   - health
 showtoc: true  # Table of content to hide (false) or show (true).
 draft: false  # Show (false) or hide (true) on page.

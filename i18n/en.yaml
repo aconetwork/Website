@@ -60,25 +60,25 @@
   translation: "Tags"
 
 - id: series_abt_title_logo
-  translation: "(NO POSTS YET) Aco Builds Tech (ABT) - building computers and more..."
+  translation: "Aco Builds Tech (ABT) - building computers and more..."
 
 - id: series_abt_title
   translation: "Aco Builds Tech"
 
 - id: series_aft_title_logo
-  translation: "(NO POSTS YET) Aco Fixes Tech (AFT) - fixing computers, devices, ..."
+  translation: "Aco Fixes Tech (AFT) - fixing computers, devices, ..."
 
 - id: series_aft_title
   translation: "Aco Fixes Tech"
 
 - id: series_art_title_logo
-  translation: "(NO POSTS YET) Aco Reviews Tech (ART) - reviewing devices, things, ..."
+  translation: "Aco Reviews Tech (ART) - reviewing devices, things, ..."
 
 - id: series_art_title
   translation: "Aco Reviews Tech"
 
 - id: series_ast_title_logo
-  translation: "(NO POSTS YET) Aco's Story Time (AST) - Telling you storries"
+  translation: "Aco's Story Time (AST) - Telling you storries"
 
 - id: series_ast_title
   translation: "Aco's Story Time"

@@ -7,6 +7,7 @@ categories:
   - AST
   - zdravje
 tags: 
+  - AST
   - zdravlje
 showtoc: true  # Table of content to hide (false) or show (true).
 draft: false  # Show (false) or hide (true) on page.
