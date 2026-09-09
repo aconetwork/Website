@@ -70,6 +70,10 @@ Dober tek :).
 
 
 
+## Povezave
+
+- [Linux tutoriali na tej strani](/sl/tags/linux/ "kliknite/tapnite, da odprete spletno stran!")
+
 ## Video verzija
 
 *(..2025, 18:00 / 06:00 PM, časovni pas: CET / UTC+1 / GMT+1)*

@@ -67,6 +67,10 @@ Prijatno =).
 
 
 
+## Linkovi
+
+- [Linux tutoriali na ovoj stranici](/sr-latn/tags/linux/ "kliknite/tapnite, da otvorite veb stranicu!")
+
 ## Video verzija
 
 *(..2025, 18:00 / 06:00 PM, vremenska zona: CET / UTC+1 / GMT+1)*

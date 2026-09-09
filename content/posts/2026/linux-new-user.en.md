@@ -427,8 +427,9 @@ Now when the new user is created and restart the computer to apply changes and t
 
 ## Links
 
-- [Linux tutorial playlist](https://www.youtube.com/playlist?list=PLAqqAAF5KyKw "Click/tap to open the site!")
 - [Linux Mint](https://linuxmint.com "Click/tap to open the site!")
+- [Linux tutorial playlist](https://www.youtube.com/playlist?list=PLAqqAAF5KyKw "Click/tap to open the site!")
+- [Linux tutorials on this site](/en/tags/linux/ "Click/tap to open the site!")
 
 ## Video version
 

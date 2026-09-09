@@ -425,10 +425,11 @@ Sada kada je novi korisnik kreiran, ponovo pokrenite računar da potvrdite prome
 
 {{< /collapse >}}
 
-## Povezave
+## Linkovi
 
-- [Plejlista Linux tutorijala](https://www.youtube.com/playlist?list=PLAqqAAF5KyKw "kliknite/tapnite, da otvorite veb stranicu!")
 - [Linux Mint](https://linuxmint.com "kliknite/tapnite, da otvorite veb stranicu!")
+- [Plejlista Linux tutorijala](https://www.youtube.com/playlist?list=PLAqqAAF5KyKw "kliknite/tapnite, da otvorite veb stranicu!")
+- [Linux tutoriali na ovoj stranici](/sr-latn/tags/linux/ "kliknite/tapnite, da otvorite veb stranicu!")
 
 ## Video verzija
 

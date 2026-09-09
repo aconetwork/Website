@@ -425,10 +425,11 @@ Ko je nov uporabnik ustvarjen ponovno zaženite računalnik za uveljavitev sprem
 
 {{< /collapse >}}
 
-## Links
+## Povezave
 
-- [Predvajalna lista Linux vodičev](https://www.youtube.com/playlist?list=PLAqqAAF5KyKw "kliknite/tapnite, da odprete spletno stran!")
 - [Linux Mint](https://linuxmint.com "kliknite/tapnite, da odprete spletno stran!")
+- [Predvajalna lista Linux vodičev](https://www.youtube.com/playlist?list=PLAqqAAF5KyKw "kliknite/tapnite, da odprete spletno stran!")
+- [Linux tutoriali na tej strani](/sl/tags/linux/ "kliknite/tapnite, da odprete spletno stran!")
 
 ## Video verzija
 

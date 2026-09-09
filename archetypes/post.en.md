@@ -67,6 +67,9 @@ Bon appétit :).
 
 
 
+## Links
+
+- [Linux tutorials on this site](/en/tags/linux/ "Click/tap to open the site!")
 
 ## Video version
 
