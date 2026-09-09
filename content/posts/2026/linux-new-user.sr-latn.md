@@ -425,6 +425,17 @@ Sada kada je novi korisnik kreiran, ponovo pokrenite računar da potvrdite prome
 
 {{< /collapse >}}
 
+## Povezave
+
+- [Plejlista Linux tutorijala](https://www.youtube.com/playlist?list=PLAqqAAF5KyKw "kliknite/tapnite, da otvorite veb stranicu!")
+- [Linux Mint](https://linuxmint.com "kliknite/tapnite, da otvorite veb stranicu!")
+
+## Video verzija
+
+*(13.09.2026, 18:00 / 06:00 PM, vremenska zona: CEST / UTC+2 / GMT+2)*
+
+{{< youtube "oGCeoq4J0k8" >}}
+
 
 
 <!--*(kliknemo na pojedinačni korak ili trougao da sakrijete ili pokažete detalje (slike, informacije, ...))*
@@ -437,7 +448,7 @@ Sada kada je novi korisnik kreiran, ponovo pokrenite računar da potvrdite prome
 
 *(Ovaj tutorijal je napravljen sa 64-bitnim Windows 11 24H2)*
 
-[]( "kliknemo/tapnite, da otvorite veb stranicu!")
+[]( "kliknite/tapnite, da otvorite veb stranicu!")
 ![](/images/social-logos/X.png)
 
 {{< figure align=center src="/images/Brave/PICTURE.jpeg" title="" float=left >}}

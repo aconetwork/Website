@@ -425,6 +425,16 @@ Ko je nov uporabnik ustvarjen ponovno zaženite računalnik za uveljavitev sprem
 
 {{< /collapse >}}
 
+## Links
+
+- [Predvajalna lista Linux vodičev](https://www.youtube.com/playlist?list=PLAqqAAF5KyKw "kliknite/tapnite, da odprete spletno stran!")
+- [Linux Mint](https://linuxmint.com "kliknite/tapnite, da odprete spletno stran!")
+
+## Video verzija
+
+*(12.09.2026, 18:00 / 06:00 PM, časovni pas: CEST / UTC+2 / GMT+2)*
+
+{{< youtube "ZwxbPpXjqks" >}}
 
 
 <!--*(kliknite/tapnite na posamezni korak ali trikotnik za skriti ali prikazati podrobnosti (slika, informacije, ...))*
@@ -437,7 +447,7 @@ Ko je nov uporabnik ustvarjen ponovno zaženite računalnik za uveljavitev sprem
 
 *(Ta vodič je bil narejen na 64-bitnem Windows 11 24H2)*
 
-[]( "kliknemo/tapnite, da odprete spletno stran!")
+[]( "kliknite/tapnite, da odprete spletno stran!")
 ![](/images/social-logos/X.png)
 
 {{< figure align=center src="/images/Brave/PICTURE.jpeg" title="" float=left >}}

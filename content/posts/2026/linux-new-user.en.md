@@ -425,6 +425,17 @@ Now when the new user is created and restart the computer to apply changes and t
 
 {{< /collapse >}}
 
+## Links
+
+- [Linux tutorial playlist](https://www.youtube.com/playlist?list=PLAqqAAF5KyKw "Click/tap to open the site!")
+- [Linux Mint](https://linuxmint.com "Click/tap to open the site!")
+
+## Video version
+
+*(11.09.2026, 18:00 / 06:00 PM, timezone: CEST / UTC+2 / GMT+2)*
+
+{{< youtube "Nu2t9lKPnbU" >}}
+
 <!--*(Click on the individual step or triangle to hide or show the details (images, info, ...))*
 
 {{< collapse summary="**Step 1:** TEXTHERE" openByDefault=true >}}
